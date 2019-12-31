@@ -134,3 +134,23 @@
 [21:42:05] [Server thread/INFO]: kroberts11 left the game
 [21:42:46] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/63090, l='world', x=1556.81, y=63.00, z=-1480.95]
 [21:42:46] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/63090, l='world', x=1556.81, y=63.00, z=-1480.95]
+[21:52:42] [Server thread/INFO]: <katjarroberts> where is the place
+[21:52:48] [Server thread/INFO]: <katjarroberts> in the nether world
+[21:52:55] [Server thread/INFO]: <katjarroberts> the fancy castle place
+[21:52:59] [Server thread/INFO]: <katjarroberts> i casnt see it
+[21:55:51] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[21:55:51] [Server thread/INFO]: katjarroberts left the game
+[22:01:51] [Server thread/INFO]: GotchaGR04 lost connection: Timed out
+[22:01:51] [Server thread/INFO]: GotchaGR04 left the game
+[22:14:10] [Server thread/INFO]: Stopping server
+[22:14:10] [Server thread/INFO]: Saving players
+[22:14:10] [Server thread/INFO]: Saving worlds
+[22:14:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:14:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:14:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:14:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:14:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:14:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:14:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:14:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:14:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
