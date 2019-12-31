@@ -1,0 +1,136 @@
+[09:09:34] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[09:09:34] [Server thread/INFO]: GotchaGR04 left the game
+[09:09:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33244257ms or 664885 ticks behind
+[09:28:44] [User Authenticator #6/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[09:28:44] [Server thread/INFO]: marikaroberts[/97.113.11.14:43263] logged in with entity id 9735 at (1513.7511977241813, 68.0, -1473.0315609817317)
+[09:28:44] [Server thread/INFO]: marikaroberts joined the game
+[09:29:40] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[09:29:40] [Server thread/INFO]: marikaroberts left the game
+[09:56:09] [User Authenticator #7/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[09:56:09] [Server thread/INFO]: marikaroberts[/97.113.11.14:37687] logged in with entity id 10089 at (1513.7511977241813, 68.0, -1473.0315609817317)
+[09:56:09] [Server thread/INFO]: marikaroberts joined the game
+[09:59:17] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[09:59:17] [Server thread/INFO]: marikaroberts left the game
+[10:35:21] [User Authenticator #8/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[10:35:21] [Server thread/INFO]: katjarroberts[/97.113.11.14:48628] logged in with entity id 10648 at (1521.3968504846935, 69.0, -1470.762499988079)
+[10:35:21] [Server thread/INFO]: katjarroberts joined the game
+[11:16:47] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[11:16:47] [Server thread/INFO]: katjarroberts left the game
+[12:08:49] [User Authenticator #9/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[12:08:49] [Server thread/INFO]: katjarroberts[/97.113.11.14:33736] logged in with entity id 17441 at (1510.9671065916573, 70.0, -1466.24417587529)
+[12:08:49] [Server thread/INFO]: katjarroberts joined the game
+[12:09:48] [User Authenticator #10/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[12:09:48] [Server thread/INFO]: GotchaGR04[/97.113.11.14:33399] logged in with entity id 17776 at (1526.030556555327, 62.91945801792259, -1385.195920442501)
+[12:09:48] [Server thread/INFO]: GotchaGR04 joined the game
+[12:11:22] [Server thread/INFO]: katjarroberts has made the advancement [Fishy Business]
+[12:13:37] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/18313, l='world', x=1559.56, y=63.00, z=-1485.54]
+[12:52:23] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/24055, l='world', x=1557.54, y=63.00, z=-1484.54]
+[13:08:33] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[13:08:33] [Server thread/INFO]: katjarroberts left the game
+[15:52:39] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[15:52:39] [Server thread/INFO]: GotchaGR04 left the game
+[15:52:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9846588ms or 196931 ticks behind
+[17:40:29] [User Authenticator #11/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[17:40:29] [Server thread/INFO]: katjarroberts[/24.17.14.137:45949] logged in with entity id 26912 at (1522.6010560101645, 66.76636799395752, -1444.199216203318)
+[17:40:29] [Server thread/INFO]: katjarroberts joined the game
+[17:41:51] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/27366, l='world', x=1558.01, y=63.00, z=-1484.59]
+[17:44:01] [User Authenticator #12/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[17:44:01] [Server thread/INFO]: GotchaGR04[/24.17.14.137:36915] logged in with entity id 27675 at (1488.925000011921, 65.0, -1398.7164361116968)
+[17:44:01] [Server thread/INFO]: GotchaGR04 joined the game
+[17:55:56] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[17:55:56] [Server thread/INFO]: katjarroberts left the game
+[17:56:28] [User Authenticator #13/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[17:56:28] [Server thread/INFO]: katjarroberts[/24.17.14.137:44754] logged in with entity id 29761 at (1495.9103450022453, 68.0, -1456.0807100368568)
+[17:56:28] [Server thread/INFO]: katjarroberts joined the game
+[17:57:17] [User Authenticator #14/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[17:57:17] [Server thread/INFO]: kroberts11[/24.18.230.115:51761] logged in with entity id 29882 at (1503.0322803654567, 67.0, -1441.2373617543026)
+[17:57:17] [Server thread/INFO]: kroberts11 joined the game
+[17:57:57] [User Authenticator #15/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[17:57:58] [Server thread/INFO]: marikaroberts[/24.17.14.137:48905] logged in with entity id 29985 at (1518.9655347571452, 69.0, -1470.699999988079)
+[17:57:58] [Server thread/INFO]: marikaroberts joined the game
+[18:04:29] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[18:04:29] [Server thread/INFO]: GotchaGR04 left the game
+[18:06:28] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[18:06:28] [Server thread/INFO]: katjarroberts left the game
+[18:07:16] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[18:07:16] [Server thread/INFO]: kroberts11 left the game
+[18:08:04] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[18:08:04] [Server thread/INFO]: marikaroberts left the game
+[19:30:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3186887ms or 63737 ticks behind
+[19:39:27] [User Authenticator #16/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[19:39:27] [Server thread/INFO]: kroberts11[/24.18.230.115:52179] logged in with entity id 31789 at (1678.600207271476, 9.0, -1524.3395264046353)
+[19:39:27] [Server thread/INFO]: kroberts11 joined the game
+[20:12:26] [Server thread/INFO]: kroberts11 was blown up by Creeper
+[20:12:35] [Server thread/WARN]: kroberts11 moved too quickly! -161.50170797189048,54.0000002,329.5098164658491
+[20:12:44] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
+[20:17:15] [Server thread/INFO]: [kroberts11: Set own game mode to Spectator Mode]
+[20:17:18] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
+[20:17:21] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/43870, l='world', x=1557.83, y=63.00, z=-1485.63]
+[20:23:42] [User Authenticator #17/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[20:23:42] [Server thread/INFO]: katjarroberts[/24.17.14.137:38290] logged in with entity id 44590 at (1520.9818447228247, 69.5625, -1465.1055941232762)
+[20:23:42] [Server thread/INFO]: katjarroberts joined the game
+[20:23:56] [Server thread/INFO]: <katjarroberts> i called
+[20:23:59] [Server thread/INFO]: <kroberts11> oh sorry
+[20:24:14] [Server thread/INFO]: <kroberts11> i can't charge my phone cause I forgot my charger
+[20:24:15] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/44671, l='world', x=1558.50, y=63.00, z=-1480.83]
+[20:24:15] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/44671, l='world', x=1558.50, y=63.00, z=-1480.83]
+[20:24:21] [Server thread/INFO]: <kroberts11> and I need it as an alarm
+[20:24:26] [Server thread/INFO]: <kroberts11> so I can't use it right now
+[20:24:38] [Server thread/INFO]: <katjarroberts> oh you cant do it on computer
+[20:24:39] [Server thread/INFO]: <kroberts11> i'll get my laptop
+[20:24:43] [Server thread/INFO]: <katjarroberts> i see
+[20:24:51] [Server thread/INFO]: <katjarroberts> ohh ur on ur desktop
+[20:26:54] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[20:26:57] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/44998, l='world', x=1559.90, y=63.00, z=-1482.00]
+[20:26:57] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/44998, l='world', x=1559.90, y=63.00, z=-1482.00]
+[20:29:45] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/45374, l='world', x=1558.05, y=63.00, z=-1481.19]
+[20:29:45] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/45374, l='world', x=1558.05, y=63.00, z=-1481.19]
+[20:34:51] [Server thread/WARN]: kroberts11 moved wrongly!
+[20:35:49] [Server thread/WARN]: katjarroberts moved wrongly!
+[20:37:39] [Server thread/INFO]: katjarroberts was impaled by Drowned
+[20:38:56] [Server thread/WARN]: kroberts11 moved wrongly!
+[20:40:00] [User Authenticator #18/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[20:40:00] [Server thread/INFO]: GotchaGR04[/24.17.14.137:44574] logged in with entity id 47973 at (1521.699999988079, 73.0, -1469.1529539554779)
+[20:40:00] [Server thread/INFO]: GotchaGR04 joined the game
+[20:40:28] [User Authenticator #19/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[20:40:29] [Server thread/INFO]: marikaroberts[/24.17.14.137:38895] logged in with entity id 48091 at (1520.7553471565898, 73.0, -1464.5180995008557)
+[20:40:29] [Server thread/INFO]: marikaroberts joined the game
+[20:42:05] [Server thread/WARN]: kroberts11 moved wrongly!
+[20:48:20] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/49793, l='world', x=1559.50, y=63.00, z=-1482.53]
+[20:48:20] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/49793, l='world', x=1559.50, y=63.00, z=-1482.53]
+[20:50:09] [Server thread/WARN]: Fetching packet for removed entity avy['Raw Beef'/50119, l='world', x=1495.04, y=65.00, z=-1400.08]
+[20:50:09] [Server thread/WARN]: Fetching packet for removed entity avy['Leather'/50118, l='world', x=1495.00, y=65.00, z=-1400.00]
+[20:54:34] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/50846, l='world', x=1559.36, y=63.00, z=-1486.17]
+[20:54:34] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/50846, l='world', x=1559.36, y=63.00, z=-1486.17]
+[20:55:35] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/50972, l='world', x=1559.52, y=63.00, z=-1483.04]
+[20:55:35] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/50972, l='world', x=1559.52, y=63.00, z=-1483.04]
+[20:55:35] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/50972, l='world', x=1559.52, y=63.00, z=-1483.04]
+[20:55:35] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/50972, l='world', x=1559.52, y=63.00, z=-1483.04]
+[21:08:08] [Server thread/INFO]: <marikaroberts> jungle cat
+[21:14:48] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/56605, l='world', x=1557.86, y=63.00, z=-1483.68]
+[21:14:48] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/56605, l='world', x=1557.86, y=63.00, z=-1483.68]
+[21:14:48] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/56605, l='world', x=1557.86, y=63.00, z=-1483.68]
+[21:14:48] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/56605, l='world', x=1557.86, y=63.00, z=-1483.68]
+[21:17:33] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/57300, l='world', x=1560.55, y=63.00, z=-1483.99]
+[21:17:33] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/57300, l='world', x=1560.55, y=63.00, z=-1483.99]
+[21:17:33] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/57300, l='world', x=1560.55, y=63.00, z=-1483.99]
+[21:28:47] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/59636, l='world', x=1556.37, y=63.00, z=-1482.46]
+[21:30:57] [Server thread/INFO]: kroberts11 burned to death
+[21:33:14] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
+[21:33:38] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
+[21:35:04] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[21:35:04] [Server thread/INFO]: marikaroberts left the game
+[21:37:37] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/62141, l='world', x=1559.63, y=63.00, z=-1481.17]
+[21:37:37] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/62141, l='world', x=1559.63, y=63.00, z=-1481.17]
+[21:37:37] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/62141, l='world', x=1559.63, y=63.00, z=-1481.17]
+[21:39:02] [Server thread/INFO]: <katjarroberts> mama is irritated
+[21:39:12] [Server thread/INFO]: <kroberts11> indeed
+[21:39:14] [Server thread/INFO]: <katjarroberts> we may have to leave soon so she doesnt blow up
+[21:39:25] [Server thread/INFO]: <kroberts11> i should go to bed soon anyway
+[21:39:59] [Server thread/INFO]: <katjarroberts> can we easily move chests in any way
+[21:41:39] [Server thread/INFO]: kroberts11 tried to swim in lava
+[21:41:45] [Server thread/INFO]: <kroberts11> rip
+[21:42:05] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[21:42:05] [Server thread/INFO]: kroberts11 left the game
+[21:42:46] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/63090, l='world', x=1556.81, y=63.00, z=-1480.95]
+[21:42:46] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/63090, l='world', x=1556.81, y=63.00, z=-1480.95]
