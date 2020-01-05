@@ -625,6 +625,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:ocelot": "2020-01-05 13:49:01 -0800",
       "minecraft:cow": "2019-12-28 12:38:39 -0800",
       "minecraft:chicken": "2019-12-30 12:38:42 -0800"
     },
@@ -1161,6 +1162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2020-01-05 14:11:58 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2019-12-28 17:51:11 -0800"
@@ -1212,6 +1219,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2019-12-28 14:05:14 -0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-01-05 14:05:15 -0800"
     },
     "done": true
   },
@@ -1972,6 +1985,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2020-01-03 16:50:04 -0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2020-01-05 13:03:55 -0800"
     },
     "done": true
   },

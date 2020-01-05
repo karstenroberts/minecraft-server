@@ -1,47 +1,279 @@
-[09:32:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:32:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:32:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:32:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:32:19] [Server thread/INFO]: Starting minecraft server version 1.15.1
-[09:32:19] [Server thread/INFO]: Loading properties
-[09:32:19] [Server thread/INFO]: Default game type: SURVIVAL
-[09:32:19] [Server thread/INFO]: Generating keypair
-[09:32:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:32:19] [Server thread/INFO]: Using default channel type
-[09:32:19] [Server thread/INFO]: Preparing level "world"
-[09:32:19] [Server thread/INFO]: Reloading ResourceManager: Default
-[09:32:26] [Server thread/INFO]: Loaded 6 recipes
-[09:32:27] [Server thread/INFO]: Loaded 825 advancements
-[09:32:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:32:29] [Server thread/INFO]: Preparing spawn area: 0%
-[09:32:29] [Server thread/INFO]: Preparing spawn area: 0%
-[09:32:29] [Server thread/INFO]: Preparing spawn area: 0%
-[09:32:29] [Server thread/INFO]: Preparing spawn area: 0%
-[09:32:29] [Server thread/INFO]: Preparing spawn area: 0%
-[09:32:30] [Server thread/INFO]: Preparing spawn area: 0%
-[09:32:36] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[09:32:36] [Server-Worker-6/INFO]: Preparing spawn area: 83%
-[09:32:36] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[09:32:36] [Server-Worker-5/INFO]: Preparing spawn area: 83%
-[09:32:36] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[09:32:36] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[09:32:36] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[09:32:36] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[09:32:36] [Server-Worker-6/INFO]: Preparing spawn area: 83%
-[09:32:36] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[09:32:36] [Server-Worker-3/INFO]: Preparing spawn area: 83%
-[09:32:36] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[09:32:36] [Server-Worker-6/INFO]: Preparing spawn area: 94%
-[09:32:37] [Server-Worker-6/INFO]: Preparing spawn area: 94%
-[09:32:37] [Server-Worker-7/INFO]: Preparing spawn area: 94%
-[09:32:38] [Server-Worker-1/INFO]: Preparing spawn area: 95%
-[09:32:38] [Server-Worker-5/INFO]: Preparing spawn area: 96%
-[09:32:39] [Server-Worker-7/INFO]: Preparing spawn area: 98%
-[09:32:39] [Server thread/INFO]: Time elapsed: 11703 ms
-[09:32:39] [Server thread/INFO]: Done (19.813s)! For help, type "help"
-[09:32:51] [User Authenticator #1/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[09:32:51] [Server thread/INFO]: kroberts11[/192.168.100.39:62732] logged in with entity id 69 at (1514.6827781777663, 69.0, -1468.1867719849156)
-[09:32:51] [Server thread/INFO]: kroberts11 joined the game
-[09:36:07] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/787, l='world', x=1556.78, y=63.00, z=-1482.74]
-[10:03:54] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[10:03:54] [Server thread/INFO]: kroberts11 left the game
+[10:20:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:20:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:20:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:20:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:20:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:20:10] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[10:20:10] [Server thread/INFO]: Loading properties
+[10:20:10] [Server thread/INFO]: Default game type: SURVIVAL
+[10:20:10] [Server thread/INFO]: Generating keypair
+[10:20:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:20:11] [Server thread/INFO]: Using default channel type
+[10:20:11] [Server thread/INFO]: Preparing level "world"
+[10:20:11] [Server thread/INFO]: Reloading ResourceManager: Default
+[10:20:15] [Server thread/INFO]: Loaded 6 recipes
+[10:20:16] [Server thread/INFO]: Loaded 825 advancements
+[10:20:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:20:17] [Server thread/INFO]: Preparing spawn area: 0%
+[10:20:17] [Server thread/INFO]: Preparing spawn area: 0%
+[10:20:17] [Server thread/INFO]: Preparing spawn area: 0%
+[10:20:19] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[10:20:19] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[10:20:19] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[10:20:19] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[10:20:19] [Server-Worker-7/INFO]: Preparing spawn area: 94%
+[10:20:20] [Server-Worker-6/INFO]: Preparing spawn area: 94%
+[10:20:20] [Server-Worker-2/INFO]: Preparing spawn area: 97%
+[10:20:21] [Server thread/INFO]: Time elapsed: 4749 ms
+[10:20:21] [Server thread/INFO]: Done (9.741s)! For help, type "help"
+[10:20:54] [User Authenticator #1/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[10:20:55] [Server thread/INFO]: kroberts11[/192.168.100.39:62789] logged in with entity id 68 at (1518.9842484672176, 65.0, -1468.9096890388485)
+[10:20:55] [Server thread/INFO]: kroberts11 joined the game
+[10:25:10] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/1236, l='world', x=1557.87, y=63.00, z=-1480.83]
+[10:25:36] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[10:25:36] [Server thread/INFO]: kroberts11 left the game
+[10:25:49] [User Authenticator #2/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[10:25:49] [Server thread/INFO]: marikaroberts[/192.168.100.63:55106] logged in with entity id 1305 at (1519.9617033373472, 69.0, -1471.699999988079)
+[10:25:49] [Server thread/INFO]: marikaroberts joined the game
+[10:27:44] [User Authenticator #3/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[10:27:44] [Server thread/INFO]: katjarroberts[/192.168.100.55:51991] logged in with entity id 1775 at (1514.2439622441957, 69.0, -1465.5015803602985)
+[10:27:44] [Server thread/INFO]: katjarroberts joined the game
+[10:28:53] [User Authenticator #4/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[10:28:53] [Server thread/INFO]: kroberts11[/192.168.100.39:62834] logged in with entity id 1897 at (1543.4078777933169, 78.0, -1459.8257191127047)
+[10:28:53] [Server thread/INFO]: kroberts11 joined the game
+[10:34:30] [Server thread/WARN]: marikaroberts moved wrongly!
+[10:36:06] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/3650, l='world', x=1560.57, y=63.00, z=-1481.50]
+[10:38:46] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/4275, l='world', x=1557.84, y=63.00, z=-1485.67]
+[10:42:20] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/5267, l='world', x=1557.83, y=63.00, z=-1485.25]
+[10:42:30] [Server thread/INFO]: katjarroberts lost connection: Timed out
+[10:42:30] [Server thread/INFO]: katjarroberts left the game
+[10:42:41] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[10:42:41] [Server thread/INFO]: kroberts11 left the game
+[10:42:56] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[10:42:56] [Server thread/INFO]: marikaroberts left the game
+[12:09:29] [User Authenticator #5/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[12:09:29] [Server thread/INFO]: marikaroberts[/192.168.100.63:55613] logged in with entity id 5389 at (1518.8468477619701, 73.0, -1466.3012434757366)
+[12:09:29] [Server thread/INFO]: marikaroberts joined the game
+[12:12:30] [Server thread/INFO]: marikaroberts has made the advancement [Enchanter]
+[12:14:14] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[12:14:14] [Server thread/INFO]: marikaroberts left the game
+[12:31:15] [User Authenticator #6/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[12:31:15] [Server thread/INFO]: katjarroberts[/192.168.100.55:52113] logged in with entity id 6202 at (96.80528573234821, 63.0, -336.69999998807907)
+[12:31:15] [Server thread/INFO]: katjarroberts joined the game
+[12:33:29] [User Authenticator #7/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[12:33:29] [Server thread/INFO]: kroberts11[/192.168.100.39:63763] logged in with entity id 6567 at (98.10716924584145, 63.0, -352.0958117750645)
+[12:33:29] [Server thread/INFO]: kroberts11 joined the game
+[12:35:19] [User Authenticator #8/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[12:35:19] [Server thread/INFO]: marikaroberts[/192.168.100.63:55750] logged in with entity id 6754 at (1518.6461242052465, 73.0, -1467.494941985141)
+[12:35:19] [Server thread/INFO]: marikaroberts joined the game
+[12:36:42] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[12:36:42] [Server thread/INFO]: kroberts11 left the game
+[12:37:50] [Server thread/WARN]: katjarroberts moved too quickly! 7.970309545517708,0.0,6.063629938688564
+[12:39:48] [User Authenticator #9/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[12:39:48] [Server thread/INFO]: kroberts11[/192.168.100.39:63771] logged in with entity id 7956 at (111.49963917563832, 61.0, -365.2079541062595)
+[12:39:48] [Server thread/INFO]: kroberts11 joined the game
+[12:39:52] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[12:39:52] [Server thread/INFO]: kroberts11 left the game
+[12:40:48] [User Authenticator #10/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[12:40:48] [Server thread/INFO]: kroberts11[/192.168.100.39:63777] logged in with entity id 8171 at (111.49963917563832, 61.0, -365.2079541062595)
+[12:40:48] [Server thread/INFO]: kroberts11 joined the game
+[12:41:04] [Server thread/INFO]: marikaroberts lost connection: Timed out
+[12:41:04] [Server thread/INFO]: marikaroberts left the game
+[12:41:04] [Server thread/WARN]: handleDisconnection() called twice
+[12:41:25] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[12:41:25] [Server thread/INFO]: kroberts11 left the game
+[12:42:11] [User Authenticator #11/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[12:42:11] [Server thread/INFO]: marikaroberts[/192.168.100.63:55881] logged in with entity id 8347 at (1509.6308401474034, 69.0, -1470.2479572564678)
+[12:42:11] [Server thread/INFO]: marikaroberts joined the game
+[12:43:23] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[12:43:23] [Server thread/INFO]: katjarroberts left the game
+[12:48:32] [User Authenticator #12/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[12:48:32] [Server thread/INFO]: kroberts11[/192.168.100.39:63792] logged in with entity id 10011 at (111.03556966415886, 65.0, -349.5972544685892)
+[12:48:32] [Server thread/INFO]: kroberts11 joined the game
+[12:48:43] [User Authenticator #13/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[12:48:43] [Server thread/INFO]: katjarroberts[/192.168.100.55:52172] logged in with entity id 10186 at (111.8656796284888, 63.0, -343.149154995993)
+[12:48:43] [Server thread/INFO]: katjarroberts joined the game
+[12:50:40] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/10770, l='world', x=1560.21, y=63.00, z=-1483.42]
+[12:50:40] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/10770, l='world', x=1560.21, y=63.00, z=-1483.42]
+[12:50:46] [Server thread/INFO]: katjarroberts was fireballed by Blaze
+[12:51:14] [User Authenticator #14/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[12:51:14] [Server thread/INFO]: GotchaGR04[/192.168.100.127:56932] logged in with entity id 10871 at (1518.929095157192, 65.5625, -1471.5175818356843)
+[12:51:14] [Server thread/INFO]: GotchaGR04 joined the game
+[12:51:31] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[12:51:31] [Server thread/INFO]: marikaroberts left the game
+[12:53:36] [User Authenticator #15/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[12:53:36] [Server thread/INFO]: marikaroberts[/192.168.100.63:56031] logged in with entity id 11179 at (1514.495586370622, 68.0, -1469.0900941988875)
+[12:53:36] [Server thread/INFO]: marikaroberts joined the game
+[13:02:14] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[13:02:14] [Server thread/INFO]: kroberts11 left the game
+[13:02:56] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/12367, l='world', x=1557.45, y=63.00, z=-1484.54]
+[13:02:56] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/12367, l='world', x=1557.45, y=63.00, z=-1484.54]
+[13:02:56] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/12367, l='world', x=1557.45, y=63.00, z=-1484.54]
+[13:03:55] [Server thread/INFO]: GotchaGR04 has made the advancement [Fishy Business]
+[13:04:59] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/12626, l='world', x=1556.35, y=63.00, z=-1482.72]
+[13:04:59] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/12626, l='world', x=1556.35, y=63.00, z=-1482.72]
+[13:04:59] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/12626, l='world', x=1556.35, y=63.00, z=-1482.72]
+[13:06:41] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/12828, l='world', x=1559.83, y=63.00, z=-1485.84]
+[13:06:41] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/12828, l='world', x=1559.83, y=63.00, z=-1485.84]
+[13:06:41] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/12828, l='world', x=1559.83, y=63.00, z=-1485.84]
+[13:10:59] [User Authenticator #16/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[13:10:59] [Server thread/INFO]: kroberts11[/192.168.100.39:63835] logged in with entity id 13384 at (1539.6119716614007, 74.0, -1459.9106091399742)
+[13:10:59] [Server thread/INFO]: kroberts11 joined the game
+[13:12:03] [Server thread/WARN]: marikaroberts moved too quickly! 9.842148199433268,-0.875,2.2392051414251455
+[13:12:36] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/14050, l='world', x=1560.82, y=63.00, z=-1485.09]
+[13:12:36] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/14050, l='world', x=1560.82, y=63.00, z=-1485.09]
+[13:12:36] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/14050, l='world', x=1560.82, y=63.00, z=-1485.09]
+[13:15:05] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/14619, l='world', x=1557.14, y=63.00, z=-1484.67]
+[13:15:05] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/14619, l='world', x=1557.14, y=63.00, z=-1484.67]
+[13:15:05] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/14619, l='world', x=1557.14, y=63.00, z=-1484.67]
+[13:23:15] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/16754, l='world', x=1556.83, y=63.00, z=-1484.17]
+[13:23:15] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/16754, l='world', x=1556.83, y=63.00, z=-1484.17]
+[13:23:15] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/16754, l='world', x=1556.83, y=63.00, z=-1484.17]
+[13:23:31] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[13:23:31] [Server thread/INFO]: marikaroberts left the game
+[13:27:30] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[13:27:30] [Server thread/INFO]: kroberts11 left the game
+[13:28:24] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/17877, l='world', x=1555.83, y=63.00, z=-1483.17]
+[13:28:24] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/17877, l='world', x=1555.83, y=63.00, z=-1483.17]
+[13:28:41] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/17911, l='world', x=1557.57, y=63.00, z=-1482.77]
+[13:28:41] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/17911, l='world', x=1557.57, y=63.00, z=-1482.77]
+[13:36:12] [User Authenticator #17/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[13:36:12] [Server thread/INFO]: kroberts11[/192.168.100.39:63903] logged in with entity id 18836 at (110.23113440621341, 62.0, -346.5221819368622)
+[13:36:12] [Server thread/INFO]: kroberts11 joined the game
+[13:37:21] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/19122, l='world', x=1560.46, y=63.00, z=-1484.03]
+[13:37:21] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/19122, l='world', x=1560.46, y=63.00, z=-1484.03]
+[13:38:00] [User Authenticator #18/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[13:38:00] [Server thread/INFO]: marikaroberts[/192.168.100.63:57008] logged in with entity id 19282 at (1520.5068195603906, 69.0, -1467.6904672565843)
+[13:38:00] [Server thread/INFO]: marikaroberts joined the game
+[13:38:07] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/19339, l='world', x=1558.44, y=63.00, z=-1486.09]
+[13:38:07] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/19339, l='world', x=1558.44, y=63.00, z=-1486.09]
+[13:38:07] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/19339, l='world', x=1558.44, y=63.00, z=-1486.09]
+[13:38:39] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/19447, l='world', x=1559.94, y=63.00, z=-1482.51]
+[13:38:39] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/19447, l='world', x=1559.94, y=63.00, z=-1482.51]
+[13:38:39] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/19447, l='world', x=1559.94, y=63.00, z=-1482.51]
+[13:40:37] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[13:40:37] [Server thread/INFO]: kroberts11 left the game
+[13:47:55] [Server thread/INFO]: marikaroberts fell from a high place
+[13:50:05] [Server thread/INFO]: GotchaGR04 fell from a high place
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 0.8841630448066553,0.0,-10.324242195938496
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 0.8998290742799782,0.0,-10.723574192682236
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 0.9149139833727986,0.0,-11.122960834890364
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 0.9294643827108757,0.0,-11.522396944862521
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 0.9435260555871992,0.0,-11.921877762085614
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 0.9571363731167821,0.0,-12.321399091504873
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 0.9703328031498586,0.0,-12.720957060713772
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 0.9831490666927039,0.0,-13.120548188271641
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 0.9956155125917121,0.0,-13.52016933715663
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.0077632887139316,0.0,-13.919817594642382
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.0196165941747495,0.0,-14.31949042868223
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.031201042141447,0.0,-14.719185467301713
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.0425396843477301,0.0,-15.118900579449246
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.053653267469599,0.0,-15.518633843453244
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.0645604634571555,0.0,-15.91838353353478
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.07527807700626,0.0,-16.31814809276716
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.085821232459466,0.0,-16.717926119916683
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.0962035416084746,0.0,-17.117716353872993
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.1064410890876388,0.0,-17.517517573955274
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.1165445171031934,0.0,-17.91732876723222
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.126527237604705,0.0,-18.317148936384
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.1363974872660947,0.0,-18.716977269504923
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.1461665131739665,0.0,-19.116812950197527
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.1558406036840552,0.0,-19.516655325661077
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.1654292523382992,0.0,-19.916503726418114
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.174941003324193,0.0,-20.316357549939312
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.184379712446571,0.0,-20.71621633962991
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.1937526838935355,0.0,-21.116079598872602
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.2030664914341287,0.0,-21.515946880712136
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.2123270514603064,0.0,-21.91581778288878
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.221539688724988,0.0,-22.315691943368847
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.2307091955053693,0.0,-22.715569036321767
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.2398360507704638,0.0,-23.115448854181977
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.2489245196727552,0.0,-23.5153311244585
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.2579784408496835,0.0,-23.915215601909722
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.2670012690743988,0.0,-24.31510206581811
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.2759961136428046,0.0,-24.714990317537968
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.284965772921396,0.0,-25.114880178288104
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.2939127654396998,0.0,-25.51477148716549
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.3028393578742907,0.0,-25.914664099357196
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.3117475902338356,0.0,-26.31455788453195
+[13:52:06] [Server thread/WARN]: GotchaGR04 moved too quickly! 5.194128060360072,-9.584354139212522,0.07360537334511719
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.3206392985264301,0.0,-26.71445272539131
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.3295161351593379,0.0,-27.114348516366817
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.3383757533347307,0.0,-27.514245244403128
+[13:52:06] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! 1.3472198748986557,0.0,-27.91414281579432
+[13:55:58] [Server thread/WARN]: marikaroberts moved wrongly!
+[13:57:09] [Server thread/WARN]: katjarroberts moved too quickly! -8.609899796805848,0.0,-5.367263382942838
+[13:57:19] [Server thread/WARN]: marikaroberts moved wrongly!
+[13:57:24] [Server thread/WARN]: marikaroberts moved wrongly!
+[14:05:15] [Server thread/INFO]: GotchaGR04 has made the advancement [Best Friends Forever]
+[14:05:28] [Server thread/WARN]: marikaroberts moved wrongly!
+[14:06:37] [Server thread/WARN]: GotchaGR04 moved wrongly!
+[14:08:36] [Server thread/INFO]: katjarroberts lost connection: Timed out
+[14:08:36] [Server thread/INFO]: katjarroberts left the game
+[14:10:47] [User Authenticator #19/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[14:10:47] [Server thread/INFO]: kroberts11[/192.168.100.39:63942] logged in with entity id 27404 at (115.0723964996924, 60.0, -349.79479605717535)
+[14:10:47] [Server thread/INFO]: kroberts11 joined the game
+[14:10:56] [User Authenticator #20/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[14:10:56] [Server thread/INFO]: katjarroberts[/192.168.100.55:52312] logged in with entity id 27535 at (135.2716807668663, 78.0, -323.0229798740664)
+[14:10:56] [Server thread/INFO]: katjarroberts joined the game
+[14:21:37] [Server thread/INFO]: GotchaGR04 lost connection: Timed out
+[14:21:37] [Server thread/INFO]: GotchaGR04 left the game
+[14:25:15] [User Authenticator #21/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[14:25:15] [Server thread/INFO]: GotchaGR04[/192.168.100.127:60160] logged in with entity id 32119 at (1517.7851736865296, 69.0, -1469.3847804570912)
+[14:25:15] [Server thread/INFO]: GotchaGR04 joined the game
+[14:27:11] [Server thread/WARN]: katjarroberts moved too quickly! 7.038683077879725,0.0,-7.239055769901142
+[14:27:28] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/33131, l='world', x=1559.60, y=63.00, z=-1480.83]
+[14:35:33] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/35503, l='world', x=1561.17, y=63.00, z=-1481.12]
+[14:36:08] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/35756, l='world', x=1560.10, y=63.00, z=-1485.32]
+[14:36:44] [Server thread/INFO]: marikaroberts burned to death
+[14:39:43] [Server thread/INFO]: kroberts11 burned to death
+[14:40:55] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/37275, l='world', x=1558.98, y=63.00, z=-1484.63]
+[14:43:38] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=106, y=57, z=-358} fk{x=106, y=56, z=-359}
+[14:43:39] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=106, y=56, z=-360} fk{x=106, y=57, z=-358}
+[14:47:54] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=107, y=56, z=-354} fk{x=107, y=55, z=-355}
+[14:47:54] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=107, y=56, z=-354} fk{x=107, y=55, z=-355}
+[14:47:54] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=107, y=56, z=-354} fk{x=107, y=55, z=-355}
+[14:51:00] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/40853, l='world', x=1558.55, y=63.00, z=-1482.81]
+[14:53:20] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/41477, l='world', x=1558.08, y=63.00, z=-1483.96]
+[14:55:05] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/41935, l='world', x=1559.50, y=63.00, z=-1485.73]
+[14:55:05] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/41935, l='world', x=1559.50, y=63.00, z=-1485.73]
+[14:57:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15:00:52] [Server thread/INFO]: marikaroberts fell from a high place
+[15:00:55] [Server thread/INFO]: <kroberts11> rip
+[15:04:50] [Server thread/INFO]: marikaroberts fell from a high place
+[15:04:53] [Server thread/INFO]: <kroberts11> rip
+[15:10:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15:10:48] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/47424, l='world', x=1556.44, y=63.00, z=-1483.11]
+[15:12:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15:17:17] [Server thread/INFO]: <GotchaGR04> what are we doing
+[15:17:17] [Server thread/WARN]: marikaroberts moved too quickly! 0.0,0.0,-10.145240155085787
+[15:17:20] [Server thread/INFO]: <kroberts11> digging
+[15:17:21] [Server thread/WARN]: katjarroberts moved too quickly! -10.0,0.0,0.10000000000002274
+[15:17:24] [Server thread/INFO]: <kroberts11> a hole
+[15:17:25] [Server thread/INFO]: <GotchaGR04> why
+[15:17:29] [Server thread/INFO]: <kroberts11> diggy diggy hole
+[15:17:33] [Server thread/INFO]: <kroberts11> i'm digging a hole
+[15:17:43] [Server thread/INFO]: <kroberts11> blaze farm to get experience faster
+[15:17:49] [Server thread/INFO]: <kroberts11> so we can enchant things
+[15:18:02] [Server thread/INFO]: <katjarroberts> just follow the lines
+[15:22:16] [Server thread/WARN]: marikaroberts moved wrongly!
+[15:27:19] [Server thread/WARN]: katjarroberts moved wrongly!
+[15:31:03] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/54499, l='world', x=1557.23, y=63.00, z=-1481.65]
+[15:37:00] [Server thread/INFO]: marikaroberts fell from a high place
+[15:38:23] [Server thread/INFO]: GotchaGR04 fell from a high place
+[15:41:04] [Server thread/WARN]: Fetching packet for removed entity avy['Nether Quartz'/56927, l='world', x=109.68, y=85.84, z=-331.02]
+[15:44:09] [Server thread/INFO]: GotchaGR04 went up in flames
+[15:45:08] [Server thread/INFO]: katjarroberts was slain by Blaze
+[15:46:19] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[15:46:19] [Server thread/INFO]: GotchaGR04 left the game
+[15:46:22] [User Authenticator #22/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[15:46:22] [Server thread/INFO]: GotchaGR04[/192.168.100.127:60418] logged in with entity id 58272 at (1517.3747860936865, 69.0, -1467.6070066092177)
+[15:46:22] [Server thread/INFO]: GotchaGR04 joined the game
+[15:47:34] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[15:47:34] [Server thread/INFO]: kroberts11 left the game
+[15:47:45] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[15:47:45] [Server thread/INFO]: katjarroberts left the game
+[15:47:46] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[15:47:46] [Server thread/INFO]: marikaroberts left the game
+[15:48:02] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[15:48:02] [Server thread/INFO]: GotchaGR04 left the game
