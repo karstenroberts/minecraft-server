@@ -984,6 +984,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2020-01-06 21:14:47 -0800",
       "minecraft:spider": "2020-01-03 23:35:25 -0800"
     },
     "done": false
@@ -1261,6 +1262,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2020-01-03 16:50:04 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-01-06 21:14:51 -0800"
     },
     "done": true
   },
@@ -1720,6 +1727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-01-06 21:14:51 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-12-26 21:45:35 -0800"
@@ -1777,6 +1790,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2019-12-26 20:17:53 -0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-01-06 21:14:51 -0800"
     },
     "done": true
   },

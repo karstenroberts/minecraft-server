@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2020-01-06 19:36:06 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-12-28 21:27:57 -0800"
@@ -344,6 +350,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-12-26 19:56:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2020-01-06 21:37:29 -0800"
     },
     "done": true
   },
@@ -574,13 +586,16 @@
       "minecraft:magma_cube": "2019-12-28 13:44:32 -0800",
       "minecraft:spider": "2019-12-29 23:00:25 -0800",
       "minecraft:creeper": "2019-12-26 21:11:37 -0800",
+      "minecraft:slime": "2020-01-05 21:55:15 -0800",
+      "minecraft:phantom": "2020-01-08 20:20:24 -0800",
       "minecraft:witch": "2020-01-03 23:00:35 -0800",
       "minecraft:wither_skeleton": "2020-01-04 12:02:26 -0800",
       "minecraft:cave_spider": "2020-01-03 23:20:50 -0800",
       "minecraft:enderman": "2019-12-28 13:43:24 -0800",
       "minecraft:silverfish": "2019-12-28 21:38:17 -0800",
       "minecraft:zombie": "2019-12-26 20:51:32 -0800",
-      "minecraft:drowned": "2019-12-28 17:11:57 -0800"
+      "minecraft:drowned": "2019-12-28 17:11:57 -0800",
+      "minecraft:zombie_villager": "2020-01-05 21:30:54 -0800"
     },
     "done": false
   },
@@ -692,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-01-06 21:37:29 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2019-12-26 21:49:12 -0800"
@@ -701,6 +722,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2019-12-26 20:58:11 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-01-05 20:09:41 -0800"
     },
     "done": true
   },
@@ -722,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2020-01-08 20:21:39 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2019-12-26 20:58:11 -0800"
@@ -737,6 +770,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2019-12-26 20:59:30 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-01-06 21:37:29 -0800"
     },
     "done": true
   },
@@ -1058,6 +1097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-01-05 21:55:29 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-12-26 19:40:03 -0800"
@@ -1073,6 +1118,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-01-03 17:07:48 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2020-01-06 21:37:29 -0800"
     },
     "done": true
   },
@@ -1225,6 +1276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-01-06 21:37:29 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2019-12-26 21:49:12 -0800"
@@ -1234,6 +1291,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2020-01-03 22:51:05 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-01-05 20:09:41 -0800"
     },
     "done": true
   },
@@ -1324,6 +1387,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2020-01-04 22:09:23 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-01-06 21:37:29 -0800"
     },
     "done": true
   },
@@ -1549,8 +1618,10 @@
       "cooked_mutton": "2019-12-28 17:20:40 -0800",
       "sweet_berries": "2019-12-26 19:38:02 -0800",
       "cooked_beef": "2019-12-28 21:53:10 -0800",
+      "cooked_cod": "2020-01-05 21:38:36 -0800",
       "bread": "2019-12-30 20:56:48 -0800",
       "rotten_flesh": "2019-12-26 20:53:28 -0800",
+      "salmon": "2020-01-05 21:45:45 -0800",
       "melon_slice": "2019-12-28 21:29:19 -0800",
       "cooked_chicken": "2019-12-26 20:16:02 -0800",
       "mushroom_stew": "2019-12-28 14:06:17 -0800",
@@ -1567,6 +1638,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2019-12-30 20:11:27 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-01-05 20:09:41 -0800"
     },
     "done": true
   },
@@ -1678,6 +1755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2020-01-06 21:37:29 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2019-12-26 19:25:24 -0800"
@@ -1722,6 +1805,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:ocelot": "2020-01-05 20:10:01 -0800",
       "minecraft:cow": "2019-12-27 18:58:46 -0800",
       "minecraft:chicken": "2019-12-28 13:28:24 -0800"
     },
@@ -1931,6 +2015,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2020-01-08 20:21:39 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2019-12-28 13:40:04 -0800"
@@ -1979,6 +2069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2020-01-08 20:21:39 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-12-26 20:38:21 -0800"
@@ -2000,6 +2096,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2019-12-30 21:34:52 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-01-05 21:55:29 -0800"
     },
     "done": true
   },
@@ -2303,9 +2405,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-01-05 21:55:29 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2019-12-26 20:58:11 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2020-01-06 21:37:29 -0800"
     },
     "done": true
   },
@@ -2366,6 +2480,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-12-26 20:34:49 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-01-05 20:12:44 -0800"
     },
     "done": true
   },
