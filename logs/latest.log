@@ -1,1 +1,78 @@
-[19:24:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 70337580ms or 1406751 ticks behind
+[18:19:42] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:19:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:19:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:19:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:19:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:19:45] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[18:19:45] [Server thread/INFO]: Loading properties
+[18:19:45] [Server thread/INFO]: Default game type: SURVIVAL
+[18:19:45] [Server thread/INFO]: Generating keypair
+[18:19:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:19:45] [Server thread/INFO]: Using default channel type
+[18:19:45] [Server thread/INFO]: Preparing level "world"
+[18:19:45] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:19:49] [Server thread/INFO]: Loaded 6 recipes
+[18:19:50] [Server thread/INFO]: Loaded 825 advancements
+[18:19:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:19:51] [Server thread/INFO]: Preparing spawn area: 0%
+[18:19:51] [Server thread/INFO]: Preparing spawn area: 0%
+[18:19:51] [Server thread/INFO]: Preparing spawn area: 18%
+[18:19:53] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[18:19:53] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[18:19:53] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[18:19:53] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[18:19:53] [Server thread/INFO]: Preparing spawn area: 83%
+[18:19:54] [Server thread/INFO]: Preparing spawn area: 94%
+[18:19:54] [Server-Worker-2/INFO]: Preparing spawn area: 95%
+[18:19:55] [Server thread/INFO]: Time elapsed: 5002 ms
+[18:19:55] [Server thread/INFO]: Done (9.674s)! For help, type "help"
+[18:21:41] [User Authenticator #1/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[18:21:41] [Server thread/INFO]: katjarroberts[/10.0.1.55:63210] logged in with entity id 115 at (1509.023430174062, 69.875, -1468.6094107197557)
+[18:21:41] [Server thread/INFO]: katjarroberts joined the game
+[18:23:08] [User Authenticator #2/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[18:23:08] [Server thread/INFO]: kroberts11[/10.0.1.59:60460] logged in with entity id 474 at (1514.7269439881413, 69.0, -1468.9732496156928)
+[18:23:08] [Server thread/INFO]: kroberts11 joined the game
+[18:24:19] [Server thread/INFO]: <katjarroberts> mission?
+[18:24:27] [Server thread/INFO]: <kroberts11> *shrug*
+[18:24:33] [Server thread/INFO]: <kroberts11> whatever you want
+[18:24:33] [Server thread/INFO]: <katjarroberts> thanks
+[18:24:39] [Server thread/INFO]: <katjarroberts> i forgot
+[18:24:45] [Server thread/INFO]: <katjarroberts> what i was working on
+[18:24:56] [Server thread/INFO]: <katjarroberts> but clearly i died doing it
+[18:24:57] [Server thread/INFO]: <kroberts11> well we got the xp farm running
+[18:25:08] [Server thread/INFO]: <katjarroberts> yes true
+[18:25:14] [Server thread/INFO]: <kroberts11> there are bees
+[18:25:19] [Server thread/INFO]: <kroberts11> i don't know how they work
+[18:25:20] [Server thread/INFO]: <katjarroberts> where
+[18:25:32] [Server thread/INFO]: <kroberts11> if we find enough ender eyes we can go to the end
+[18:25:36] [Server thread/INFO]: <kroberts11> i don't know :P
+[18:25:49] [Server thread/INFO]: <katjarroberts> ok so go die from enders
+[18:25:58] [Server thread/INFO]: <kroberts11> we could look for a village so we find actual cats
+[18:26:03] [Server thread/INFO]: <katjarroberts> true
+[18:26:51] [Server thread/INFO]: <katjarroberts> seee anything
+[18:26:56] [Server thread/INFO]: <kroberts11> nope
+[18:27:12] [Server thread/INFO]: <kroberts11> pick a direction and we can just walk
+[18:27:47] [Server thread/INFO]: <katjarroberts> heheh
+[18:28:03] [Server thread/INFO]: <kroberts11> you need food first
+[18:28:12] [Server thread/INFO]: <katjarroberts> how much
+[18:28:19] [Server thread/INFO]: <kroberts11> some?
+[18:28:22] [Server thread/INFO]: <katjarroberts> will a map help
+[18:28:23] [Server thread/INFO]: <kroberts11> alot
+[18:28:29] [Server thread/INFO]: <kroberts11> no probably not
+[18:28:57] [Server thread/INFO]: <katjarroberts> what for
+[18:28:58] [Server thread/INFO]: <kroberts11> ohhh maybe a bed
+[18:29:26] [Server thread/INFO]: <katjarroberts> we have no wool
+[18:30:14] [Server thread/INFO]: <katjarroberts> ok
+[18:30:18] [Server thread/INFO]: <kroberts11> ready?
+[18:30:22] [Server thread/INFO]: <katjarroberts> why the fishing rods
+[18:30:29] [Server thread/INFO]: <kroberts11> i didn't want them lol
+[18:30:33] [Server thread/INFO]: <kroberts11> i found them in a chest
+[18:30:48] [Server thread/INFO]: <katjarroberts> well why both for me
+[18:46:51] [Server thread/WARN]: Fetching packet for removed entity axm['Zombie'/5490, l='world', x=678.50, y=22.35, z=-232.60]
+[18:54:57] [Server thread/WARN]: kroberts11 moved too quickly! 2.862946905608055,0.0,9.723966943761866
+[18:54:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2623ms or 52 ticks behind
+[18:55:04] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[18:55:04] [Server thread/INFO]: kroberts11 left the game
+[19:01:30] [Server thread/INFO]: katjarroberts lost connection: Timed out
+[19:01:30] [Server thread/INFO]: katjarroberts left the game
+[19:01:30] [Server thread/WARN]: handleDisconnection() called twice
