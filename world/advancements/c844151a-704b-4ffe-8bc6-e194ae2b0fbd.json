@@ -293,6 +293,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2020-01-19 12:58:44 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2020-01-19 13:30:17 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-12-26 20:25:07 -0800"
@@ -332,6 +344,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-12-26 19:40:03 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-01-19 13:16:17 -0800"
     },
     "done": true
   },
@@ -493,9 +511,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2020-01-19 13:30:17 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-12-26 19:40:03 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-01-19 13:16:17 -0800"
     },
     "done": true
   },
@@ -582,7 +612,9 @@
       "minecraft:pillager": "2019-12-27 19:03:45 -0800",
       "minecraft:blaze": "2020-01-02 22:33:00 -0800",
       "minecraft:skeleton": "2019-12-26 20:18:49 -0800",
+      "minecraft:ravager": "2020-01-19 13:38:28 -0800",
       "minecraft:ghast": "2019-12-28 14:08:13 -0800",
+      "minecraft:vindicator": "2020-01-19 13:35:51 -0800",
       "minecraft:magma_cube": "2019-12-28 13:44:32 -0800",
       "minecraft:spider": "2019-12-29 23:00:25 -0800",
       "minecraft:creeper": "2019-12-26 21:11:37 -0800",
@@ -836,6 +868,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-12-28 21:27:57 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2020-01-19 13:30:17 -0800"
     },
     "done": true
   },
@@ -1130,22 +1168,28 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-12-28 14:54:22 -0800",
+      "minecraft:snowy_mountains": "2020-01-19 13:18:41 -0800",
       "minecraft:mountains": "2019-12-26 19:39:28 -0800",
       "minecraft:forest": "2019-12-26 20:42:31 -0800",
       "minecraft:taiga": "2019-12-26 19:20:32 -0800",
+      "minecraft:snowy_tundra": "2020-01-19 13:20:37 -0800",
       "minecraft:taiga_hills": "2019-12-26 19:10:38 -0800",
+      "minecraft:frozen_river": "2020-01-19 13:23:05 -0800",
       "minecraft:jungle": "2019-12-28 14:54:42 -0800",
       "minecraft:birch_forest": "2019-12-28 14:47:08 -0800",
       "minecraft:jungle_hills": "2019-12-28 14:54:50 -0800",
+      "minecraft:snowy_beach": "2020-01-19 13:17:47 -0800",
       "minecraft:deep_lukewarm_ocean": "2019-12-28 14:34:44 -0800",
       "minecraft:beach": "2019-12-28 14:32:46 -0800",
       "minecraft:dark_forest": "2019-12-28 14:38:05 -0800",
       "minecraft:river": "2019-12-26 19:38:19 -0800",
       "minecraft:lukewarm_ocean": "2019-12-28 14:32:13 -0800",
+      "minecraft:snowy_taiga": "2020-01-19 13:18:08 -0800",
       "minecraft:wooded_mountains": "2019-12-26 19:41:59 -0800",
       "minecraft:wooded_hills": "2019-12-28 14:45:29 -0800",
       "minecraft:stone_shore": "2019-12-28 14:53:45 -0800",
       "minecraft:swamp": "2019-12-28 14:46:34 -0800",
+      "minecraft:snowy_taiga_hills": "2020-01-19 13:18:44 -0800",
       "minecraft:plains": "2019-12-26 20:59:15 -0800"
     },
     "done": false
@@ -1279,6 +1323,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2020-01-06 21:37:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-01-19 13:16:17 -0800"
     },
     "done": true
   },
@@ -1459,6 +1509,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2019-12-28 12:57:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2020-01-19 13:39:38 -0800"
     },
     "done": true
   },
@@ -1955,6 +2011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2020-01-19 12:58:44 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2019-12-28 21:27:57 -0800"
@@ -2063,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-01-19 13:41:50 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2019-12-26 21:41:19 -0800"
@@ -2102,6 +2170,12 @@
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_slime_ball": "2020-01-05 21:55:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2020-01-19 13:33:21 -0800"
     },
     "done": true
   },
@@ -2150,6 +2224,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2019-12-28 12:41:51 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2020-01-19 13:31:03 -0800"
     },
     "done": true
   },
@@ -2465,6 +2545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2020-01-19 13:30:17 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2019-12-30 20:11:27 -0800"
@@ -2504,6 +2590,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2020-01-02 22:33:01 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-01-19 13:33:11 -0800"
     },
     "done": true
   },
@@ -2552,6 +2644,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-01-03 22:50:46 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2020-01-19 13:31:03 -0800"
     },
     "done": true
   },

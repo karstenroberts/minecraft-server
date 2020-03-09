@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-01-19 14:08:10 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-12-28 12:36:52 -0800"
@@ -494,6 +500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-01-19 14:08:10 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2019-12-28 17:53:39 -0800"
@@ -618,6 +630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-01-19 14:08:10 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2019-12-28 17:09:22 -0800"
@@ -702,9 +720,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2020-01-19 13:45:18 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2019-12-28 14:29:57 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-01-19 14:08:10 -0800"
     },
     "done": true
   },
@@ -960,6 +990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-01-19 14:08:10 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2019-12-28 17:53:39 -0800"
@@ -1065,10 +1101,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2019-12-28 14:55:48 -0800",
+      "minecraft:snowy_mountains": "2020-01-19 13:28:36 -0800",
       "minecraft:forest": "2019-12-26 19:50:13 -0800",
       "minecraft:mountains": "2019-12-26 19:41:50 -0800",
       "minecraft:taiga": "2019-12-26 19:24:34 -0800",
+      "minecraft:snowy_tundra": "2020-01-19 13:28:30 -0800",
       "minecraft:taiga_hills": "2019-12-26 19:23:11 -0800",
+      "minecraft:frozen_river": "2020-01-19 13:28:20 -0800",
       "minecraft:jungle": "2019-12-28 14:55:41 -0800",
       "minecraft:birch_forest": "2019-12-28 14:47:11 -0800",
       "minecraft:jungle_hills": "2019-12-28 14:55:43 -0800",
@@ -1506,6 +1545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-01-19 14:08:10 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-12-28 17:42:24 -0800"
@@ -1521,6 +1566,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2020-01-03 22:43:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-01-19 14:08:10 -0800"
     },
     "done": true
   },
@@ -1786,6 +1837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-01-19 14:08:10 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2019-12-26 19:45:22 -0800"
@@ -1954,6 +2011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2020-01-19 13:45:18 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2019-12-28 14:10:23 -0800"
@@ -1993,6 +2056,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2019-12-26 22:00:04 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2020-01-19 13:45:18 -0800"
     },
     "done": true
   },
@@ -2071,6 +2140,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2019-12-28 12:52:03 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-01-19 14:08:10 -0800"
     },
     "done": true
   },
@@ -2296,6 +2371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-01-19 14:08:10 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-01-03 23:41:45 -0800"
@@ -2359,6 +2440,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2019-12-26 21:58:26 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-01-19 14:08:10 -0800"
     },
     "done": true
   },
@@ -2554,15 +2641,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-01-19 14:08:10 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2019-12-28 12:52:03 -0800"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-01-19 14:08:10 -0800"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-12-28 12:36:52 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-01-19 14:08:10 -0800"
     },
     "done": true
   },

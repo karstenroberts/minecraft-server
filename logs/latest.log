@@ -1,78 +1,111 @@
-[18:19:42] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:19:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:19:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:19:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:19:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:19:45] [Server thread/INFO]: Starting minecraft server version 1.15.1
-[18:19:45] [Server thread/INFO]: Loading properties
-[18:19:45] [Server thread/INFO]: Default game type: SURVIVAL
-[18:19:45] [Server thread/INFO]: Generating keypair
-[18:19:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:19:45] [Server thread/INFO]: Using default channel type
-[18:19:45] [Server thread/INFO]: Preparing level "world"
-[18:19:45] [Server thread/INFO]: Reloading ResourceManager: Default
-[18:19:49] [Server thread/INFO]: Loaded 6 recipes
-[18:19:50] [Server thread/INFO]: Loaded 825 advancements
-[18:19:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:19:51] [Server thread/INFO]: Preparing spawn area: 0%
-[18:19:51] [Server thread/INFO]: Preparing spawn area: 0%
-[18:19:51] [Server thread/INFO]: Preparing spawn area: 18%
-[18:19:53] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[18:19:53] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[18:19:53] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[18:19:53] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[18:19:53] [Server thread/INFO]: Preparing spawn area: 83%
-[18:19:54] [Server thread/INFO]: Preparing spawn area: 94%
-[18:19:54] [Server-Worker-2/INFO]: Preparing spawn area: 95%
-[18:19:55] [Server thread/INFO]: Time elapsed: 5002 ms
-[18:19:55] [Server thread/INFO]: Done (9.674s)! For help, type "help"
-[18:21:41] [User Authenticator #1/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
-[18:21:41] [Server thread/INFO]: katjarroberts[/10.0.1.55:63210] logged in with entity id 115 at (1509.023430174062, 69.875, -1468.6094107197557)
-[18:21:41] [Server thread/INFO]: katjarroberts joined the game
-[18:23:08] [User Authenticator #2/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[18:23:08] [Server thread/INFO]: kroberts11[/10.0.1.59:60460] logged in with entity id 474 at (1514.7269439881413, 69.0, -1468.9732496156928)
-[18:23:08] [Server thread/INFO]: kroberts11 joined the game
-[18:24:19] [Server thread/INFO]: <katjarroberts> mission?
-[18:24:27] [Server thread/INFO]: <kroberts11> *shrug*
-[18:24:33] [Server thread/INFO]: <kroberts11> whatever you want
-[18:24:33] [Server thread/INFO]: <katjarroberts> thanks
-[18:24:39] [Server thread/INFO]: <katjarroberts> i forgot
-[18:24:45] [Server thread/INFO]: <katjarroberts> what i was working on
-[18:24:56] [Server thread/INFO]: <katjarroberts> but clearly i died doing it
-[18:24:57] [Server thread/INFO]: <kroberts11> well we got the xp farm running
-[18:25:08] [Server thread/INFO]: <katjarroberts> yes true
-[18:25:14] [Server thread/INFO]: <kroberts11> there are bees
-[18:25:19] [Server thread/INFO]: <kroberts11> i don't know how they work
-[18:25:20] [Server thread/INFO]: <katjarroberts> where
-[18:25:32] [Server thread/INFO]: <kroberts11> if we find enough ender eyes we can go to the end
-[18:25:36] [Server thread/INFO]: <kroberts11> i don't know :P
-[18:25:49] [Server thread/INFO]: <katjarroberts> ok so go die from enders
-[18:25:58] [Server thread/INFO]: <kroberts11> we could look for a village so we find actual cats
-[18:26:03] [Server thread/INFO]: <katjarroberts> true
-[18:26:51] [Server thread/INFO]: <katjarroberts> seee anything
-[18:26:56] [Server thread/INFO]: <kroberts11> nope
-[18:27:12] [Server thread/INFO]: <kroberts11> pick a direction and we can just walk
-[18:27:47] [Server thread/INFO]: <katjarroberts> heheh
-[18:28:03] [Server thread/INFO]: <kroberts11> you need food first
-[18:28:12] [Server thread/INFO]: <katjarroberts> how much
-[18:28:19] [Server thread/INFO]: <kroberts11> some?
-[18:28:22] [Server thread/INFO]: <katjarroberts> will a map help
-[18:28:23] [Server thread/INFO]: <kroberts11> alot
-[18:28:29] [Server thread/INFO]: <kroberts11> no probably not
-[18:28:57] [Server thread/INFO]: <katjarroberts> what for
-[18:28:58] [Server thread/INFO]: <kroberts11> ohhh maybe a bed
-[18:29:26] [Server thread/INFO]: <katjarroberts> we have no wool
-[18:30:14] [Server thread/INFO]: <katjarroberts> ok
-[18:30:18] [Server thread/INFO]: <kroberts11> ready?
-[18:30:22] [Server thread/INFO]: <katjarroberts> why the fishing rods
-[18:30:29] [Server thread/INFO]: <kroberts11> i didn't want them lol
-[18:30:33] [Server thread/INFO]: <kroberts11> i found them in a chest
-[18:30:48] [Server thread/INFO]: <katjarroberts> well why both for me
-[18:46:51] [Server thread/WARN]: Fetching packet for removed entity axm['Zombie'/5490, l='world', x=678.50, y=22.35, z=-232.60]
-[18:54:57] [Server thread/WARN]: kroberts11 moved too quickly! 2.862946905608055,0.0,9.723966943761866
-[18:54:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2623ms or 52 ticks behind
-[18:55:04] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[18:55:04] [Server thread/INFO]: kroberts11 left the game
-[19:01:30] [Server thread/INFO]: katjarroberts lost connection: Timed out
-[19:01:30] [Server thread/INFO]: katjarroberts left the game
-[19:01:30] [Server thread/WARN]: handleDisconnection() called twice
+[12:56:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:56:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:56:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:56:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:56:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:56:09] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[12:56:09] [Server thread/INFO]: Loading properties
+[12:56:09] [Server thread/INFO]: Default game type: SURVIVAL
+[12:56:09] [Server thread/INFO]: Generating keypair
+[12:56:09] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:273) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:283) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:344) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:297) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at wd$2.run(SourceFile:109) [server.jar:?]
+[12:56:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:56:09] [Server thread/INFO]: Using default channel type
+[12:56:09] [Server thread/INFO]: Preparing level "world"
+[12:56:09] [Server thread/INFO]: Reloading ResourceManager: Default
+[12:56:11] [Server thread/INFO]: Loaded 6 recipes
+[12:56:11] [Server thread/INFO]: Loaded 825 advancements
+[12:56:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:56:12] [Server thread/INFO]: Preparing spawn area: 0%
+[12:56:12] [Server thread/INFO]: Preparing spawn area: 21%
+[12:56:14] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[12:56:14] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[12:56:14] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[12:56:14] [Server-Worker-6/INFO]: Preparing spawn area: 94%
+[12:56:15] [Server-Worker-1/INFO]: Preparing spawn area: 98%
+[12:56:15] [Server thread/INFO]: Time elapsed: 3054 ms
+[12:56:15] [Server thread/INFO]: Done (5.361s)! For help, type "help"
+[12:56:37] [User Authenticator #1/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[12:56:37] [Server thread/INFO]: katjarroberts[/97.113.191.9:46761] logged in with entity id 115 at (387.23746820536, 64.0, 622.579661799408)
+[12:56:37] [Server thread/INFO]: katjarroberts joined the game
+[12:57:31] [User Authenticator #2/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[12:57:31] [Server thread/INFO]: kroberts11[/24.18.230.115:50049] logged in with entity id 517 at (368.0998026471091, 64.0, 619.8246005011168)
+[12:57:31] [Server thread/INFO]: kroberts11 joined the game
+[12:58:10] [Server thread/INFO]: [kroberts11: Teleported katjarroberts to 1563.5, 123.0, -1522.5]
+[12:58:12] [Server thread/INFO]: katjarroberts fell from a high place
+[12:58:42] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to 1563.5, 123.0, -1522.5]
+[12:58:42] [Server thread/WARN]: kroberts11 moved too quickly! 1195.400197352891,59.0,-2142.324600501117
+[12:58:42] [Server thread/WARN]: kroberts11 moved too quickly! 1195.400197352891,59.0,-2142.324600501117
+[12:58:42] [Server thread/WARN]: kroberts11 moved too quickly! 1195.400197352891,59.0,-2142.324600501117
+[12:58:44] [Server thread/INFO]: kroberts11 fell from a high place
+[12:59:07] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to 1563.5, 70.0, -1522.5]
+[12:59:07] [Server thread/WARN]: kroberts11 moved too quickly! 1511.0,-14.0,-1289.0
+[12:59:07] [Server thread/WARN]: Fetching packet for removed entity akt['Experience Orb'/1462, l='world', x=1563.41, y=71.25, z=-1522.70]
+[12:59:07] [Server thread/WARN]: Fetching packet for removed entity avy['Iron Helmet'/1461, l='world', x=1563.46, y=70.00, z=-1521.43]
+[12:59:22] [Server thread/INFO]: [kroberts11: Teleported katjarroberts to 1563.5, 70.0, -1522.5]
+[12:59:22] [Server thread/WARN]: katjarroberts moved too quickly! 1519.132262864957,-18.0,-1279.800000011921
+[12:59:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@7175e4bc[id=<null>,name=GotchaGR04,properties={},legacy=false] (/97.113.191.9:44673) lost connection: Disconnected
+[12:59:43] [User Authenticator #3/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[12:59:43] [Server thread/INFO]: GotchaGR04[/97.113.191.9:39319] logged in with entity id 1810 at (1516.3362430037528, 69.0, -1468.4249357632023)
+[12:59:43] [Server thread/INFO]: GotchaGR04 joined the game
+[13:00:05] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[13:00:05] [Server thread/INFO]: katjarroberts left the game
+[13:00:35] [User Authenticator #4/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[13:00:35] [Server thread/INFO]: katjarroberts[/97.113.191.9:47097] logged in with entity id 2012 at (1544.6453794784782, 63.0, -1505.3864207984918)
+[13:00:35] [Server thread/INFO]: katjarroberts joined the game
+[13:12:48] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/3782, l='world', x=1556.09, y=63.00, z=-1482.35]
+[13:12:48] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/3782, l='world', x=1556.09, y=63.00, z=-1482.35]
+[13:12:48] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/3782, l='world', x=1556.09, y=63.00, z=-1482.35]
+[13:14:02] [Server thread/INFO]: katjarroberts has made the advancement [Ol' Betsy]
+[13:15:37] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 10.281192368925986,0.0,-0.6058875657838598
+[13:19:48] [Server thread/INFO]: [kroberts11: Teleported GotchaGR04 to kroberts11]
+[13:22:44] [Server thread/INFO]: Villager axt['Villager'/8576, l='world', x=3126.72, y=64.00, z=-1898.37] died, message: 'Villager suffocated in a wall'
+[13:27:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@e7f9b33[id=<null>,name=marikaroberts,properties={},legacy=false] (/97.113.191.9:34636) lost connection: Disconnected
+[13:27:58] [User Authenticator #5/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[13:27:58] [Server thread/INFO]: marikaroberts[/97.113.191.9:44093] logged in with entity id 9902 at (1514.032031136152, 69.0, -1470.1349779256198)
+[13:27:58] [Server thread/INFO]: marikaroberts joined the game
+[13:28:20] [Server thread/INFO]: [kroberts11: Teleported marikaroberts to GotchaGR04]
+[13:33:11] [Server thread/INFO]: kroberts11 has made the advancement [Ol' Betsy]
+[13:36:21] [Server thread/INFO]: Villager axt['Armorer'/8574, l='world', x=3134.38, y=71.00, z=-1925.42] died, message: 'Armorer was slain by Vindicator'
+[13:38:23] [Server thread/INFO]: Villager axt['Villager'/8711, l='world', x=3123.18, y=63.00, z=-1900.03] died, message: 'Villager was shot by Pillager'
+[13:39:09] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[13:39:38] [Server thread/INFO]: kroberts11 has completed the challenge [Hero of the Village]
+[13:41:50] [Server thread/INFO]: kroberts11 has made the advancement [What a Deal!]
+[13:49:14] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[13:55:24] [Server thread/INFO]: [kroberts11: Teleported marikaroberts to 1563.5, 80.0, -1522.5]
+[13:55:38] [Server thread/INFO]: [kroberts11: Teleported GotchaGR04 to 1563.5, 80.0, -1522.5]
+[13:55:49] [Server thread/INFO]: [kroberts11: Teleported katjarroberts to 1563.5, 80.0, -1522.5]
+[13:56:03] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to 1563.5, 80.0, -1522.5]
+[13:56:03] [Server thread/WARN]: kroberts11 moved too quickly! -1218.6773651507046,20.0,499.87327419116104
+[13:56:55] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[13:56:55] [Server thread/INFO]: kroberts11 left the game
+[14:14:37] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[14:14:37] [Server thread/INFO]: marikaroberts left the game
+[14:14:55] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[14:14:55] [Server thread/INFO]: GotchaGR04 left the game
+[15:20:17] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/23605, l='world', x=1556.98, y=63.00, z=-1481.77]
+[15:28:12] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[15:28:12] [Server thread/INFO]: katjarroberts left the game
+[17:00:05] [Server thread/INFO]: Stopping server
+[17:00:05] [Server thread/INFO]: Saving players
+[17:00:05] [Server thread/INFO]: Saving worlds
+[17:00:05] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:00:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:00:05] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:00:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:00:05] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[17:00:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:00:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:00:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
