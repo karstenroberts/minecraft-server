@@ -1,2 +1,2 @@
-#!/bin/bash
-Java -Xmx4048M -Xms4048M -jar server.jar
+#!/bin/sh
+Java -Xms4G -Xmx4G -jar server.jar

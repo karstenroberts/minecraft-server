@@ -1,12 +1,90 @@
-[00:11:47] [Server thread/INFO]: Stopping server
-[00:11:47] [Server thread/INFO]: Saving players
-[00:11:47] [Server thread/INFO]: Saving worlds
-[00:11:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:11:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:11:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:11:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:11:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:11:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:11:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:11:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:11:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:40:29] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:40:29] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:40:29] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:40:29] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:40:29] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:40:30] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[18:40:30] [Server thread/INFO]: Loading properties
+[18:40:30] [Server thread/INFO]: Default game type: SURVIVAL
+[18:40:30] [Server thread/INFO]: Generating keypair
+[18:40:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:40:30] [Server thread/INFO]: Using default channel type
+[18:40:30] [Server thread/INFO]: Preparing level "world"
+[18:40:30] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:40:32] [Server thread/INFO]: Loaded 6 recipes
+[18:40:32] [Server thread/INFO]: Loaded 825 advancements
+[18:40:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:40:33] [User Authenticator #1/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[18:40:33] [Server thread/INFO]: Preparing spawn area: 0%
+[18:40:33] [Server thread/INFO]: Preparing spawn area: 21%
+[18:40:35] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[18:40:35] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[18:40:35] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[18:40:35] [Server-Worker-2/INFO]: Preparing spawn area: 94%
+[18:40:35] [Server thread/INFO]: Time elapsed: 2913 ms
+[18:40:35] [Server thread/INFO]: Done (5.765s)! For help, type "help"
+[18:40:36] [Server thread/INFO]: GotchaGR04[/73.11.176.175:53168] logged in with entity id 148 at (1517.1103219789234, 69.0, -1469.9346474072624)
+[18:40:36] [User Authenticator #2/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[18:40:36] [Server thread/INFO]: GotchaGR04 joined the game
+[18:40:36] [Server thread/INFO]: katjarroberts[/97.113.163.44:37042] logged in with entity id 159 at (1510.699999988079, 69.0, -1467.762499988079)
+[18:40:36] [Server thread/INFO]: katjarroberts joined the game
+[18:40:37] [Server thread/INFO]: Made ForkrulAssail a server operator
+[18:41:02] [User Authenticator #3/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[18:41:02] [Server thread/INFO]: marikaroberts[/73.11.176.175:65134] logged in with entity id 459 at (1517.5358432169837, 65.0, -1471.512499988079)
+[18:41:02] [Server thread/INFO]: marikaroberts joined the game
+[18:41:30] [User Authenticator #4/INFO]: UUID of player ForkrulAssail is f98edb65-e17a-4f65-b93f-568bf180b1aa
+[18:41:30] [Server thread/INFO]: ForkrulAssail[/76.28.194.129:10431] logged in with entity id 483 at (52.04855528842596, 89.0, -247.8866708272453)
+[18:41:30] [Server thread/INFO]: ForkrulAssail joined the game
+[18:41:40] [Server thread/INFO]: [ForkrulAssail: Teleported ForkrulAssail to katjarroberts]
+[18:41:40] [Server thread/WARN]: ForkrulAssail moved too quickly! 1458.6514446996532,-20.0,-1219.8758291608337
+[18:41:57] [Server thread/INFO]: <marikaroberts> hello
+[18:42:01] [Server thread/INFO]: <marikaroberts> bedtime
+[18:42:08] [Server thread/INFO]: <marikaroberts> mew
+[18:42:09] [Server thread/INFO]: <GotchaGR04> sleep!
+[18:42:21] [Server thread/INFO]: ForkrulAssail has made the advancement [Sweet Dreams]
+[18:42:24] [Server thread/INFO]: <marikaroberts> we have custom flowers at the foot of bed
+[18:42:33] [Server thread/INFO]: <marikaroberts> special interior design touch
+[18:43:34] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/797, l='world', x=1557.36, y=63.00, z=-1481.58]
+[18:43:34] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/797, l='world', x=1557.36, y=63.00, z=-1481.58]
+[18:43:34] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/797, l='world', x=1557.36, y=63.00, z=-1481.58]
+[18:43:34] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/797, l='world', x=1557.36, y=63.00, z=-1481.58]
+[18:44:08] [Server thread/INFO]: ForkrulAssail lost connection: Disconnected
+[18:44:08] [Server thread/INFO]: ForkrulAssail left the game
+[18:45:13] [User Authenticator #5/INFO]: UUID of player ForkrulAssail is f98edb65-e17a-4f65-b93f-568bf180b1aa
+[18:45:13] [Server thread/INFO]: ForkrulAssail[/76.28.194.129:10670] logged in with entity id 1061 at (1520.249400674725, 66.0, -1471.7975738915814)
+[18:45:13] [Server thread/INFO]: ForkrulAssail joined the game
+[18:49:09] [Server thread/INFO]: ForkrulAssail has made the advancement [Isn't It Iron Pick]
+[18:55:56] [Server thread/INFO]: <ForkrulAssail> w
+[18:57:28] [Server thread/INFO]: ForkrulAssail has made the advancement [Monster Hunter]
+[19:02:17] [Server thread/INFO]: ForkrulAssail has made the advancement [A Seedy Place]
+[19:06:19] [Server thread/INFO]: ForkrulAssail has made the advancement [Acquire Hardware]
+[19:06:40] [Server thread/INFO]: ForkrulAssail has made the advancement [Suit Up]
+[19:08:24] [Server thread/INFO]: <ForkrulAssail> hello
+[19:09:46] [Server thread/INFO]: GotchaGR04 fell from a high place
+[19:11:33] [Server thread/INFO]: <marikaroberts> sleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeep
+[19:12:04] [Server thread/INFO]: ForkrulAssail lost connection: Disconnected
+[19:12:04] [Server thread/INFO]: ForkrulAssail left the game
+[19:12:10] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[19:12:10] [Server thread/INFO]: katjarroberts left the game
+[19:12:13] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[19:12:13] [Server thread/INFO]: marikaroberts left the game
+[19:12:26] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[19:12:26] [Server thread/INFO]: GotchaGR04 left the game
+[19:12:36] [Server thread/INFO]: Unknown command
+[19:12:36] [Server thread/INFO]: exit<--[HERE]
+[19:12:43] [Server thread/INFO]: Unknown command
+[19:12:43] [Server thread/INFO]: close<--[HERE]
+[19:12:53] [Server thread/INFO]: Unknown command
+[19:12:53] [Server thread/INFO]: end<--[HERE]
+[19:12:55] [Server thread/INFO]: Stopping server
+[19:12:55] [Server thread/INFO]: Saving players
+[19:12:55] [Server thread/INFO]: Saving worlds
+[19:12:55] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:12:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:12:55] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:12:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:12:55] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:12:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:12:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:12:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:12:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
