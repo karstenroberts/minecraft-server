@@ -1,0 +1,60 @@
+[21:48:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:48:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:48:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:48:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:48:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:48:21] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[21:48:21] [Server thread/INFO]: Loading properties
+[21:48:21] [Server thread/INFO]: Default game type: SURVIVAL
+[21:48:21] [Server thread/INFO]: Generating keypair
+[21:48:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:48:21] [Server thread/INFO]: Using default channel type
+[21:48:21] [Server thread/INFO]: Preparing level "world"
+[21:48:22] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:48:27] [User Authenticator #1/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[21:48:28] [Server thread/INFO]: Loaded 6 recipes
+[21:48:29] [Server thread/INFO]: Loaded 825 advancements
+[21:48:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:48:30] [Server thread/INFO]: Preparing spawn area: 0%
+[21:48:30] [Server thread/INFO]: Preparing spawn area: 0%
+[21:48:30] [Server thread/INFO]: Preparing spawn area: 0%
+[21:48:30] [Server thread/INFO]: Preparing spawn area: 52%
+[21:48:33] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[21:48:33] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[21:48:33] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[21:48:33] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[21:48:33] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[21:48:33] [Server-Worker-6/INFO]: Preparing spawn area: 94%
+[21:48:34] [Server-Worker-3/INFO]: Preparing spawn area: 94%
+[21:48:34] [Server-Worker-3/INFO]: Preparing spawn area: 97%
+[21:48:35] [Server thread/INFO]: Time elapsed: 5842 ms
+[21:48:35] [Server thread/INFO]: Done (13.284s)! For help, type "help"
+[21:48:35] [Server thread/INFO]: marikaroberts[/192.168.4.96:52851] logged in with entity id 115 at (1503.7324474753318, 68.0, -1455.5944493004165)
+[21:48:35] [Server thread/INFO]: marikaroberts joined the game
+[21:48:59] [User Authenticator #2/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[21:48:59] [Server thread/INFO]: GotchaGR04[/192.168.4.94:64747] logged in with entity id 376 at (1508.9443945970777, 102.0, -1467.626897622735)
+[21:48:59] [Server thread/INFO]: GotchaGR04 joined the game
+[21:50:35] [User Authenticator #3/INFO]: UUID of player ForkrulAssail is f98edb65-e17a-4f65-b93f-568bf180b1aa
+[21:50:35] [Server thread/INFO]: ForkrulAssail[/127.0.0.1:53409] logged in with entity id 555 at (38.5, 86.0, -234.5)
+[21:50:35] [Server thread/INFO]: ForkrulAssail joined the game
+[21:51:16] [Server thread/INFO]: Made ForkrulAssail a server operator
+[21:51:23] [User Authenticator #4/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[21:51:23] [Server thread/INFO]: katjarroberts[/192.168.4.121:63804] logged in with entity id 788 at (387.23746820536, 64.0, 622.579661799408)
+[21:51:23] [Server thread/INFO]: katjarroberts joined the game
+[21:51:32] [Server thread/INFO]: [ForkrulAssail: Teleported ForkrulAssail to marikaroberts]
+[21:51:32] [Server thread/WARN]: ForkrulAssail moved too quickly! 1473.148610760876,16.0,-1233.69507300254
+[21:51:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[21:51:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5799ms or 115 ticks behind
+[21:52:42] [Server thread/INFO]: [ForkrulAssail: Teleported katjarroberts to ForkrulAssail]
+[21:53:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[21:57:34] [Server thread/INFO]: marikaroberts fell from a high place
+[21:58:31] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/1925, l='world', x=1558.63, y=63.00, z=-1481.92]
+[21:58:31] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/1925, l='world', x=1558.63, y=63.00, z=-1481.92]
+[21:58:31] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/1925, l='world', x=1558.63, y=63.00, z=-1481.92]
+[21:58:31] [Server thread/WARN]: Fetching packet for removed entity avy['Air'/1925, l='world', x=1558.63, y=63.00, z=-1481.92]
+[21:59:02] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[21:59:02] [Server thread/INFO]: katjarroberts left the game
+[21:59:14] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[21:59:14] [Server thread/INFO]: GotchaGR04 left the game
+[21:59:17] [Server thread/INFO]: ForkrulAssail lost connection: Disconnected
+[21:59:17] [Server thread/INFO]: ForkrulAssail left the game

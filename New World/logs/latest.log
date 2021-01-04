@@ -1,0 +1,112 @@
+[11:30:02] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:30:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:30:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:30:02] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:30:02] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:30:02] [main/INFO]: Reloading ResourceManager: Default
+[11:30:03] [Worker-Main-10/INFO]: Loaded 7 recipes
+[11:30:03] [Worker-Main-10/INFO]: Loaded 927 advancements
+[11:30:07] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[11:30:07] [Server thread/INFO]: Loading properties
+[11:30:07] [Server thread/INFO]: Default game type: SURVIVAL
+[11:30:07] [Server thread/INFO]: Generating keypair
+[11:30:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:30:08] [Server thread/INFO]: Using default channel type
+[11:30:08] [Server thread/INFO]: Preparing level "world"
+[11:30:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:30:10] [Server thread/INFO]: Preparing spawn area: 0%
+[11:30:10] [Server thread/INFO]: Preparing spawn area: 0%
+[11:30:10] [Server thread/INFO]: Preparing spawn area: 0%
+[11:30:10] [Server thread/INFO]: Preparing spawn area: 0%
+[11:30:10] [Server thread/INFO]: Preparing spawn area: 0%
+[11:30:11] [Server thread/INFO]: Preparing spawn area: 0%
+[11:30:17] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:30:17] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:30:17] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:30:17] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[11:30:17] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[11:30:17] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[11:30:17] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[11:30:17] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[11:30:17] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[11:30:17] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[11:30:17] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[11:30:17] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[11:30:17] [Worker-Main-11/INFO]: Preparing spawn area: 95%
+[11:30:18] [Worker-Main-8/INFO]: Preparing spawn area: 95%
+[11:30:18] [Worker-Main-13/INFO]: Preparing spawn area: 95%
+[11:30:19] [Worker-Main-9/INFO]: Preparing spawn area: 96%
+[11:30:19] [Worker-Main-11/INFO]: Preparing spawn area: 99%
+[11:30:20] [Server thread/INFO]: Time elapsed: 12145 ms
+[11:30:20] [Server thread/INFO]: Done (12.293s)! For help, type "help"
+[11:35:12] [User Authenticator #1/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[11:35:12] [Server thread/INFO]: katjarroberts[/192.168.4.72:49994] logged in with entity id 128 at (-791.6999999880791, 78.0, 1089.300000011921)
+[11:35:12] [Server thread/INFO]: katjarroberts joined the game
+[11:37:34] [User Authenticator #2/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[11:37:34] [Server thread/INFO]: marikaroberts[/192.168.4.73:64359] logged in with entity id 577 at (-799.9056368712771, 79.0, 1070.8759045400452)
+[11:37:34] [Server thread/INFO]: marikaroberts joined the game
+[11:38:51] [User Authenticator #3/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[11:38:51] [Server thread/INFO]: kroberts11[/127.0.0.1:54246] logged in with entity id 710 at (-807.0667591085457, 80.0, 1076.3247301351894)
+[11:38:51] [Server thread/INFO]: kroberts11 joined the game
+[11:38:58] [Server thread/INFO]: [kroberts11: Set the time to 1000]
+[11:39:20] [Server thread/INFO]: marikaroberts was shot by Skeleton
+[11:39:59] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
+[11:42:52] [User Authenticator #4/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[11:42:52] [Server thread/INFO]: GotchaGR04[/192.168.4.65:52644] logged in with entity id 1218 at (-816.8510378855618, 71.0, 1069.3194606064326)
+[11:42:52] [Server thread/INFO]: GotchaGR04 joined the game
+[11:45:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[11:45:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4389ms or 87 ticks behind
+[11:48:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[11:48:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[11:49:09] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.37995002794860966
+[11:49:30] [Server thread/INFO]: [kroberts11: Set the time to 1800]
+[11:49:44] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.31574112885289196
+[11:49:44] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.28534715240039077
+[11:49:44] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.3179730734709665
+[11:50:34] [Server thread/WARN]: GotchaGR04 moved too quickly! 7.325682627122205,7.0,-0.20205584051905134
+[11:50:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3752ms or 75 ticks behind
+[11:52:20] [Server thread/INFO]: katjarroberts has made the advancement [Fishy Business]
+[11:55:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[11:55:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3033ms or 60 ticks behind
+[11:55:44] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! -9.865718179800183,0.0,-2.651651119464532
+[11:55:44] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! -10.250262851521086,0.0,-2.6400480970328317
+[11:55:44] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! -10.632783375986037,0.0,-2.613087782664252
+[11:55:44] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! -11.0129414346315,0.0,-2.571161768685215
+[11:55:44] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! -11.390454095287964,0.0,-2.514748592981732
+[11:55:44] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! -11.765094312234964,0.0,-2.444394423639551
+[11:55:44] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved too quickly! -12.13668759880585,0.0,-2.3606927638047637
+[11:55:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4645ms or 92 ticks behind
+[11:56:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3090ms or 61 ticks behind
+[11:56:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[11:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7696ms or 153 ticks behind
+[11:57:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3581ms or 71 ticks behind
+[11:57:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[11:58:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[11:58:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4007ms or 80 ticks behind
+[11:58:47] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
+[11:59:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4319ms or 86 ticks behind
+[11:59:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3842ms or 76 ticks behind
+[11:59:27] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
+[11:59:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2752ms or 55 ticks behind
+[11:59:39] [Server thread/INFO]: [kroberts11: Teleported marikaroberts to kroberts11]
+[11:59:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2427ms or 48 ticks behind
+[12:01:00] [Server thread/INFO]: <GotchaGR04> <3
+[12:01:10] [Server thread/INFO]: <kroberts11> <3
+[12:01:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[12:01:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3514ms or 70 ticks behind
+[12:02:16] [Server thread/INFO]: GotchaGR04 has made the advancement [Acquire Hardware]
+[12:11:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12:13:12] [Server thread/INFO]: katjarroberts has made the advancement [Hot Stuff]
+[12:13:37] [Server thread/INFO]: <GotchaGR04> <3
+[12:14:31] [Server thread/INFO]: <kroberts11> boop
+[12:33:14] [Server thread/INFO]: marikaroberts has made the advancement [Acquire Hardware]
+[12:45:40] [Server thread/INFO]: katjarroberts tried to swim in lava
+[12:48:42] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[12:48:42] [Server thread/INFO]: katjarroberts left the game
+[12:48:50] [Server thread/INFO]: Villager bfg['Villager'/360, l='ServerLevel[world]', x=-920.56, y=77.00, z=1136.30] died, message: 'Villager was slain by Zombie'
+[12:48:57] [Server thread/INFO]: Villager bfg['Nitwit'/327, l='ServerLevel[world]', x=-920.70, y=77.00, z=1136.70] died, message: 'Nitwit was slain by Zombie'
+[12:49:59] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[12:49:59] [Server thread/INFO]: marikaroberts left the game
+[13:25:55] [Server thread/INFO]: Villager bfg['Nitwit'/326, l='ServerLevel[world]', x=-918.08, y=77.00, z=1136.30] died, message: 'Nitwit was slain by Zombie'
+[13:29:29] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[13:29:29] [Server thread/INFO]: kroberts11 left the game
