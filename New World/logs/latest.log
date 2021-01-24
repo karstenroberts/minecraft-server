@@ -1,256 +1,76 @@
-[02:41:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[02:41:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:41:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:41:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:41:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:41:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:41:58] [main/INFO]: Reloading ResourceManager: Default
-[02:42:00] [Worker-Main-2/INFO]: Loaded 7 recipes
-[02:42:00] [Worker-Main-2/INFO]: Loaded 927 advancements
-[02:42:04] [Server thread/INFO]: Starting minecraft server version 1.16.2
-[02:42:04] [Server thread/INFO]: Loading properties
-[02:42:04] [Server thread/INFO]: Default game type: SURVIVAL
-[02:42:04] [Server thread/INFO]: Generating keypair
-[02:42:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:42:04] [Server thread/INFO]: Using epoll channel type
-[02:42:05] [Server thread/INFO]: Preparing level "world"
-[02:42:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:42:09] [Server thread/INFO]: Preparing spawn area: 0%
-[02:42:09] [Server thread/INFO]: Preparing spawn area: 0%
-[02:42:09] [Server thread/INFO]: Preparing spawn area: 0%
-[02:42:09] [Server thread/INFO]: Preparing spawn area: 0%
-[02:42:09] [Server thread/INFO]: Preparing spawn area: 0%
-[02:42:09] [Server thread/INFO]: Preparing spawn area: 0%
-[02:42:09] [Server thread/INFO]: Preparing spawn area: 0%
-[02:42:09] [Server thread/INFO]: Preparing spawn area: 0%
-[02:42:09] [Server thread/INFO]: Preparing spawn area: 0%
-[02:42:09] [Server thread/INFO]: Preparing spawn area: 25%
-[02:42:18] [Worker-Main-3/INFO]: Preparing spawn area: 63%
-[02:42:18] [Server thread/INFO]: Preparing spawn area: 63%
-[02:42:18] [Server thread/INFO]: Preparing spawn area: 63%
-[02:42:18] [Server thread/INFO]: Preparing spawn area: 63%
-[02:42:18] [Server thread/INFO]: Preparing spawn area: 63%
-[02:42:18] [Server thread/INFO]: Preparing spawn area: 63%
-[02:42:18] [Server thread/INFO]: Preparing spawn area: 63%
-[02:42:18] [Server thread/INFO]: Preparing spawn area: 63%
-[02:42:18] [Server thread/INFO]: Preparing spawn area: 63%
-[02:42:18] [Server thread/INFO]: Preparing spawn area: 63%
-[02:42:18] [Server thread/INFO]: Preparing spawn area: 63%
-[02:42:18] [Server thread/INFO]: Preparing spawn area: 63%
-[02:42:18] [Server thread/INFO]: Preparing spawn area: 63%
-[02:42:18] [Server thread/INFO]: Preparing spawn area: 63%
-[02:42:18] [Server thread/INFO]: Preparing spawn area: 63%
-[02:42:18] [Server thread/INFO]: Preparing spawn area: 63%
-[02:42:18] [Worker-Main-3/INFO]: Preparing spawn area: 63%
-[02:42:18] [Worker-Main-3/INFO]: Preparing spawn area: 68%
-[02:42:19] [Worker-Main-3/INFO]: Preparing spawn area: 95%
-[02:42:19] [Worker-Main-3/INFO]: Preparing spawn area: 95%
-[02:42:20] [Worker-Main-3/INFO]: Preparing spawn area: 95%
-[02:42:20] [Worker-Main-3/INFO]: Preparing spawn area: 95%
-[02:42:21] [Worker-Main-3/INFO]: Preparing spawn area: 95%
-[02:42:21] [Server thread/INFO]: Preparing spawn area: 95%
-[02:42:22] [Worker-Main-3/INFO]: Preparing spawn area: 96%
-[02:42:22] [Worker-Main-3/INFO]: Preparing spawn area: 96%
-[02:42:23] [Server thread/INFO]: Preparing spawn area: 97%
-[02:42:23] [Worker-Main-3/INFO]: Preparing spawn area: 98%
-[02:42:24] [Worker-Main-3/INFO]: Preparing spawn area: 99%
-[02:42:24] [Server thread/INFO]: Preparing spawn area: 99%
-[02:42:25] [Server thread/INFO]: Time elapsed: 19856 ms
-[02:42:25] [Server thread/INFO]: Done (20.122s)! For help, type "help"
-[02:44:18] [User Authenticator #1/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[02:44:18] [Server thread/INFO]: kroberts11[/174.61.153.133:7058] logged in with entity id 129 at (-789.3929186783013, 79.0, 1074.5405555396503)
-[02:44:18] [Server thread/INFO]: kroberts11 joined the game
-[02:44:21] [User Authenticator #2/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
-[02:44:21] [Server thread/INFO]: GotchaGR04[/97.126.108.72:57890] logged in with entity id 271 at (-818.8216526531343, 71.5625, 1066.366946209455)
-[02:44:21] [Server thread/INFO]: GotchaGR04 joined the game
-[02:44:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[02:44:36] [Server thread/INFO]: [kroberts11: Set the time to 1000]
-[02:44:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3082ms or 61 ticks behind
-[02:46:14] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
-[02:46:42] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
-[02:47:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@29e71bc1[id=<null>,name=katjarroberts,properties={},legacy=false] (/97.126.108.72:50130) lost connection: Disconnected
-[02:47:15] [User Authenticator #3/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
-[02:47:15] [Server thread/INFO]: katjarroberts[/97.126.108.72:50133] logged in with entity id 831 at (-806.2609501327727, 80.0, 1075.9107484350845)
-[02:47:15] [Server thread/INFO]: katjarroberts joined the game
-[02:47:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4555ms or 91 ticks behind
-[02:48:28] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[02:48:59] [Server thread/INFO]: [kroberts11: Set the time to 13000]
-[02:49:41] [Server thread/INFO]: [kroberts11: Set the time to 17000]
-[02:49:49] [Server thread/INFO]: [kroberts11: Set the time to 2300]
-[02:49:55] [Server thread/INFO]: [kroberts11: Set the time to 23000]
-[02:50:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
-[02:52:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[02:52:44] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
-[02:52:44] [Server thread/INFO]: GotchaGR04 left the game
-[02:52:46] [User Authenticator #4/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
-[02:52:47] [Server thread/INFO]: GotchaGR04[/97.126.108.72:57919] logged in with entity id 1917 at (-832.7481688503412, 114.0, 1056.8679378535744)
-[02:52:47] [Server thread/INFO]: GotchaGR04 joined the game
-[02:56:02] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
-[03:12:37] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
-[03:14:23] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
-[03:17:09] [User Authenticator #5/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
-[03:17:10] [Server thread/INFO]: marikaroberts[/97.126.108.72:51593] logged in with entity id 4677 at (-817.7410632159075, 71.5625, 1066.300000011921)
-[03:17:10] [Server thread/INFO]: marikaroberts joined the game
-[03:23:47] [Server thread/INFO]: <marikaroberts> hi
-[03:23:49] [Server thread/INFO]: <kroberts11> hi
-[03:23:53] [Server thread/INFO]: <kroberts11> zzzzzzzzzzzzzzz
-[03:23:58] [Server thread/INFO]: <marikaroberts> help
-[03:24:04] [Server thread/INFO]: [kroberts11: Set the time to 1000]
-[03:34:43] [Server thread/INFO]: <marikaroberts> speak
-[03:34:55] [Server thread/INFO]: <marikaroberts> i can talk
-[03:34:55] [Server thread/INFO]: <kroberts11> what
-[03:35:04] [Server thread/INFO]: <marikaroberts> hi
-[03:35:07] [Server thread/INFO]: <kroberts11> help
-[03:35:17] [Server thread/INFO]: <marikaroberts> hear me?
-[03:35:23] [Server thread/INFO]: <marikaroberts> hi there
-[03:35:31] [Server thread/INFO]: <marikaroberts> shhhh k mann
-[03:36:25] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[03:36:25] [Server thread/INFO]: kroberts11 left the game
-[03:36:37] [User Authenticator #6/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[03:36:37] [Server thread/INFO]: kroberts11[/174.61.153.133:7584] logged in with entity id 8057 at (-817.5, 71.5625, 1066.5)
-[03:36:37] [Server thread/INFO]: kroberts11 joined the game
-[03:38:27] [Server thread/INFO]: katjarroberts burned to death
-[03:38:48] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[03:39:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[03:57:19] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
-[03:57:33] [Server thread/INFO]: [kroberts11: Set GotchaGR04's game mode to Creative Mode]
-[03:59:09] [Server thread/INFO]: [kroberts11: Set GotchaGR04's game mode to Survival Mode]
-[03:59:12] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
-[04:02:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[04:02:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[04:04:26] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[04:06:08] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
-[04:06:29] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
-[04:06:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[04:07:50] [Server thread/INFO]: katjarroberts was slain by Hoglin
-[04:08:40] [Server thread/INFO]: katjarroberts was shot by Piglin
-[04:15:03] [Server thread/INFO]: <katjarroberts> karsten
-[04:15:08] [Server thread/INFO]: <katjarroberts> are u alive
-[04:15:13] [Server thread/INFO]: <katjarroberts> or just a mess
-[04:15:23] [Server thread/INFO]: <kroberts11> a mess
-[04:32:28] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
-[04:32:50] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
-[04:41:03] [Server thread/INFO]: <GotchaGR04> <3
-[04:41:34] [Server thread/INFO]: <GotchaGR04> ••••
-[04:48:05] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
-[04:48:06] [Server thread/INFO]: katjarroberts was slain by Zombie
-[04:50:32] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
-[04:50:51] [Server thread/INFO]: katjarroberts tried to swim in lava to escape Zombie
-[04:53:18] [Server thread/INFO]: <GotchaGR04> •¶∞¢£™¡ºª
-[04:53:20] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[05:03:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/23806, l='ServerLevel[world]', x=-729.87, y=87.35, z=1030.13]
-[05:05:08] [Server thread/INFO]: <GotchaGR04> ∞
-[05:05:12] [Server thread/INFO]: <GotchaGR04> ©
-[05:05:15] [Server thread/INFO]: <GotchaGR04> ˙∆
-[05:05:23] [Server thread/INFO]: <GotchaGR04> ˚¬πøˆœ∑
-[05:05:32] [Server thread/INFO]: <GotchaGR04> ´åß∂ƒ©˙Ω≈ç√∫
-[05:05:51] [Server thread/INFO]: <GotchaGR04> ˜µ˜∫˚¬∆˙©ƒ∂‘“«æ…
-[05:05:53] [Server thread/INFO]: <GotchaGR04> …
-[05:05:56] [Server thread/INFO]: <GotchaGR04> ÷
-[05:06:00] [Server thread/INFO]: <GotchaGR04> ≥≤
-[05:06:18] [Server thread/INFO]: <GotchaGR04> 4-x≥y
-[05:06:30] [Server thread/INFO]: <marikaroberts> ¥¥∫∫√˙¨ˆ√®ß
-[05:06:37] [Server thread/INFO]: <marikaroberts> ˆˆ–øøø˜˚∆©ƒ¥†çß®´£∞∑¢´∞¶®•†¶•
-[05:06:41] [Server thread/INFO]: <marikaroberts> ∆πºª˙øº¥•√˙ƒ¥∂®¥¶∞ ø
-[05:06:42] [Server thread/INFO]: <GotchaGR04> π
-[05:06:44] [Server thread/INFO]: <marikaroberts> 
-[05:06:46] [Server thread/INFO]: <marikaroberts> kn¬˜¬
-[05:06:50] [Server thread/INFO]: <marikaroberts> –ºª•¶∞¢´∂ƒ©˙¥¨ˆøπ…¬˚∆
-[05:06:50] [Server thread/INFO]: <GotchaGR04> ΩΩΩ
-[05:06:54] [Server thread/INFO]: <GotchaGR04> ©
-[05:06:58] [Server thread/INFO]: <marikaroberts> ∆∆∆∆∆∆∆∆∆∆∆∆∆∆
-[05:07:02] [Server thread/INFO]: <marikaroberts> ∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆
-[05:07:11] [Server thread/INFO]: <GotchaGR04> ™
-[05:07:13] [Server thread/INFO]: <GotchaGR04> ©
-[05:07:43] [Server thread/INFO]: <kroberts11> æÆÐðþÞéÉ
-[05:18:43] [Server thread/INFO]: <GotchaGR04> ¸˛Ç◊ı˜Â
-[05:18:46] [Server thread/INFO]: <GotchaGR04> ◊
-[05:18:48] [Server thread/INFO]: <GotchaGR04> ◊◊◊◊◊
-[05:29:03] [Server thread/INFO]: marikaroberts fell off a ladder
-[05:30:22] [Server thread/INFO]: <GotchaGR04> ◊
-[05:31:27] [Server thread/INFO]: <GotchaGR04> ◊ı˜Â˝ÏÎÍÅÓÔÒ
-[05:43:14] [Server thread/INFO]: marikaroberts lost connection: Disconnected
-[05:43:14] [Server thread/INFO]: marikaroberts left the game
-[06:00:40] [Server thread/INFO]: kroberts11 has made the advancement [A Seedy Place]
-[06:02:33] [Server thread/INFO]: <GotchaGR04> ß
-[06:04:48] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[06:17:02] [Server thread/INFO]: <GotchaGR04> ❤
-[06:17:05] [Server thread/INFO]: <GotchaGR04> ❤
-[06:17:06] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
-[06:17:23] [Server thread/INFO]: GotchaGR04 lost connection: Timed out
-[06:17:23] [Server thread/INFO]: GotchaGR04 left the game
-[06:17:23] [Server thread/WARN]: handleDisconnection() called twice
-[06:18:03] [User Authenticator #7/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
-[06:18:03] [Server thread/INFO]: GotchaGR04[/97.126.108.72:59738] logged in with entity id 35375 at (-818.5, 71.5625, 1066.5)
-[06:18:03] [Server thread/INFO]: GotchaGR04 joined the game
-[06:18:18] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[06:18:33] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
-[06:27:13] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
-[06:27:48] [Server thread/WARN]: kroberts11 moved too quickly! 10.181359555620475,0.0,0.4579569913199748
-[06:27:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[06:31:22] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/37787, l='ServerLevel[world]', x=-814.99, y=106.00, z=1080.88]
-[06:31:22] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/37787, l='ServerLevel[world]', x=-814.99, y=106.00, z=1080.88]
-[06:31:22] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/37787, l='ServerLevel[world]', x=-814.99, y=106.00, z=1080.88]
-[06:33:28] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[06:33:55] [Server thread/INFO]: Villager bfg['Villager'/358, l='ServerLevel[world]', x=-945.70, y=69.00, z=1070.65] died, message: 'Villager was slain by Zombie'
-[06:38:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[06:46:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[06:47:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[06:47:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
-[06:48:32] [Server thread/WARN]: kroberts11 moved too quickly! -4.318261932763335,3.9750001579520955,-9.286869484015199
-[06:48:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27438ms or 548 ticks behind
-[06:49:26] [Server thread/INFO]: kroberts11 lost connection: Timed out
-[06:49:26] [Server thread/INFO]: kroberts11 left the game
-[06:49:39] [User Authenticator #8/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[06:49:40] [Server thread/INFO]: kroberts11[/174.61.153.133:8865] logged in with entity id 40737 at (-814.1700027508975, 80.0, 1068.5)
-[06:49:40] [Server thread/INFO]: kroberts11 joined the game
-[06:49:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 49452ms or 989 ticks behind
-[06:50:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18585ms or 371 ticks behind
-[06:51:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 58160ms or 1163 ticks behind
-[06:51:43] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[06:51:43] [Server thread/INFO]: kroberts11 left the game
-[06:52:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31327ms or 626 ticks behind
-[06:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[06:53:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[06:53:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[06:55:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[06:56:02] [User Authenticator #9/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[06:56:02] [Server thread/INFO]: kroberts11[/174.61.153.133:8997] logged in with entity id 41183 at (-791.7547762911894, 79.0, 1080.431201112028)
-[06:56:02] [Server thread/INFO]: kroberts11 joined the game
-[06:56:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[06:56:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[06:57:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5667ms or 113 ticks behind
-[06:57:21] [Server thread/WARN]: kroberts11 moved too quickly! -0.8381437128368816,-11.643158907415128,1.0822814649084194
-[06:57:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14418ms or 288 ticks behind
-[06:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25890ms or 517 ticks behind
-[06:58:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21051ms or 421 ticks behind
-[06:58:58] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/41841, l='ServerLevel[world]', x=-814.47, y=106.00, z=1079.05]
-[06:58:58] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/41841, l='ServerLevel[world]', x=-814.47, y=106.00, z=1079.05]
-[06:59:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[06:59:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[06:59:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2362ms or 47 ticks behind
-[07:00:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12914ms or 258 ticks behind
-[07:00:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4138ms or 82 ticks behind
-[07:01:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2995ms or 59 ticks behind
-[07:01:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[07:01:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[07:01:57] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
-[07:01:57] [Server thread/INFO]: GotchaGR04 left the game
-[07:02:15] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[07:02:15] [Server thread/INFO]: kroberts11 left the game
-[07:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 44488ms or 889 ticks behind
-[07:03:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[07:03:18] [Server thread/INFO]: katjarroberts lost connection: Disconnected
-[07:03:18] [Server thread/INFO]: katjarroberts left the game
-[07:04:18] [Server thread/INFO]: Stopping server
-[07:04:18] [Server thread/INFO]: Saving players
-[07:04:18] [Server thread/INFO]: Saving worlds
-[07:04:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:04:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:04:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:04:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:04:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:04:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:04:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:04:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:04:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:28:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[00:28:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:28:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:28:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:28:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:28:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:28:38] [main/INFO]: Reloading ResourceManager: Default
+[00:28:40] [Worker-Main-2/INFO]: Loaded 7 recipes
+[00:28:40] [Worker-Main-2/INFO]: Loaded 927 advancements
+[00:28:42] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[00:28:42] [Server thread/INFO]: Loading properties
+[00:28:42] [Server thread/INFO]: Default game type: SURVIVAL
+[00:28:42] [Server thread/INFO]: Generating keypair
+[00:28:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:28:43] [Server thread/INFO]: Using epoll channel type
+[00:28:43] [Server thread/INFO]: Preparing level "world"
+[00:28:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:28:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:28:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:28:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:28:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:28:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:28:46] [Server thread/INFO]: Preparing spawn area: 0%
+[00:28:50] [Worker-Main-3/INFO]: Preparing spawn area: 66%
+[00:28:50] [Worker-Main-3/INFO]: Preparing spawn area: 66%
+[00:28:50] [Worker-Main-3/INFO]: Preparing spawn area: 66%
+[00:28:50] [Worker-Main-3/INFO]: Preparing spawn area: 66%
+[00:28:50] [Worker-Main-3/INFO]: Preparing spawn area: 66%
+[00:28:50] [Server thread/INFO]: Preparing spawn area: 66%
+[00:28:50] [Worker-Main-3/INFO]: Preparing spawn area: 66%
+[00:28:50] [Server thread/INFO]: Preparing spawn area: 66%
+[00:28:50] [Worker-Main-3/INFO]: Preparing spawn area: 66%
+[00:28:51] [Worker-Main-3/INFO]: Preparing spawn area: 95%
+[00:28:51] [Worker-Main-3/INFO]: Preparing spawn area: 95%
+[00:28:52] [Worker-Main-3/INFO]: Preparing spawn area: 95%
+[00:28:52] [Worker-Main-3/INFO]: Preparing spawn area: 95%
+[00:28:53] [Server thread/INFO]: Preparing spawn area: 95%
+[00:28:53] [Server thread/INFO]: Preparing spawn area: 96%
+[00:28:54] [Worker-Main-3/INFO]: Preparing spawn area: 97%
+[00:28:54] [Worker-Main-3/INFO]: Preparing spawn area: 98%
+[00:28:55] [Server thread/INFO]: Time elapsed: 11492 ms
+[00:28:55] [Server thread/INFO]: Done (11.642s)! For help, type "help"
+[00:29:34] [User Authenticator #1/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[00:29:34] [Server thread/INFO]: marikaroberts[/97.126.108.72:54519] logged in with entity id 130 at (-767.4728537121628, 74.0, 1075.7544385875383)
+[00:29:34] [Server thread/INFO]: marikaroberts joined the game
+[00:29:35] [User Authenticator #2/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[00:29:35] [Server thread/INFO]: kroberts11[/174.61.153.133:24157] logged in with entity id 202 at (-798.5512358029446, 80.0, 1068.300000011921)
+[00:29:35] [Server thread/INFO]: kroberts11 joined the game
+[00:29:36] [User Authenticator #3/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[00:29:36] [Server thread/INFO]: katjarroberts[/97.126.108.72:63249] logged in with entity id 266 at (-830.6273972391798, 114.0, 1054.8885204390926)
+[00:29:36] [Server thread/INFO]: katjarroberts joined the game
+[00:29:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[00:29:56] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[00:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6942ms or 138 ticks behind
+[00:30:32] [User Authenticator #4/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[00:30:32] [Server thread/INFO]: GotchaGR04[/97.126.108.72:52055] logged in with entity id 670 at (-733.6999999880791, 82.0, 1024.2389130424608)
+[00:30:32] [Server thread/INFO]: GotchaGR04 joined the game
+[00:34:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[00:36:21] [Server thread/INFO]: [kroberts11: Set the time to 13000]
+[00:39:45] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[00:52:57] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/3503, l='ServerLevel[world]', x=-814.38, y=106.00, z=1078.76]
+[00:52:57] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/3503, l='ServerLevel[world]', x=-814.38, y=106.00, z=1078.76]
+[00:52:57] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/3503, l='ServerLevel[world]', x=-814.38, y=106.00, z=1078.76]
+[00:52:57] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/3503, l='ServerLevel[world]', x=-814.38, y=106.00, z=1078.76]
+[00:53:02] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
+[00:53:02] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[00:53:02] [Server thread/INFO]: GotchaGR04 left the game
+[00:53:11] [Server thread/INFO]: [kroberts11: Set the time to 13000]
+[00:53:45] [Server thread/INFO]: [kroberts11: Set the time to 1000]
+[00:53:51] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
+[00:55:03] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[00:55:03] [Server thread/INFO]: katjarroberts left the game
+[00:55:11] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[00:55:11] [Server thread/INFO]: marikaroberts left the game
+[00:56:36] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[00:56:36] [Server thread/INFO]: kroberts11 left the game

@@ -1,2 +1,2 @@
 #!/bin/sh
-java -Xms1536M -Xmx2G -jar server.jar nogui
+java -Xms3G -Xmx4G -jar server.jar nogui
