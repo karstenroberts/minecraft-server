@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-02-27 11:49:19 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-12-19 12:02:16 -0800"
@@ -221,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-02-27 11:49:19 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2020-09-04 22:53:56 -0700"
@@ -251,7 +263,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-02-27 11:18:22 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-02-05 15:33:38 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-02-05 15:33:38 -0800"
     },
@@ -260,12 +284,6 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2021-02-05 16:33:00 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2021-02-05 15:33:38 -0800"
     },
     "done": true
   },
@@ -657,6 +675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-02-27 11:49:19 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-02-05 16:33:00 -0800"
@@ -702,6 +726,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2020-10-24 19:56:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-02-27 11:18:22 -0800"
     },
     "done": true
   },
@@ -940,6 +970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-02-27 11:18:22 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-10-24 19:56:29 -0700"
@@ -967,6 +1003,12 @@
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-02-05 15:33:38 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-02-27 11:18:22 -0800"
     },
     "done": true
   },
@@ -1048,12 +1090,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2021-02-05 16:33:00 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-02-05 15:33:38 -0800"
@@ -1066,6 +1102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2021-02-05 16:33:00 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2021-01-16 19:40:37 -0800"
@@ -1075,6 +1117,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2021-02-05 15:29:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-02-27 11:18:22 -0800"
     },
     "done": true
   },
@@ -1129,6 +1177,12 @@
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-02-05 15:33:38 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-02-27 11:18:22 -0800"
     },
     "done": true
   },
@@ -1237,6 +1291,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2020-09-04 22:27:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-02-27 11:18:22 -0800"
     },
     "done": true
   },
@@ -1408,15 +1468,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2021-02-05 15:33:38 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-02-05 15:29:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-02-05 15:33:38 -0800"
     },
     "done": true
   },
@@ -1528,15 +1588,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2021-02-05 16:21:40 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-02-05 16:17:33 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2021-02-05 16:21:40 -0800"
     },
     "done": true
   },
@@ -1866,9 +1926,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-02-27 11:18:22 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2020-10-24 20:16:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-02-27 11:49:19 -0800"
     },
     "done": true
   },
@@ -1878,15 +1950,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2021-02-05 15:29:21 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2021-02-05 15:15:02 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2021-02-05 15:29:21 -0800"
     },
     "done": true
   },
@@ -1915,9 +1987,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-02-27 11:18:22 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-02-27 11:18:22 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2021-01-23 14:47:23 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-02-27 11:49:19 -0800"
     },
     "done": true
   },
