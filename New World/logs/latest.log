@@ -1,71 +1,186 @@
-[10:49:41] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[10:49:42] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:49:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:49:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:49:42] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:49:42] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:49:42] [main/INFO]: Reloading ResourceManager: Default
-[10:49:42] [Worker-Main-12/INFO]: Loaded 7 recipes
-[10:49:43] [Worker-Main-12/INFO]: Loaded 927 advancements
-[10:49:43] [Server thread/INFO]: Starting minecraft server version 1.16.2
-[10:49:43] [Server thread/INFO]: Loading properties
-[10:49:43] [Server thread/INFO]: Default game type: SURVIVAL
-[10:49:43] [Server thread/INFO]: Generating keypair
-[10:49:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:49:44] [Server thread/INFO]: Using epoll channel type
-[10:49:44] [Server thread/INFO]: Preparing level "world"
-[10:49:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:49:44] [Server thread/INFO]: Preparing spawn area: 0%
-[10:49:44] [Server thread/INFO]: Preparing spawn area: 0%
-[10:49:47] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[10:49:47] [Worker-Main-13/INFO]: Preparing spawn area: 83%
-[10:49:47] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[10:49:47] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[10:49:47] [Server thread/INFO]: Preparing spawn area: 83%
-[10:49:47] [Worker-Main-11/INFO]: Preparing spawn area: 95%
-[10:49:48] [Server thread/INFO]: Time elapsed: 3901 ms
-[10:49:48] [Server thread/INFO]: Done (3.949s)! For help, type "help"
-[10:49:53] [User Authenticator #1/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
-[10:49:53] [Server thread/INFO]: katjarroberts[/97.126.157.108:64642] logged in with entity id 130 at (-777.997312163999, 74.0, 1073.8379338124569)
-[10:49:53] [Server thread/INFO]: katjarroberts joined the game
-[10:49:54] [User Authenticator #2/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[10:49:54] [Server thread/INFO]: kroberts11[/127.0.0.1:28941] logged in with entity id 308 at (-1133.0707434743904, 69.0, 1059.8968969570908)
-[10:49:54] [Server thread/INFO]: kroberts11 joined the game
-[10:50:03] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[10:51:30] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
-[10:52:12] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
-[10:53:55] [User Authenticator #3/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
-[10:53:55] [Server thread/INFO]: marikaroberts[/97.126.157.108:61954] logged in with entity id 1482 at (-1126.8493499319272, 69.0, 1054.8689642243687)
-[10:53:55] [Server thread/INFO]: marikaroberts joined the game
-[10:54:17] [Server thread/INFO]: [kroberts11: Teleported marikaroberts to kroberts11]
-[10:55:10] [User Authenticator #4/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
-[10:55:10] [Server thread/INFO]: GotchaGR04[/97.126.157.108:49569] logged in with entity id 1770 at (-775.910235756538, 74.0, 1076.8974143559763)
-[10:55:10] [Server thread/INFO]: GotchaGR04 joined the game
-[10:57:12] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/2068, l='ServerLevel[world]', x=-814.58, y=106.00, z=1079.65]
-[10:57:12] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/2068, l='ServerLevel[world]', x=-814.58, y=106.00, z=1079.65]
-[11:01:30] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[11:57:26] [Server thread/INFO]: <kroberts11> <3
-[11:57:40] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[11:59:04] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[11:59:04] [Server thread/INFO]: kroberts11 left the game
-[11:59:11] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
-[11:59:11] [Server thread/INFO]: GotchaGR04 left the game
-[12:03:33] [Server thread/INFO]: marikaroberts lost connection: Disconnected
-[12:03:33] [Server thread/INFO]: marikaroberts left the game
-[12:04:58] [Server thread/INFO]: katjarroberts was slain by Zombie
-[12:05:05] [Server thread/INFO]: katjarroberts lost connection: Disconnected
-[12:05:05] [Server thread/INFO]: katjarroberts left the game
-[12:11:11] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.io.FileInputStream.read(FileInputStream.java:271) ~[?:?]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:297) ~[?:?]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339) ~[?:?]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
-	at java.io.InputStreamReader.read(InputStreamReader.java:181) ~[?:?]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
-	at zg$1.run(SourceFile:89) [server.jar:?]
+[11:16:09] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:16:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:16:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:16:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:16:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:16:09] [main/INFO]: Reloading ResourceManager: Default
+[11:16:10] [Worker-Main-13/INFO]: Loaded 7 recipes
+[11:16:11] [Worker-Main-13/INFO]: Loaded 927 advancements
+[11:16:14] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[11:16:14] [Server thread/INFO]: Loading properties
+[11:16:14] [Server thread/INFO]: Default game type: SURVIVAL
+[11:16:14] [Server thread/INFO]: Generating keypair
+[11:16:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:16:14] [Server thread/INFO]: Using default channel type
+[11:16:15] [Server thread/INFO]: Preparing level "world"
+[11:16:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:16:16] [Server thread/INFO]: Preparing spawn area: 0%
+[11:16:16] [Server thread/INFO]: Preparing spawn area: 0%
+[11:16:16] [Server thread/INFO]: Preparing spawn area: 0%
+[11:16:16] [Server thread/INFO]: Preparing spawn area: 18%
+[11:16:21] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[11:16:21] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[11:16:21] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[11:16:21] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[11:16:21] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[11:16:21] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[11:16:21] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[11:16:21] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[11:16:21] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[11:16:21] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:16:22] [Worker-Main-9/INFO]: Preparing spawn area: 95%
+[11:16:22] [Worker-Main-10/INFO]: Preparing spawn area: 95%
+[11:16:23] [Server thread/INFO]: Preparing spawn area: 95%
+[11:16:23] [Worker-Main-10/INFO]: Preparing spawn area: 97%
+[11:16:24] [Server thread/INFO]: Preparing spawn area: 99%
+[11:16:25] [Server thread/INFO]: Time elapsed: 9796 ms
+[11:16:25] [Server thread/INFO]: Done (9.915s)! For help, type "help"
+[11:24:05] [User Authenticator #1/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[11:24:06] [Server thread/INFO]: katjarroberts[/192.168.0.57:49221] logged in with entity id 129 at (-4586.554127742749, 73.0, 3280.031115651104)
+[11:24:06] [Server thread/INFO]: katjarroberts joined the game
+[11:24:57] [Server thread/INFO]: Set the time to 0
+[11:26:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@60807b05[id=<null>,name=marikaroberts,properties={},legacy=false] (/192.168.0.23:53734) lost connection: Disconnected
+[11:26:08] [User Authenticator #2/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[11:26:08] [Server thread/INFO]: GotchaGR04[/192.168.0.20:49207] logged in with entity id 400 at (-4588.185330693334, 73.0, 3277.813018755499)
+[11:26:08] [Server thread/INFO]: GotchaGR04 joined the game
+[11:26:11] [User Authenticator #3/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[11:26:11] [Server thread/INFO]: marikaroberts[/192.168.0.23:53751] logged in with entity id 414 at (-4587.399295325757, 73.0, 3279.8486802147113)
+[11:26:11] [Server thread/INFO]: marikaroberts joined the game
+[11:31:09] [User Authenticator #4/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[11:31:09] [Server thread/INFO]: kroberts11[/127.0.0.1:60831] logged in with entity id 882 at (-4588.699999988079, 73.0, 3274.338219142364)
+[11:31:09] [Server thread/INFO]: kroberts11 joined the game
+[11:36:07] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[11:46:15] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[11:47:56] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/3873, l='ServerLevel[world]', x=-4552.13, y=65.94, z=3183.88]
+[11:56:52] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[11:58:56] [Server thread/INFO]: GotchaGR04 lost connection: Timed out
+[11:58:56] [Server thread/INFO]: GotchaGR04 left the game
+[11:58:56] [Server thread/WARN]: handleDisconnection() called twice
+[11:59:18] [User Authenticator #5/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[11:59:18] [Server thread/INFO]: GotchaGR04[/192.168.0.20:49321] logged in with entity id 5781 at (-4595.699999988079, 64.0, 3288.699999988079)
+[11:59:18] [Server thread/INFO]: GotchaGR04 joined the game
+[11:59:28] [Server thread/INFO]: kroberts11 has made the advancement [Take Aim]
+[12:00:20] [Server thread/INFO]: [kroberts11: Set the weather to clear]
+[12:05:26] [Server thread/INFO]: [kroberts11: Set the weather to clear]
+[12:05:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12:06:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 8.902551945045161,0.0,-5.323783269386695
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 9.267454233886383,0.0,-5.479968683901006
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 9.633442025510703,0.0,-5.634249186881789
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 9.999840275893803,0.0,-5.788277784971342
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 10.366049581464722,0.0,-5.943375697159809
+[12:06:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3383ms or 67 ticks behind
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 9.047420676727597,0.0,-4.932244615728905
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 9.366700987210606,0.0,-5.1698326611376615
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 9.684293967995472,0.0,-5.4098439387757935
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 10.000295440710033,0.0,-5.652120104581627
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 10.314796465343534,0.0,-5.896512671675282
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 10.62788638872189,0.0,-6.142879189694668
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 10.93965308101815,0.0,-6.391082687708604
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 11.250180593060577,0.0,-6.640994046902051
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 6.608241132525109
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 6.608241132525109
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 6.293948746044407
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 6.608241132525109
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 6.608241132525109
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 6.608241132525109
+[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 6.286781280133255
+[12:07:39] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[12:08:35] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.29370090431802964
+[12:08:44] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.2910215378610701
+[12:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
+[12:14:52] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.27744658759729646
+[12:14:52] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.2774465881266224
+[12:14:52] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.2810959588678088
+[12:14:52] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.6042873866049376
+[12:14:52] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.2829492461569316
+[12:15:18] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.29751250837989573
+[12:15:18] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.4791752539799745
+[12:15:18] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.4633650255982502
+[12:15:18] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.5462935030327571
+[12:16:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[12:17:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[12:17:53] [Server thread/INFO]: [kroberts11: Set the weather to clear]
+[12:17:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2819ms or 56 ticks behind
+[12:18:33] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[12:18:56] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.4014387510144388
+[12:18:57] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.2593218998085831
+[12:18:57] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.2996714220539616
+[12:18:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.3026177653391642
+[12:18:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.6247361443940918
+[12:18:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.3032633537802667
+[12:18:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.30359956836105084
+[12:18:59] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.30490501320991825
+[12:18:59] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.382316833622433
+[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.2803725756214135
+[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.2997628011407869
+[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.28232511977398644
+[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.29981700989969795
+[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.28406632738665394
+[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.29986579778164923
+[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.28561930652222145
+[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.2999102321400642
+[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.2870038039047813
+[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.29995074087696594
+[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.28823823606080623
+[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.2999871987392453
+[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.28933805282645153
+[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.30002053235511994
+[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.29031837722300224
+[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.30005053260856585
+[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.3000780543766268
+[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.25168870915672414
+[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.30010282396710863
+[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.30012511659811025
+[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.3001456977806356
+[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.30016422084463557
+[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.3001808916017126
+[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.30019589528251345
+[12:19:37] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.30020992013578507
+[12:21:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2259ms or 45 ticks behind
+[12:21:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.46684549608880843
+[12:21:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.7561556526902677
+[12:21:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.46839907482990384
+[12:21:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.7539772031514076
+[12:21:59] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.2601547486515301
+[12:21:59] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.25745966610611504
+[12:21:59] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.29555297598017205
+[12:23:28] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.28630104498734
+[12:25:57] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/18739, l='ServerLevel[world]', x=-1446.90, y=62.10, z=1221.71]
+[12:26:37] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.4765229887721034
+[12:26:46] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 9.438567075420679,0.0,-4.335814576522807
+[12:26:46] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[12:26:46] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.2767743751760463
+[12:26:46] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.6362182237510297
+[12:26:46] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.9955801396311017
+[12:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12:26:47] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.31075262435683726
+[12:26:47] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.49474385429812173
+[12:26:49] [Server thread/INFO]: [kroberts11: Set the weather to clear]
+[12:26:51] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.2700101229122538
+[12:26:51] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.5074346449196128
+[12:26:51] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.4931172498888827
+[12:31:20] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[12:31:20] [Server thread/INFO]: kroberts11 left the game
+[12:31:26] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[12:31:26] [Server thread/INFO]: GotchaGR04 left the game
+[12:32:13] [Server thread/INFO]: marikaroberts lost connection: Timed out
+[12:32:13] [Server thread/INFO]: marikaroberts left the game
+[12:34:39] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[12:34:39] [Server thread/INFO]: katjarroberts left the game
+[14:07:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:07:14] [Server thread/INFO]: exit<--[HERE]
+[14:07:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:07:16] [Server thread/INFO]: Exit()<--[HERE]
+[14:07:18] [Server thread/INFO]: Stopping server
+[14:07:18] [Server thread/INFO]: Saving players
+[14:07:18] [Server thread/INFO]: Saving worlds
+[14:07:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:07:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:07:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:07:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:07:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:07:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:07:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:07:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:07:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
