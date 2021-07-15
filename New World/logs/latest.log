@@ -1,186 +1,222 @@
-[11:16:09] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:16:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:16:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:16:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:16:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:16:09] [main/INFO]: Reloading ResourceManager: Default
-[11:16:10] [Worker-Main-13/INFO]: Loaded 7 recipes
-[11:16:11] [Worker-Main-13/INFO]: Loaded 927 advancements
-[11:16:14] [Server thread/INFO]: Starting minecraft server version 1.16.2
-[11:16:14] [Server thread/INFO]: Loading properties
-[11:16:14] [Server thread/INFO]: Default game type: SURVIVAL
-[11:16:14] [Server thread/INFO]: Generating keypair
-[11:16:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:16:14] [Server thread/INFO]: Using default channel type
-[11:16:15] [Server thread/INFO]: Preparing level "world"
-[11:16:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:16:16] [Server thread/INFO]: Preparing spawn area: 0%
-[11:16:16] [Server thread/INFO]: Preparing spawn area: 0%
-[11:16:16] [Server thread/INFO]: Preparing spawn area: 0%
-[11:16:16] [Server thread/INFO]: Preparing spawn area: 18%
-[11:16:21] [Worker-Main-10/INFO]: Preparing spawn area: 83%
-[11:16:21] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[11:16:21] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[11:16:21] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[11:16:21] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[11:16:21] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[11:16:21] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[11:16:21] [Worker-Main-10/INFO]: Preparing spawn area: 83%
-[11:16:21] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[11:16:21] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[11:16:22] [Worker-Main-9/INFO]: Preparing spawn area: 95%
-[11:16:22] [Worker-Main-10/INFO]: Preparing spawn area: 95%
-[11:16:23] [Server thread/INFO]: Preparing spawn area: 95%
-[11:16:23] [Worker-Main-10/INFO]: Preparing spawn area: 97%
-[11:16:24] [Server thread/INFO]: Preparing spawn area: 99%
-[11:16:25] [Server thread/INFO]: Time elapsed: 9796 ms
-[11:16:25] [Server thread/INFO]: Done (9.915s)! For help, type "help"
-[11:24:05] [User Authenticator #1/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
-[11:24:06] [Server thread/INFO]: katjarroberts[/192.168.0.57:49221] logged in with entity id 129 at (-4586.554127742749, 73.0, 3280.031115651104)
-[11:24:06] [Server thread/INFO]: katjarroberts joined the game
-[11:24:57] [Server thread/INFO]: Set the time to 0
-[11:26:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@60807b05[id=<null>,name=marikaroberts,properties={},legacy=false] (/192.168.0.23:53734) lost connection: Disconnected
-[11:26:08] [User Authenticator #2/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
-[11:26:08] [Server thread/INFO]: GotchaGR04[/192.168.0.20:49207] logged in with entity id 400 at (-4588.185330693334, 73.0, 3277.813018755499)
-[11:26:08] [Server thread/INFO]: GotchaGR04 joined the game
-[11:26:11] [User Authenticator #3/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
-[11:26:11] [Server thread/INFO]: marikaroberts[/192.168.0.23:53751] logged in with entity id 414 at (-4587.399295325757, 73.0, 3279.8486802147113)
-[11:26:11] [Server thread/INFO]: marikaroberts joined the game
-[11:31:09] [User Authenticator #4/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[11:31:09] [Server thread/INFO]: kroberts11[/127.0.0.1:60831] logged in with entity id 882 at (-4588.699999988079, 73.0, 3274.338219142364)
-[11:31:09] [Server thread/INFO]: kroberts11 joined the game
-[11:36:07] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[11:46:15] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[11:47:56] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/3873, l='ServerLevel[world]', x=-4552.13, y=65.94, z=3183.88]
-[11:56:52] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[11:58:56] [Server thread/INFO]: GotchaGR04 lost connection: Timed out
-[11:58:56] [Server thread/INFO]: GotchaGR04 left the game
-[11:58:56] [Server thread/WARN]: handleDisconnection() called twice
-[11:59:18] [User Authenticator #5/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
-[11:59:18] [Server thread/INFO]: GotchaGR04[/192.168.0.20:49321] logged in with entity id 5781 at (-4595.699999988079, 64.0, 3288.699999988079)
-[11:59:18] [Server thread/INFO]: GotchaGR04 joined the game
-[11:59:28] [Server thread/INFO]: kroberts11 has made the advancement [Take Aim]
-[12:00:20] [Server thread/INFO]: [kroberts11: Set the weather to clear]
-[12:05:26] [Server thread/INFO]: [kroberts11: Set the weather to clear]
-[12:05:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[12:06:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 8.902551945045161,0.0,-5.323783269386695
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 9.267454233886383,0.0,-5.479968683901006
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 9.633442025510703,0.0,-5.634249186881789
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 9.999840275893803,0.0,-5.788277784971342
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 10.366049581464722,0.0,-5.943375697159809
-[12:06:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3383ms or 67 ticks behind
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 9.047420676727597,0.0,-4.932244615728905
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 9.366700987210606,0.0,-5.1698326611376615
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 9.684293967995472,0.0,-5.4098439387757935
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 10.000295440710033,0.0,-5.652120104581627
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 10.314796465343534,0.0,-5.896512671675282
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 10.62788638872189,0.0,-6.142879189694668
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 10.93965308101815,0.0,-6.391082687708604
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 11.250180593060577,0.0,-6.640994046902051
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 6.608241132525109
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 6.608241132525109
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 6.293948746044407
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 6.608241132525109
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 6.608241132525109
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 6.608241132525109
-[12:06:32] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 6.286781280133255
-[12:07:39] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[12:08:35] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.29370090431802964
-[12:08:44] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.2910215378610701
-[12:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
-[12:14:52] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.27744658759729646
-[12:14:52] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.2774465881266224
-[12:14:52] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.2810959588678088
-[12:14:52] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.6042873866049376
-[12:14:52] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.2829492461569316
-[12:15:18] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.29751250837989573
-[12:15:18] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.4791752539799745
-[12:15:18] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.4633650255982502
-[12:15:18] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.5462935030327571
-[12:16:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
-[12:17:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[12:17:53] [Server thread/INFO]: [kroberts11: Set the weather to clear]
-[12:17:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2819ms or 56 ticks behind
-[12:18:33] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[12:18:56] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.4014387510144388
-[12:18:57] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.2593218998085831
-[12:18:57] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.2996714220539616
-[12:18:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.3026177653391642
-[12:18:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.6247361443940918
-[12:18:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.3032633537802667
-[12:18:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.30359956836105084
-[12:18:59] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.30490501320991825
-[12:18:59] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.382316833622433
-[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.2803725756214135
-[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.2997628011407869
-[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.28232511977398644
-[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.29981700989969795
-[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.28406632738665394
-[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.29986579778164923
-[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.28561930652222145
-[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.2999102321400642
-[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.2870038039047813
-[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.29995074087696594
-[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.28823823606080623
-[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.2999871987392453
-[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.28933805282645153
-[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.30002053235511994
-[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.29031837722300224
-[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.30005053260856585
-[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.3000780543766268
-[12:19:36] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.25168870915672414
-[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.30010282396710863
-[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.30012511659811025
-[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.3001456977806356
-[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.30016422084463557
-[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.3001808916017126
-[12:19:36] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.30019589528251345
-[12:19:37] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved wrongly! 0.30020992013578507
-[12:21:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2259ms or 45 ticks behind
-[12:21:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.46684549608880843
-[12:21:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.7561556526902677
-[12:21:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.46839907482990384
-[12:21:58] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.7539772031514076
-[12:21:59] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.2601547486515301
-[12:21:59] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.25745966610611504
-[12:21:59] [Server thread/WARN]: Boat (vehicle of kroberts11) moved wrongly! 0.29555297598017205
-[12:23:28] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.28630104498734
-[12:25:57] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/18739, l='ServerLevel[world]', x=-1446.90, y=62.10, z=1221.71]
-[12:26:37] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.4765229887721034
-[12:26:46] [Server thread/WARN]: Boat (vehicle of katjarroberts) moved too quickly! 9.438567075420679,0.0,-4.335814576522807
-[12:26:46] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[12:26:46] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.2767743751760463
-[12:26:46] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.6362182237510297
-[12:26:46] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.9955801396311017
-[12:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[12:26:47] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.31075262435683726
-[12:26:47] [Server thread/WARN]: Boat (vehicle of GotchaGR04) moved wrongly! 0.49474385429812173
-[12:26:49] [Server thread/INFO]: [kroberts11: Set the weather to clear]
-[12:26:51] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.2700101229122538
-[12:26:51] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.5074346449196128
-[12:26:51] [Server thread/WARN]: Boat (vehicle of marikaroberts) moved wrongly! 0.4931172498888827
-[12:31:20] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[12:31:20] [Server thread/INFO]: kroberts11 left the game
-[12:31:26] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
-[12:31:26] [Server thread/INFO]: GotchaGR04 left the game
-[12:32:13] [Server thread/INFO]: marikaroberts lost connection: Timed out
-[12:32:13] [Server thread/INFO]: marikaroberts left the game
-[12:34:39] [Server thread/INFO]: katjarroberts lost connection: Disconnected
-[12:34:39] [Server thread/INFO]: katjarroberts left the game
-[14:07:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[14:07:14] [Server thread/INFO]: exit<--[HERE]
-[14:07:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[14:07:16] [Server thread/INFO]: Exit()<--[HERE]
-[14:07:18] [Server thread/INFO]: Stopping server
-[14:07:18] [Server thread/INFO]: Saving players
-[14:07:18] [Server thread/INFO]: Saving worlds
-[14:07:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:07:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:07:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14:07:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:07:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14:07:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:07:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:07:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:07:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:09:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:09:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:09:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:09:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:09:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:09:28] [main/INFO]: Reloading ResourceManager: Default
+[17:09:29] [Worker-Main-13/INFO]: Loaded 7 recipes
+[17:09:29] [Worker-Main-13/INFO]: Loaded 927 advancements
+[17:09:33] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[17:09:33] [Server thread/INFO]: Loading properties
+[17:09:33] [Server thread/INFO]: Default game type: SURVIVAL
+[17:09:33] [Server thread/INFO]: Generating keypair
+[17:09:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:09:33] [Server thread/INFO]: Using default channel type
+[17:09:33] [Server thread/INFO]: Preparing level "world"
+[17:09:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:09:35] [Server thread/INFO]: Preparing spawn area: 0%
+[17:09:35] [Server thread/INFO]: Preparing spawn area: 0%
+[17:09:35] [Server thread/INFO]: Preparing spawn area: 0%
+[17:09:35] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[17:09:36] [Server thread/INFO]: Preparing spawn area: 65%
+[17:09:40] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[17:09:40] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[17:09:40] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[17:09:40] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[17:09:40] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[17:09:40] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[17:09:40] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[17:09:40] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[17:09:40] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[17:09:41] [Worker-Main-12/INFO]: Preparing spawn area: 95%
+[17:09:41] [Worker-Main-11/INFO]: Preparing spawn area: 95%
+[17:09:42] [Worker-Main-13/INFO]: Preparing spawn area: 95%
+[17:09:42] [Worker-Main-12/INFO]: Preparing spawn area: 96%
+[17:09:43] [Server thread/INFO]: Preparing spawn area: 98%
+[17:09:43] [Server thread/INFO]: Time elapsed: 9738 ms
+[17:09:43] [Server thread/INFO]: Done (9.846s)! For help, type "help"
+[17:11:49] [User Authenticator #1/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[17:11:50] [Server thread/INFO]: marikaroberts[/192.168.4.96:62175] logged in with entity id 124 at (-734.4572753141892, 87.5625, 1028.8622642337764)
+[17:11:50] [Server thread/INFO]: marikaroberts joined the game
+[17:12:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@596c1bba[id=<null>,name=GotchaGR04,properties={},legacy=false] (/192.168.4.94:63052) lost connection: Disconnected
+[17:12:45] [User Authenticator #2/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[17:12:45] [Server thread/INFO]: GotchaGR04[/192.168.4.94:63056] logged in with entity id 489 at (-770.4433863344475, 74.0, 1080.547930274793)
+[17:12:45] [Server thread/INFO]: GotchaGR04 joined the game
+[17:13:13] [User Authenticator #3/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[17:13:13] [Server thread/INFO]: marikaroberts lost connection: You logged in from another location
+[17:13:13] [Server thread/INFO]: marikaroberts left the game
+[17:13:14] [Server thread/WARN]: handleDisconnection() called twice
+[17:13:14] [Server thread/INFO]: marikaroberts[/127.0.0.1:62040] logged in with entity id 585 at (-734.4001236406164, 87.5, 1029.9329327230653)
+[17:13:14] [Server thread/INFO]: marikaroberts joined the game
+[17:13:31] [User Authenticator #4/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[17:13:31] [Server thread/INFO]: marikaroberts lost connection: You logged in from another location
+[17:13:31] [Server thread/INFO]: marikaroberts left the game
+[17:13:31] [Server thread/INFO]: marikaroberts[/192.168.4.96:62238] logged in with entity id 646 at (-735.3853216894021, 87.0, 1030.4394543720807)
+[17:13:31] [Server thread/INFO]: marikaroberts joined the game
+[17:14:38] [Server thread/INFO]: marikaroberts was slain by Zombie
+[17:15:32] [User Authenticator #5/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[17:15:32] [Server thread/INFO]: kroberts11[/127.0.0.1:62086] logged in with entity id 968 at (-766.9591802019537, 74.0, 1077.9477037498623)
+[17:15:32] [Server thread/INFO]: kroberts11 joined the game
+[17:16:16] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1067, l='ServerLevel[world]', x=-815.40, y=106.00, z=1078.59]
+[17:16:16] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1067, l='ServerLevel[world]', x=-815.40, y=106.00, z=1078.59]
+[17:16:16] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/1067, l='ServerLevel[world]', x=-815.40, y=106.00, z=1078.59]
+[17:18:25] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[17:18:25] [Server thread/INFO]: kroberts11 left the game
+[17:20:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[17:23:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[17:23:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3423ms or 68 ticks behind
+[17:25:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17:26:14] [User Authenticator #6/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[17:26:14] [Server thread/INFO]: kroberts11[/127.0.0.1:62286] logged in with entity id 2021 at (-767.9189208917436, 74.0, 1074.7135862547018)
+[17:26:14] [Server thread/INFO]: kroberts11 joined the game
+[17:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[17:38:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7603ms or 152 ticks behind
+[17:38:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3443ms or 68 ticks behind
+[17:44:39] [Server thread/INFO]: [kroberts11: Set the time to 1000]
+[17:46:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[17:46:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3197ms or 63 ticks behind
+[17:47:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3336ms or 66 ticks behind
+[17:47:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2997ms or 59 ticks behind
+[17:47:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4744ms or 94 ticks behind
+[17:48:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3796ms or 75 ticks behind
+[17:48:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
+[17:48:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2776ms or 55 ticks behind
+[17:49:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3169ms or 63 ticks behind
+[17:49:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3510ms or 70 ticks behind
+[17:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4574ms or 91 ticks behind
+[17:50:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2725ms or 54 ticks behind
+[17:50:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3367ms or 67 ticks behind
+[17:50:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2681ms or 53 ticks behind
+[17:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4196ms or 83 ticks behind
+[17:51:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5246ms or 104 ticks behind
+[17:51:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3421ms or 68 ticks behind
+[17:51:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3754ms or 75 ticks behind
+[17:52:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5995ms or 119 ticks behind
+[17:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3805ms or 76 ticks behind
+[17:52:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3036ms or 60 ticks behind
+[17:53:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
+[17:53:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
+[17:53:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3157ms or 63 ticks behind
+[17:54:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4425ms or 88 ticks behind
+[17:54:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3990ms or 79 ticks behind
+[17:54:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[17:55:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2925ms or 58 ticks behind
+[17:55:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3417ms or 68 ticks behind
+[17:55:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3720ms or 74 ticks behind
+[17:55:49] [Server thread/INFO]: [kroberts11: Set the time to 1000]
+[17:55:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2924ms or 58 ticks behind
+[17:56:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3656ms or 73 ticks behind
+[17:56:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4636ms or 92 ticks behind
+[17:56:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3370ms or 67 ticks behind
+[17:57:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3627ms or 72 ticks behind
+[17:57:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2539ms or 50 ticks behind
+[17:57:30] [Server thread/INFO]: [kroberts11: Applied effect Night Vision to kroberts11]
+[17:57:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3087ms or 61 ticks behind
+[17:58:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3438ms or 68 ticks behind
+[17:58:08] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
+[17:58:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3001ms or 60 ticks behind
+[17:58:28] [Server thread/INFO]: [kroberts11: Applied effect Night Vision to kroberts11]
+[17:58:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
+[17:58:54] [Server thread/INFO]: [kroberts11: Applied effect Night Vision to kroberts11]
+[17:58:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[17:59:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2640ms or 52 ticks behind
+[17:59:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:59:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
+[18:00:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3601ms or 72 ticks behind
+[18:00:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2497ms or 49 ticks behind
+[18:00:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[18:01:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2667ms or 53 ticks behind
+[18:01:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
+[18:01:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18:02:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18:02:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18:02:58] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
+[18:03:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3969ms or 79 ticks behind
+[18:03:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18:03:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18:04:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
+[18:04:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2816ms or 56 ticks behind
+[18:04:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2968ms or 59 ticks behind
+[18:04:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2884ms or 57 ticks behind
+[18:05:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[18:05:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
+[18:05:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2672ms or 53 ticks behind
+[18:06:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
+[18:06:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2333ms or 46 ticks behind
+[18:06:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18:07:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[18:07:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2879ms or 57 ticks behind
+[18:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:08:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3133ms or 62 ticks behind
+[18:08:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[18:08:22] [Server thread/INFO]: [kroberts11: Set the time to 1000]
+[18:08:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2589ms or 51 ticks behind
+[18:08:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4967ms or 99 ticks behind
+[18:09:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5165ms or 103 ticks behind
+[18:09:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4128ms or 82 ticks behind
+[18:09:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3233ms or 64 ticks behind
+[18:10:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4603ms or 92 ticks behind
+[18:10:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3827ms or 76 ticks behind
+[18:10:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3679ms or 73 ticks behind
+[18:11:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
+[18:11:21] [Server thread/INFO]: [kroberts11: Applied effect Night Vision to kroberts11]
+[18:11:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:11:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
+[18:12:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[18:12:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[18:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18:13:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18:13:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
+[18:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2849ms or 56 ticks behind
+[18:14:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4502ms or 90 ticks behind
+[18:14:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6125ms or 122 ticks behind
+[18:15:37] [Server thread/INFO]: GotchaGR04 lost connection: Timed out
+[18:15:37] [Server thread/INFO]: GotchaGR04 left the game
+[18:15:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[18:15:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3522ms or 70 ticks behind
+[18:17:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[18:17:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2582ms or 51 ticks behind
+[18:17:33] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
+[18:17:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
+[18:18:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4059ms or 81 ticks behind
+[18:18:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4307ms or 86 ticks behind
+[18:18:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2619ms or 52 ticks behind
+[18:19:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4751ms or 95 ticks behind
+[18:19:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[18:19:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5722ms or 114 ticks behind
+[18:20:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5081ms or 101 ticks behind
+[18:20:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3375ms or 67 ticks behind
+[18:20:28] [Server thread/INFO]: [kroberts11: Set the time to 1000]
+[18:20:31] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[18:20:31] [Server thread/INFO]: kroberts11 left the game
+[18:20:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3295ms or 65 ticks behind
+[18:25:13] [User Authenticator #7/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[18:25:13] [Server thread/INFO]: kroberts11[/127.0.0.1:62783] logged in with entity id 11038 at (-1189.0775404175913, 63.0, 1124.704212621472)
+[18:25:13] [Server thread/INFO]: kroberts11 joined the game
+[18:25:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[18:25:44] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
+[18:26:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18:26:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
+[18:26:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[18:26:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
+[18:27:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18:27:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18:27:35] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[18:27:35] [Server thread/INFO]: kroberts11 left the game
+[18:27:41] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[18:27:41] [Server thread/INFO]: marikaroberts left the game
+[18:27:53] [Server thread/INFO]: Stopping server
+[18:27:53] [Server thread/INFO]: Saving players
+[18:27:53] [Server thread/INFO]: Saving worlds
+[18:27:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:27:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:27:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:27:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:27:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:27:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:27:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:27:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:27:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
