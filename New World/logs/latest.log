@@ -1,4 +1,39 @@
-[09:27:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38865296ms or 777305 ticks behind
-[09:27:05] [Server Watchdog/FATAL]: A single server tick took 38865.29 seconds (should be max 0.05)
-[09:27:05] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[09:27:06] [Server Watchdog/ERROR]: This crash report has been saved to: /mnt/d/Games/minecraft-server/New World/./crash-reports/crash-2021-07-17_09.27.06-server.txt
+[16:31:13] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:31:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:31:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:31:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:31:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:31:13] [main/INFO]: Reloading ResourceManager: Default
+[16:31:13] [Worker-Main-12/INFO]: Loaded 7 recipes
+[16:31:14] [Worker-Main-12/INFO]: Loaded 927 advancements
+[16:31:15] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[16:31:15] [Server thread/INFO]: Loading properties
+[16:31:15] [Server thread/INFO]: Default game type: SURVIVAL
+[16:31:15] [Server thread/INFO]: Generating keypair
+[16:31:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:31:15] [Server thread/INFO]: Using epoll channel type
+[16:31:16] [Server thread/INFO]: Preparing level "world"
+[16:31:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:31:16] [Server thread/INFO]: Preparing spawn area: 0%
+[16:31:16] [Server thread/INFO]: Preparing spawn area: 0%
+[16:31:19] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[16:31:19] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[16:31:19] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[16:31:19] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[16:31:19] [Server thread/INFO]: Preparing spawn area: 83%
+[16:31:19] [Worker-Main-8/INFO]: Preparing spawn area: 95%
+[16:31:20] [Worker-Main-15/INFO]: Preparing spawn area: 99%
+[16:31:20] [Server thread/INFO]: Time elapsed: 4037 ms
+[16:31:20] [Server thread/INFO]: Done (4.122s)! For help, type "help"
+[16:31:56] [Server thread/INFO]: Stopping server
+[16:31:56] [Server thread/INFO]: Saving players
+[16:31:56] [Server thread/INFO]: Saving worlds
+[16:31:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:31:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:31:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:31:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:31:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:31:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:31:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:31:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:31:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
