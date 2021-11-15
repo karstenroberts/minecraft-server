@@ -1,0 +1,85 @@
+[09:08:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:08:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:08:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:08:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:08:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:08:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:08:07] [main/INFO]: Reloading ResourceManager: Default
+[09:08:07] [Worker-Main-14/INFO]: Loaded 7 recipes
+[09:08:08] [Worker-Main-14/INFO]: Loaded 1137 advancements
+[09:08:08] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[09:08:08] [Server thread/INFO]: Loading properties
+[09:08:08] [Server thread/INFO]: Default game type: SURVIVAL
+[09:08:08] [Server thread/INFO]: Generating keypair
+[09:08:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:08:08] [Server thread/INFO]: Using epoll channel type
+[09:08:08] [Server thread/INFO]: Preparing level "world"
+[09:08:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:08:09] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[09:08:09] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[09:08:09] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[09:08:10] [Worker-Main-12/INFO]: Preparing spawn area: 6%
+[09:08:10] [Worker-Main-10/INFO]: Preparing spawn area: 34%
+[09:08:11] [Server thread/INFO]: Time elapsed: 2743 ms
+[09:08:11] [Server thread/INFO]: Done (2.795s)! For help, type "help"
+[09:11:12] [User Authenticator #1/INFO]: UUID of player Aryae21 is b6160f48-0097-48d6-b319-c27f647234cf
+[09:11:12] [Server thread/INFO]: Aryae21[/73.149.105.4:54008] logged in with entity id 512 at (-256.6826775660506, 87.0, 56.85540085548863)
+[09:11:12] [Server thread/INFO]: Aryae21 joined the game
+[09:11:21] [User Authenticator #2/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[09:11:21] [Server thread/INFO]: kroberts11[/127.0.0.1:40206] logged in with entity id 624 at (-226.06000558161176, 93.0, 85.39496619270228)
+[09:11:21] [Server thread/INFO]: kroberts11 joined the game
+[09:11:39] [Server thread/INFO]: Aryae21 was slain by Spider
+[09:19:19] [Server thread/INFO]: Aryae21 burned to death
+[09:27:21] [Server thread/INFO]: Aryae21 has completed the challenge [Hot Tourist Destinations]
+[09:33:54] [Server thread/INFO]: Aryae21 has made the advancement [A Terrible Fortress]
+[09:33:54] [Server thread/INFO]: kroberts11 has made the advancement [A Terrible Fortress]
+[09:34:02] [Server thread/INFO]: Aryae21 was slain by Wither Skeleton
+[09:35:49] [Server thread/INFO]: kroberts11 was slain by Piglin
+[09:37:57] [Server thread/INFO]: Aryae21 was slain by Piglin
+[09:39:21] [Server thread/INFO]: Aryae21 was slain by Piglin
+[09:40:32] [Server thread/INFO]: kroberts11 has made the advancement [Suit Up]
+[09:45:21] [Server thread/INFO]: Aryae21 has made the advancement [Suit Up]
+[09:51:30] [Server thread/INFO]: Aryae21 has made the advancement [Into Fire]
+[09:51:37] [Server thread/INFO]: Aryae21 was slain by Blaze
+[09:51:39] [Server thread/INFO]: kroberts11 has made the advancement [Into Fire]
+[09:57:32] [Server thread/INFO]: Aryae21 was shot by Piglin
+[10:00:33] [Server thread/INFO]: Aryae21 has made the advancement [Local Brewery]
+[10:04:45] [Server thread/INFO]: Aryae21 has reached the goal [Zombie Doctor]
+[10:21:03] [Server thread/INFO]: [Aryae21: Set own game mode to Creative Mode]
+[10:21:04] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
+[10:24:22] [Server thread/INFO]: Villager bjr['Farmer'/11097, l='ServerLevel[world]', x=-251.30, y=87.00, z=51.30] died, message: 'Farmer was slain by Zombie'
+[10:24:58] [Server thread/INFO]: Villager bjr['Librarian'/375, l='ServerLevel[world]', x=-248.50, y=87.00, z=51.49] died, message: 'Librarian was slain by Zombie'
+[10:25:06] [Server thread/INFO]: Villager bjr['Librarian'/386, l='ServerLevel[world]', x=-248.70, y=87.00, z=48.49] died, message: 'Librarian was slain by Zombie'
+[10:25:13] [Server thread/INFO]: Villager bjr['Librarian'/396, l='ServerLevel[world]', x=-248.70, y=87.00, z=47.51] died, message: 'Librarian was slain by Zombie Villager'
+[10:25:21] [Server thread/INFO]: Villager bjr['Librarian'/395, l='ServerLevel[world]', x=-248.70, y=87.00, z=46.51] died, message: 'Librarian was slain by Zombie Villager'
+[10:25:28] [Server thread/INFO]: Villager bjr['Librarian'/394, l='ServerLevel[world]', x=-248.70, y=87.00, z=45.51] died, message: 'Librarian was slain by Zombie Villager'
+[10:26:42] [Server thread/INFO]: Villager bjr['Farmer'/11262, l='ServerLevel[world]', x=-253.51, y=87.05, z=51.30] died, message: 'Farmer was slain by Zombie Villager'
+[10:26:49] [Server thread/INFO]: Villager bjr['Farmer'/11210, l='ServerLevel[world]', x=-253.43, y=87.00, z=51.70] died, message: 'Farmer was slain by Zombie Villager'
+[10:26:56] [Server thread/INFO]: Villager bjr['Farmer'/11093, l='ServerLevel[world]', x=-254.30, y=87.00, z=51.51] died, message: 'Farmer was slain by Zombie Villager'
+[10:27:13] [Server thread/INFO]: Villager bjr['Librarian'/374, l='ServerLevel[world]', x=-250.70, y=86.50, z=48.77] died, message: 'Librarian was slain by Zombie'
+[10:27:19] [Server thread/INFO]: Villager bjr['Librarian'/381, l='ServerLevel[world]', x=-250.70, y=87.02, z=48.67] died, message: 'Librarian was slain by Zombie'
+[10:27:36] [Server thread/INFO]: [Aryae21: Set own game mode to Survival Mode]
+[10:27:37] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
+[10:30:59] [Server thread/INFO]: kroberts11 was slain by Zombified Piglin
+[10:31:16] [Server thread/INFO]: Villager bjr['Librarian'/16297, l='ServerLevel[world]', x=-248.70, y=87.00, z=45.51] died, message: 'Librarian was slain by Zombie Villager'
+[10:31:40] [Server thread/INFO]: kroberts11 was slain by Zombified Piglin
+[10:31:57] [Server thread/INFO]: Villager bjr['Librarian'/16620, l='ServerLevel[world]', x=-248.70, y=87.00, z=46.51] died, message: 'Librarian was slain by Zombie Villager'
+[10:32:12] [Server thread/INFO]: Villager bjr['Librarian'/16723, l='ServerLevel[world]', x=-248.70, y=87.00, z=48.70] died, message: 'Librarian was slain by Zombie Villager'
+[10:32:18] [Server thread/INFO]: Villager bjr['Librarian'/16868, l='ServerLevel[world]', x=-250.70, y=87.00, z=50.70] died, message: 'Librarian was slain by Zombie Villager'
+[10:32:44] [Server thread/INFO]: Villager bjr['Librarian'/17023, l='ServerLevel[world]', x=-248.70, y=87.00, z=47.51] died, message: 'Librarian was slain by Zombie Villager'
+[10:34:25] [Server thread/INFO]: Aryae21 was slain by Zombie Villager
+[10:34:36] [Server thread/INFO]: Villager bjr['Farmer'/17206, l='ServerLevel[world]', x=-253.30, y=87.00, z=51.30] died, message: 'Farmer was slain by Zombie Villager'
+[10:34:38] [Server thread/INFO]: Villager bjr['Farmer'/17323, l='ServerLevel[world]', x=-253.51, y=87.00, z=51.70] died, message: 'Farmer was slain by Zombie Villager'
+[10:35:34] [Server thread/INFO]: kroberts11 was slain by Zombified Piglin
+[10:35:38] [Server thread/INFO]: Aryae21 was slain by Zombie Villager
+[10:41:12] [Server thread/INFO]: Aryae21 was slain by Zombified Piglin
+[10:43:25] [Server thread/INFO]: Aryae21 was slain by Enderman
+[10:47:57] [Server thread/INFO]: Aryae21 has made the advancement [Isn't It Iron Pick]
+[10:57:20] [Server thread/INFO]: kroberts11 was slain by Zombified Piglin
+[10:57:31] [Server thread/INFO]: kroberts11 was slain by Zombie Villager
+[10:59:18] [Server thread/INFO]: kroberts11 was slain by Zombified Piglin
+[10:59:33] [Server thread/INFO]: kroberts11 was blown up by Creeper
+[11:07:41] [Server thread/INFO]: Aryae21 lost connection: Disconnected
+[11:07:41] [Server thread/INFO]: Aryae21 left the game
+[11:07:46] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[11:07:46] [Server thread/INFO]: kroberts11 left the game
