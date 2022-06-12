@@ -1,0 +1,75 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-06-11 19:15:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-11 19:15:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-11 19:15:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2022-06-11 19:13:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-06-11 19:15:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-06-11 19:15:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-06-11 19:15:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-06-11 19:15:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2022-06-11 19:12:35 -0700",
+      "minecraft:taiga": "2022-06-11 19:14:52 -0700",
+      "minecraft:bamboo_jungle": "2022-06-11 19:25:33 -0700",
+      "minecraft:stony_peaks": "2022-06-11 19:25:29 -0700",
+      "minecraft:mangrove_swamp": "2022-06-11 19:29:36 -0700",
+      "minecraft:sparse_jungle": "2022-06-11 19:25:11 -0700",
+      "minecraft:lukewarm_ocean": "2022-06-11 19:26:35 -0700",
+      "minecraft:river": "2022-06-11 19:26:11 -0700",
+      "minecraft:stony_shore": "2022-06-11 19:26:25 -0700",
+      "minecraft:grove": "2022-06-11 19:12:58 -0700",
+      "minecraft:forest": "2022-06-11 19:24:54 -0700",
+      "minecraft:lush_caves": "2022-06-11 19:12:57 -0700",
+      "minecraft:jungle": "2022-06-11 19:25:24 -0700",
+      "minecraft:windswept_savanna": "2022-06-11 19:30:55 -0700",
+      "minecraft:frozen_peaks": "2022-06-11 19:14:35 -0700",
+      "minecraft:deep_dark": "2022-06-11 19:16:06 -0700",
+      "minecraft:meadow": "2022-06-11 19:12:07 -0700",
+      "minecraft:savanna": "2022-06-11 19:31:24 -0700",
+      "minecraft:plains": "2022-06-11 19:27:36 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 3105
+}
