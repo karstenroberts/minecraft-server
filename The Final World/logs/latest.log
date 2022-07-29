@@ -1,207 +1,92 @@
-[18:45:19] [ServerMain/INFO]: Building unoptimized datafixer
-[18:45:19] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:45:20] [ServerMain/INFO]: Loaded 7 recipes
-[18:45:20] [ServerMain/INFO]: Loaded 1179 advancements
-[18:45:21] [Server thread/INFO]: Starting minecraft server version 1.19
-[18:45:21] [Server thread/INFO]: Loading properties
-[18:45:21] [Server thread/INFO]: Default game type: SURVIVAL
-[18:45:21] [Server thread/INFO]: Generating keypair
-[18:45:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:45:21] [Server thread/INFO]: Using epoll channel type
-[18:45:21] [Server thread/INFO]: Preparing level "world"
-[18:45:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:45:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:45:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:45:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:45:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:45:24] [Worker-Main-3/INFO]: Preparing spawn area: 25%
-[18:45:24] [Server thread/INFO]: Time elapsed: 2336 ms
-[18:45:24] [Server thread/INFO]: Done (2.445s)! For help, type "help"
-[18:46:18] [User Authenticator #1/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[18:46:18] [Server thread/INFO]: kroberts11[/192.168.0.3:58929] logged in with entity id 105 at (-33.5, 95.0, -25.5)
-[18:46:18] [Server thread/INFO]: kroberts11 joined the game
-[18:46:19] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[18:46:19] [Server thread/INFO]: kroberts11 left the game
-[18:46:47] [User Authenticator #2/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
-[18:46:47] [Server thread/INFO]: GotchaGR04[/97.126.116.136:62009] logged in with entity id 192 at (-29.5, 95.0, -32.5)
-[18:46:47] [Server thread/INFO]: GotchaGR04 joined the game
-[18:47:08] [Server thread/INFO]: Seed: [8062031729683360844]
-[18:47:30] [Server thread/INFO]: Incorrect argument for command
-[18:47:30] [Server thread/INFO]: gamemode GotchaGR04 1<--[HERE]
-[18:47:44] [Server thread/INFO]: Incorrect argument for command
-[18:47:44] [Server thread/INFO]: gamemode 1 GotchaGR04<--[HERE]
-[18:50:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=94, z=-29}
-[18:50:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=94, z=-29}
-[18:50:15] [User Authenticator #3/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[18:50:15] [Server thread/INFO]: kroberts11[/127.0.0.1:48224] logged in with entity id 689 at (-33.5, 95.0, -25.5)
-[18:50:15] [Server thread/INFO]: kroberts11 joined the game
-[18:50:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-25, y=94, z=-31}
-[18:50:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-25, y=94, z=-31}
-[18:50:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-25, y=94, z=-31}
-[18:50:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-25, y=94, z=-31}
-[18:50:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-25, y=94, z=-31}
-[18:50:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=94, z=-29}
-[18:50:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=94, z=-29}
-[18:50:26] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=94, z=-29}
-[18:50:26] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=94, z=-29}
-[18:50:26] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=94, z=-29}
-[18:50:26] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=94, z=-29}
-[18:50:26] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=94, z=-29}
-[18:50:26] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=94, z=-29}
-[18:50:26] [Server thread/INFO]: [kroberts11: Set own game mode to Adventure Mode]
-[18:50:26] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=94, z=-29}
-[18:50:26] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-26, y=94, z=-29}
-[18:50:40] [Server thread/INFO]: [kroberts11: Set GotchaGR04's game mode to Creative Mode]
-[18:50:45] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
-[18:50:47] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[18:54:49] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to 3121.500000, 165.771323, 1775.500000]
-[18:55:05] [Server thread/INFO]: <GotchaGR04> tp kr
-[18:55:28] [Server thread/INFO]: <GotchaGR04> \tp kroberts11
-[18:57:15] [Server thread/INFO]: [kroberts11: Teleported GotchaGR04 to kroberts11]
-[18:57:15] [Server thread/WARN]: GotchaGR04 moved too quickly! 3152.7661214577547,14.237828130193947,1811.7265615234785
-[18:58:11] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to -2700.500000, 187.879354, -3416.500000]
-[18:58:58] [Server thread/INFO]: [kroberts11: Made GotchaGR04 a server operator]
-[18:59:11] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to kroberts11]
-[18:59:11] [Server thread/WARN]: GotchaGR04 moved too quickly! -5766.456824084698,16.113747705183073,-5115.35462309411
-[18:59:29] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to -4379.500000, 202.493112, -3860.500000]
-[18:59:32] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to kroberts11]
-[19:01:09] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[19:01:22] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to 635.500000, 212.525661, -734.500000]
-[19:01:22] [Server thread/WARN]: kroberts11 moved too quickly! 5121.865533485568,0.0,3121.144240952437
-[19:01:22] [Server thread/WARN]: kroberts11 moved too quickly! 5121.865533485568,0.0,3121.144240952437
-[19:01:22] [Server thread/WARN]: kroberts11 moved too quickly! 5121.865533485568,0.0,3121.144240952437
-[19:01:22] [Server thread/WARN]: kroberts11 moved too quickly! 5121.865533485568,0.0,3121.144240952437
-[19:01:22] [Server thread/WARN]: kroberts11 moved too quickly! 5121.865533485568,0.0,3121.144240952437
-[19:01:34] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to kroberts11]
-[19:02:12] [Server thread/WARN]: GotchaGR04 moved too quickly! -0.4001539918008348,-10.118279160935884,-0.4871155742652036
-[19:02:57] [User Authenticator #4/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
-[19:02:57] [Server thread/INFO]: katjarroberts[/97.126.116.136:52341] logged in with entity id 5058 at (-25.5, 95.0, -33.5)
-[19:02:57] [Server thread/INFO]: katjarroberts joined the game
-[19:03:32] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to -6072.500000, 266.385195, -1086.500000]
-[19:03:32] [Server thread/WARN]: kroberts11 moved too quickly! -6706.808210415128,0.0,-301.4636148115575
-[19:03:52] [Server thread/INFO]: [katjarroberts: Set own game mode to Creative Mode]
-[19:04:48] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to kroberts11]
-[19:04:48] [Server thread/WARN]: GotchaGR04 moved too quickly! -6662.543094606125,-25.345387291347976,-317.15130413130805
-[19:04:50] [Server thread/WARN]: GotchaGR04 moved too quickly! 0.0,-12.262358999312141,0.0
-[19:04:57] [Server thread/INFO]: [katjarroberts: Teleported katjarroberts to kroberts11]
-[19:04:57] [Server thread/WARN]: katjarroberts moved too quickly! -6054.99021457729,19.547265013090794,-922.2073799658822
-[19:08:04] [Server thread/WARN]: katjarroberts moved too quickly! 0.33179126958384586,-11.213403912871314,0.3843401788258234
-[19:08:31] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to katjarroberts]
-[19:10:32] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to katjarroberts]
-[19:10:32] [Server thread/WARN]: GotchaGR04 moved too quickly! -45.65392216564669,34.957252811972474,31.08597621713966
-[19:11:50] [Server thread/INFO]: [kroberts11: Set the time to 1000]
-[19:12:07] [User Authenticator #5/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
-[19:12:07] [Server thread/INFO]: marikaroberts[/97.126.116.136:58564] logged in with entity id 8229 at (-35.5, 99.0, -41.5)
-[19:12:07] [Server thread/INFO]: marikaroberts joined the game
-[19:12:09] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to -7389.500000, 201.654613, -1031.500000]
-[19:12:09] [Server thread/WARN]: kroberts11 moved too quickly! -1324.2591186640793,0.0,58.7845354824326
-[19:12:56] [Server thread/INFO]: [marikaroberts: Teleported marikaroberts to GotchaGR04]
-[19:13:08] [Server thread/INFO]: marikaroberts was slain by Zombie
-[19:13:55] [Server thread/INFO]: marikaroberts was slain by Zombie
-[19:14:08] [Server thread/INFO]: [marikaroberts: Set own game mode to Creative Mode]
-[19:14:17] [Server thread/INFO]: [marikaroberts: Teleported marikaroberts to GotchaGR04]
-[19:17:00] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to marikaroberts]
-[19:17:30] [Server thread/INFO]: [katjarroberts: Teleported katjarroberts to marikaroberts]
-[19:17:58] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to marikaroberts]
-[19:17:58] [Server thread/WARN]: GotchaGR04 moved too quickly! 19.73182581090532,182.50534545768522,88.9812651837533
-[19:17:59] [Server thread/INFO]: [katjarroberts: Teleported katjarroberts to marikaroberts]
-[19:17:59] [Server thread/WARN]: katjarroberts moved too quickly! 47.87414725227063,153.39681486693956,40.580843156546734
-[19:19:55] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to 3332.500000, 221.106063, -16004.500000]
-[19:19:55] [Server thread/WARN]: kroberts11 moved too quickly! 10682.726438596288,0.0,-14955.639264348947
-[19:19:55] [Server thread/WARN]: kroberts11 moved too quickly! 10682.726438596288,0.0,-14955.639264348947
-[19:19:55] [Server thread/WARN]: kroberts11 moved too quickly! 10682.726438596288,0.0,-14955.639264348947
-[19:19:55] [Server thread/WARN]: kroberts11 moved too quickly! 10682.726438596288,0.0,-14955.639264348947
-[19:20:29] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to 3828.500000, 217.361697, -16247.500000]
-[19:21:04] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[19:21:12] [Server thread/INFO]: [katjarroberts: Teleported katjarroberts to kroberts11]
-[19:21:12] [Server thread/WARN]: katjarroberts moved too quickly! 9652.930277111436,-23.707361686170657,-15011.404376107921
-[19:21:17] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to kroberts11]
-[19:21:55] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to 3121.500000, 149.475450, -16326.500000]
-[19:22:01] [Server thread/INFO]: [katjarroberts: Teleported katjarroberts to kroberts11]
-[19:22:01] [Server thread/WARN]: katjarroberts moved too quickly! -753.1147988518751,-31.566454118282735,-58.11307042431872
-[19:22:29] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to 3328.500000, 145.355454, -15982.500000]
-[19:22:29] [Server thread/WARN]: kroberts11 moved too quickly! 238.1674769697729,0.0,357.9813178787299
-[19:22:29] [Server thread/WARN]: kroberts11 moved too quickly! 238.1674769697729,0.0,357.9813178787299
-[19:22:29] [Server thread/WARN]: kroberts11 moved too quickly! 238.1674769697729,0.0,357.9813178787299
-[19:22:29] [Server thread/WARN]: kroberts11 moved too quickly! 238.1674769697729,0.0,357.9813178787299
-[19:22:29] [Server thread/WARN]: kroberts11 moved too quickly! 238.1674769697729,0.0,357.9813178787299
-[19:22:29] [Server thread/WARN]: kroberts11 moved too quickly! 238.1674769697729,0.0,357.9813178787299
-[19:22:32] [Server thread/INFO]: [katjarroberts: Teleported katjarroberts to kroberts11]
-[19:22:47] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to 3330.554924, 200.000000, -15990.700000]
-[19:22:47] [Server thread/WARN]: kroberts11 moved too quickly! 0.0,60.0,0.0
-[19:22:47] [Server thread/WARN]: kroberts11 moved too quickly! 0.0,60.0,0.0
-[19:22:47] [Server thread/WARN]: kroberts11 moved too quickly! 0.0,60.0,0.0
-[19:22:47] [Server thread/WARN]: kroberts11 moved too quickly! 0.0,60.0,0.0
-[19:22:47] [Server thread/WARN]: kroberts11 moved too quickly! 0.0,60.0,0.0
-[19:22:50] [Server thread/INFO]: [katjarroberts: Teleported katjarroberts to kroberts11]
-[19:24:26] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to 3840.500000, 201.859858, -16254.500000]
-[19:24:26] [Server thread/WARN]: kroberts11 moved too quickly! 494.0021242911648,0.0,-278.4286571512075
-[19:24:26] [Server thread/WARN]: kroberts11 moved too quickly! 494.0021242911648,0.0,-278.4286571512075
-[19:24:26] [Server thread/WARN]: kroberts11 moved too quickly! 494.0021242911648,0.0,-278.4286571512075
-[19:24:35] [Server thread/INFO]: [katjarroberts: Teleported katjarroberts to kroberts11]
-[19:24:42] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to kroberts11]
-[19:24:54] [Server thread/INFO]: [marikaroberts: Teleported marikaroberts to GotchaGR04]
-[19:25:46] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to marikaroberts]
-[19:26:12] [Server thread/WARN]: katjarroberts moved too quickly! -0.33818947366944485,-15.749512420695979,0.3214145016099792
-[19:27:04] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to katjarroberts]
-[19:28:05] [Server thread/INFO]: [marikaroberts: Teleported marikaroberts to GotchaGR04]
-[19:28:29] [Server thread/INFO]: [marikaroberts: Teleported marikaroberts to katjarroberts]
-[19:29:35] [Server thread/INFO]: [marikaroberts: Teleported marikaroberts to kroberts11]
-[19:29:36] [Server thread/INFO]: [katjarroberts: Teleported katjarroberts to kroberts11]
-[19:29:56] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to marikaroberts]
-[19:30:02] [Server thread/INFO]: [marikaroberts: Teleported marikaroberts to kroberts11]
-[19:30:11] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to marikaroberts]
-[19:30:18] [Server thread/INFO]: [katjarroberts: Teleported katjarroberts to kroberts11]
-[19:30:18] [Server thread/WARN]: katjarroberts moved too quickly! -70.21092588457395,-0.8556445369487307,26.818415998001
-[19:30:52] [Server thread/INFO]: [marikaroberts: Teleported marikaroberts to kroberts11]
-[19:31:04] [Server thread/INFO]: [marikaroberts: Teleported marikaroberts to katjarroberts]
-[19:31:04] [Server thread/WARN]: marikaroberts moved too quickly! -18.51605590944928,6.0,-15.132627429595232
-[19:31:15] [Server thread/INFO]: [marikaroberts: Teleported marikaroberts to kroberts11]
-[19:31:15] [Server thread/WARN]: marikaroberts moved too quickly! 1.3977566666035273,15.0,3.953314092152141
-[19:31:30] [Server thread/INFO]: [marikaroberts: Teleported marikaroberts to katjarroberts]
-[19:31:35] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to katjarroberts]
-[19:31:35] [Server thread/WARN]: kroberts11 moved too quickly! -3.307451862268863,18.91077121807274,8.951763866174588
-[19:31:35] [Server thread/WARN]: kroberts11 moved too quickly! -3.307451862268863,18.91077121807274,8.951763866174588
-[19:31:35] [Server thread/WARN]: kroberts11 moved too quickly! -3.307451862268863,18.91077121807274,8.951763866174588
-[19:31:35] [Server thread/WARN]: kroberts11 moved too quickly! -3.307451862268863,18.91077121807274,8.951763866174588
-[19:32:25] [Server thread/INFO]: [marikaroberts: Teleported marikaroberts to GotchaGR04]
-[19:32:26] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to 6347.500000, 129.787099, -16609.500000]
-[19:32:26] [Server thread/WARN]: kroberts11 moved too quickly! 872.7941003310916,0.0,-401.28994999815586
-[19:32:26] [Server thread/WARN]: kroberts11 moved too quickly! 872.7941003310916,0.0,-401.28994999815586
-[19:32:26] [Server thread/WARN]: kroberts11 moved too quickly! 872.7941003310916,0.0,-401.28994999815586
-[19:32:26] [Server thread/WARN]: kroberts11 moved too quickly! 872.7941003310916,0.0,-401.28994999815586
-[19:32:32] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[19:32:47] [Server thread/INFO]: [kroberts11: Set the time to 13000]
-[19:33:35] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to 6117.500000, 139.538763, -16746.500000]
-[19:33:35] [Server thread/WARN]: kroberts11 moved too quickly! -201.89174736404493,0.0,-104.67344864573533
-[19:33:35] [Server thread/WARN]: kroberts11 moved too quickly! -201.89174736404493,0.0,-104.67344864573533
-[19:33:35] [Server thread/WARN]: kroberts11 moved too quickly! -201.89174736404493,0.0,-104.67344864573533
-[19:33:35] [Server thread/WARN]: kroberts11 moved too quickly! -201.89174736404493,0.0,-104.67344864573533
-[19:33:35] [Server thread/WARN]: kroberts11 moved too quickly! -201.89174736404493,0.0,-104.67344864573533
-[19:33:56] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to marikaroberts]
-[19:33:56] [Server thread/WARN]: kroberts11 moved too quickly! -619.1583186484722,8.905569664231137,498.1372759853348
-[19:33:56] [Server thread/WARN]: kroberts11 moved too quickly! -619.1583186484722,8.905569664231137,498.1372759853348
-[19:33:56] [Server thread/WARN]: kroberts11 moved too quickly! -619.1583186484722,8.905569664231137,498.1372759853348
-[19:33:56] [Server thread/WARN]: kroberts11 moved too quickly! -619.1583186484722,8.905569664231137,498.1372759853348
-[19:33:56] [Server thread/WARN]: kroberts11 moved too quickly! -619.1583186484722,8.905569664231137,498.1372759853348
-[19:36:27] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to 3804.500000, 133.337092, -16227.500000]
-[19:36:27] [Server thread/WARN]: kroberts11 moved too quickly! -1639.0936237658561,0.0,-27.334792205494523
-[19:36:27] [Server thread/WARN]: kroberts11 moved too quickly! -1639.0936237658561,0.0,-27.334792205494523
-[19:36:28] [Server thread/WARN]: kroberts11 moved too quickly! -1639.0936237658561,0.0,-27.334792205494523
-[19:36:28] [Server thread/WARN]: kroberts11 moved too quickly! -1639.0936237658561,0.0,-27.334792205494523
-[19:36:28] [Server thread/WARN]: kroberts11 moved too quickly! -1639.0936237658561,0.0,-27.334792205494523
-[19:36:36] [Server thread/INFO]: [kroberts11: Set the time to 1000]
-[19:39:07] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to kroberts11]
-[19:39:07] [Server thread/WARN]: GotchaGR04 moved too quickly! -1585.3155683467326,54.267026214489405,-77.42203110324954
-[19:40:50] [Server thread/INFO]: [marikaroberts: Teleported marikaroberts to kroberts11]
-[19:40:52] [Server thread/INFO]: [katjarroberts: Teleported katjarroberts to kroberts11]
-[19:40:58] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to kroberts11]
-[19:40:58] [Server thread/WARN]: GotchaGR04 moved too quickly! -31.75484867523528,-60.35476438662161,7.426643798691657
-[19:45:15] [Server thread/INFO]: marikaroberts lost connection: Disconnected
-[19:45:15] [Server thread/INFO]: marikaroberts left the game
-[19:45:18] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[19:45:18] [Server thread/INFO]: kroberts11 left the game
-[19:47:43] [Server thread/INFO]: katjarroberts lost connection: Disconnected
-[19:47:43] [Server thread/INFO]: katjarroberts left the game
-[19:49:01] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
-[19:49:01] [Server thread/INFO]: GotchaGR04 left the game
+[20:16:42] [ServerMain/INFO]: Building unoptimized datafixer
+[20:16:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:16:43] [ServerMain/INFO]: Loaded 7 recipes
+[20:16:43] [ServerMain/INFO]: Loaded 1179 advancements
+[20:16:44] [Server thread/INFO]: Starting minecraft server version 1.19
+[20:16:44] [Server thread/INFO]: Loading properties
+[20:16:44] [Server thread/INFO]: Default game type: SURVIVAL
+[20:16:44] [Server thread/INFO]: Generating keypair
+[20:16:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:16:44] [Server thread/INFO]: Using epoll channel type
+[20:16:45] [Server thread/INFO]: Preparing level "world"
+[20:16:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:16:46] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[20:16:46] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[20:16:46] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[20:16:46] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[20:16:47] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:16:47] [Worker-Main-1/INFO]: Preparing spawn area: 84%
+[20:16:47] [Server thread/INFO]: Time elapsed: 2578 ms
+[20:16:47] [Server thread/INFO]: Done (2.711s)! For help, type "help"
+[20:36:17] [User Authenticator #1/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[20:36:17] [Server thread/INFO]: marikaroberts[/192.168.0.10:52987] logged in with entity id 140 at (3811.5, 85.5625, -16258.5)
+[20:36:17] [Server thread/INFO]: marikaroberts joined the game
+[20:36:22] [User Authenticator #2/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[20:36:23] [Server thread/INFO]: katjarroberts[/192.168.0.9:61620] logged in with entity id 335 at (3810.488524926969, 85.5625, -16259.824257088423)
+[20:36:23] [Server thread/INFO]: katjarroberts joined the game
+[20:37:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@7ae1fe72[id=<null>,name=GotchaGR04,properties={},legacy=false] (/192.168.0.8:51168) lost connection: Disconnected
+[20:37:33] [User Authenticator #3/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[20:37:33] [Server thread/INFO]: GotchaGR04[/192.168.0.8:51182] logged in with entity id 459 at (3811.1305857719576, 85.0, -16261.590094414656)
+[20:37:33] [Server thread/INFO]: GotchaGR04 joined the game
+[20:39:02] [Server thread/INFO]: marikaroberts was shot by Skeleton
+[21:02:41] [User Authenticator #4/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[21:02:41] [Server thread/INFO]: kroberts11[/192.168.0.13:51578] logged in with entity id 5172 at (3812.5, 85.5625, -16258.5)
+[21:02:41] [Server thread/INFO]: kroberts11 joined the game
+[21:03:03] [Server thread/INFO]: GotchaGR04 has made the advancement [Monster Hunter]
+[21:05:50] [Server thread/INFO]: katjarroberts has made the advancement [A Seedy Place]
+[21:28:57] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[21:28:57] [Server thread/INFO]: kroberts11 left the game
+[21:29:00] [User Authenticator #5/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[21:29:00] [Server thread/INFO]: kroberts11[/192.168.0.13:51580] logged in with entity id 10259 at (3808.1057757993713, 85.0, -16260.890132501176)
+[21:29:00] [Server thread/INFO]: kroberts11 joined the game
+[21:31:50] [Server thread/INFO]: [katjarroberts: Teleported katjarroberts to marikaroberts]
+[21:31:50] [Server thread/WARN]: katjarroberts moved too quickly! -8.717276690589642,23.4375,22.052353504988787
+[21:32:39] [Server thread/INFO]: marikaroberts has made the advancement [A Seedy Place]
+[21:33:29] [Server thread/INFO]: GotchaGR04 fell from a high place
+[21:33:51] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to marikaroberts]
+[21:36:46] [Server thread/INFO]: kroberts11 lost connection: Timed out
+[21:36:46] [Server thread/INFO]: kroberts11 left the game
+[21:36:46] [Server thread/WARN]: handleDisconnection() called twice
+[21:36:53] [User Authenticator #6/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[21:36:53] [Server thread/INFO]: kroberts11[/192.168.0.13:51584] logged in with entity id 12341 at (3810.6380310838445, 86.0, -16264.017996610719)
+[21:36:53] [Server thread/INFO]: kroberts11 joined the game
+[21:37:26] [Server thread/INFO]: [marikaroberts: Teleported marikaroberts to katjarroberts]
+[21:38:05] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to marikaroberts]
+[21:38:05] [Server thread/WARN]: GotchaGR04 moved too quickly! -26.160426391469628,40.0,200.49748136570452
+[21:39:05] [Server thread/INFO]: <kroberts11> boop
+[21:40:08] [Server thread/INFO]: kroberts11 lost connection: Timed out
+[21:40:08] [Server thread/INFO]: kroberts11 left the game
+[21:40:27] [User Authenticator #7/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[21:40:27] [Server thread/INFO]: kroberts11[/192.168.0.13:51586] logged in with entity id 13194 at (3804.887867487945, 85.0, -16261.897449453232)
+[21:40:27] [Server thread/INFO]: kroberts11 joined the game
+[21:41:06] [Server thread/INFO]: kroberts11 was shot by Pillager
+[21:41:19] [Server thread/INFO]: katjarroberts has made the advancement [Voluntary Exile]
+[21:43:05] [User Authenticator #8/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[21:43:05] [Server thread/INFO]: kroberts11 lost connection: You logged in from another location
+[21:43:05] [Server thread/INFO]: kroberts11 left the game
+[21:43:05] [Server thread/INFO]: kroberts11[/192.168.0.13:51588] logged in with entity id 13567 at (3806.936812916232, 85.0, -16262.49120847532)
+[21:43:05] [Server thread/INFO]: kroberts11 joined the game
+[21:50:35] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to marikaroberts]
+[21:50:35] [Server thread/WARN]: GotchaGR04 moved too quickly! -93.93784622017938,22.6875,112.86902201785597
+[21:50:37] [Server thread/INFO]: [katjarroberts: Teleported katjarroberts to kroberts11]
+[21:50:37] [Server thread/WARN]: katjarroberts moved too quickly! -197.48993582667254,-27.0,-310.4524658389091
+[21:52:50] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
+[21:53:11] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
+[22:00:00] [Server thread/INFO]: katjarroberts lost connection: Timed out
+[22:00:00] [Server thread/INFO]: katjarroberts left the game
+[22:04:16] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[22:04:16] [Server thread/INFO]: GotchaGR04 left the game
+[22:07:42] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[22:07:42] [Server thread/INFO]: marikaroberts left the game
+[22:08:18] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[22:08:18] [Server thread/INFO]: kroberts11 left the game
+[22:19:28] [Server thread/INFO]: Stopping server
+[22:19:28] [Server thread/INFO]: Saving players
+[22:19:28] [Server thread/INFO]: Saving worlds
+[22:19:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:19:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:19:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:19:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:19:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:19:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:19:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
