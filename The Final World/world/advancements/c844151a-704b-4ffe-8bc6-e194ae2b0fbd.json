@@ -541,6 +541,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2022-07-29 18:13:09 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2022-07-10 21:30:42 -0700"
@@ -743,6 +749,7 @@
     "criteria": {
       "minecraft:pillager": "2022-07-10 21:41:06 -0700",
       "minecraft:skeleton": "2022-07-08 22:02:11 -0700",
+      "minecraft:spider": "2022-07-29 18:42:06 -0700",
       "minecraft:creeper": "2022-07-08 21:10:59 -0700",
       "minecraft:zombie": "2022-07-08 22:02:03 -0700"
     },

@@ -1,92 +1,79 @@
-[20:16:42] [ServerMain/INFO]: Building unoptimized datafixer
-[20:16:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:16:43] [ServerMain/INFO]: Loaded 7 recipes
-[20:16:43] [ServerMain/INFO]: Loaded 1179 advancements
-[20:16:44] [Server thread/INFO]: Starting minecraft server version 1.19
-[20:16:44] [Server thread/INFO]: Loading properties
-[20:16:44] [Server thread/INFO]: Default game type: SURVIVAL
-[20:16:44] [Server thread/INFO]: Generating keypair
-[20:16:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:16:44] [Server thread/INFO]: Using epoll channel type
-[20:16:45] [Server thread/INFO]: Preparing level "world"
-[20:16:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:16:46] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[20:16:46] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[20:16:46] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[20:16:46] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[20:16:47] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[20:16:47] [Worker-Main-1/INFO]: Preparing spawn area: 84%
-[20:16:47] [Server thread/INFO]: Time elapsed: 2578 ms
-[20:16:47] [Server thread/INFO]: Done (2.711s)! For help, type "help"
-[20:36:17] [User Authenticator #1/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
-[20:36:17] [Server thread/INFO]: marikaroberts[/192.168.0.10:52987] logged in with entity id 140 at (3811.5, 85.5625, -16258.5)
-[20:36:17] [Server thread/INFO]: marikaroberts joined the game
-[20:36:22] [User Authenticator #2/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
-[20:36:23] [Server thread/INFO]: katjarroberts[/192.168.0.9:61620] logged in with entity id 335 at (3810.488524926969, 85.5625, -16259.824257088423)
-[20:36:23] [Server thread/INFO]: katjarroberts joined the game
-[20:37:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@7ae1fe72[id=<null>,name=GotchaGR04,properties={},legacy=false] (/192.168.0.8:51168) lost connection: Disconnected
-[20:37:33] [User Authenticator #3/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
-[20:37:33] [Server thread/INFO]: GotchaGR04[/192.168.0.8:51182] logged in with entity id 459 at (3811.1305857719576, 85.0, -16261.590094414656)
-[20:37:33] [Server thread/INFO]: GotchaGR04 joined the game
-[20:39:02] [Server thread/INFO]: marikaroberts was shot by Skeleton
-[21:02:41] [User Authenticator #4/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[21:02:41] [Server thread/INFO]: kroberts11[/192.168.0.13:51578] logged in with entity id 5172 at (3812.5, 85.5625, -16258.5)
-[21:02:41] [Server thread/INFO]: kroberts11 joined the game
-[21:03:03] [Server thread/INFO]: GotchaGR04 has made the advancement [Monster Hunter]
-[21:05:50] [Server thread/INFO]: katjarroberts has made the advancement [A Seedy Place]
-[21:28:57] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[21:28:57] [Server thread/INFO]: kroberts11 left the game
-[21:29:00] [User Authenticator #5/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[21:29:00] [Server thread/INFO]: kroberts11[/192.168.0.13:51580] logged in with entity id 10259 at (3808.1057757993713, 85.0, -16260.890132501176)
-[21:29:00] [Server thread/INFO]: kroberts11 joined the game
-[21:31:50] [Server thread/INFO]: [katjarroberts: Teleported katjarroberts to marikaroberts]
-[21:31:50] [Server thread/WARN]: katjarroberts moved too quickly! -8.717276690589642,23.4375,22.052353504988787
-[21:32:39] [Server thread/INFO]: marikaroberts has made the advancement [A Seedy Place]
-[21:33:29] [Server thread/INFO]: GotchaGR04 fell from a high place
-[21:33:51] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to marikaroberts]
-[21:36:46] [Server thread/INFO]: kroberts11 lost connection: Timed out
-[21:36:46] [Server thread/INFO]: kroberts11 left the game
-[21:36:46] [Server thread/WARN]: handleDisconnection() called twice
-[21:36:53] [User Authenticator #6/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[21:36:53] [Server thread/INFO]: kroberts11[/192.168.0.13:51584] logged in with entity id 12341 at (3810.6380310838445, 86.0, -16264.017996610719)
-[21:36:53] [Server thread/INFO]: kroberts11 joined the game
-[21:37:26] [Server thread/INFO]: [marikaroberts: Teleported marikaroberts to katjarroberts]
-[21:38:05] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to marikaroberts]
-[21:38:05] [Server thread/WARN]: GotchaGR04 moved too quickly! -26.160426391469628,40.0,200.49748136570452
-[21:39:05] [Server thread/INFO]: <kroberts11> boop
-[21:40:08] [Server thread/INFO]: kroberts11 lost connection: Timed out
-[21:40:08] [Server thread/INFO]: kroberts11 left the game
-[21:40:27] [User Authenticator #7/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[21:40:27] [Server thread/INFO]: kroberts11[/192.168.0.13:51586] logged in with entity id 13194 at (3804.887867487945, 85.0, -16261.897449453232)
-[21:40:27] [Server thread/INFO]: kroberts11 joined the game
-[21:41:06] [Server thread/INFO]: kroberts11 was shot by Pillager
-[21:41:19] [Server thread/INFO]: katjarroberts has made the advancement [Voluntary Exile]
-[21:43:05] [User Authenticator #8/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[21:43:05] [Server thread/INFO]: kroberts11 lost connection: You logged in from another location
-[21:43:05] [Server thread/INFO]: kroberts11 left the game
-[21:43:05] [Server thread/INFO]: kroberts11[/192.168.0.13:51588] logged in with entity id 13567 at (3806.936812916232, 85.0, -16262.49120847532)
-[21:43:05] [Server thread/INFO]: kroberts11 joined the game
-[21:50:35] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to marikaroberts]
-[21:50:35] [Server thread/WARN]: GotchaGR04 moved too quickly! -93.93784622017938,22.6875,112.86902201785597
-[21:50:37] [Server thread/INFO]: [katjarroberts: Teleported katjarroberts to kroberts11]
-[21:50:37] [Server thread/WARN]: katjarroberts moved too quickly! -197.48993582667254,-27.0,-310.4524658389091
-[21:52:50] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
-[21:53:11] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
-[22:00:00] [Server thread/INFO]: katjarroberts lost connection: Timed out
-[22:00:00] [Server thread/INFO]: katjarroberts left the game
-[22:04:16] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
-[22:04:16] [Server thread/INFO]: GotchaGR04 left the game
-[22:07:42] [Server thread/INFO]: marikaroberts lost connection: Disconnected
-[22:07:42] [Server thread/INFO]: marikaroberts left the game
-[22:08:18] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[22:08:18] [Server thread/INFO]: kroberts11 left the game
-[22:19:28] [Server thread/INFO]: Stopping server
-[22:19:28] [Server thread/INFO]: Saving players
-[22:19:28] [Server thread/INFO]: Saving worlds
-[22:19:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:19:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:19:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:19:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:19:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:19:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:19:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:11:28] [ServerMain/INFO]: Building unoptimized datafixer
+[18:11:29] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:11:30] [ServerMain/INFO]: Loaded 7 recipes
+[18:11:30] [ServerMain/INFO]: Loaded 1179 advancements
+[18:11:31] [Server thread/INFO]: Starting minecraft server version 1.19
+[18:11:31] [Server thread/INFO]: Loading properties
+[18:11:31] [Server thread/INFO]: Default game type: SURVIVAL
+[18:11:31] [Server thread/INFO]: Generating keypair
+[18:11:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:11:31] [Server thread/INFO]: Using epoll channel type
+[18:11:31] [Server thread/INFO]: Preparing level "world"
+[18:11:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:11:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:11:33] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:11:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:11:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:11:33] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:11:33] [Worker-Main-7/INFO]: Preparing spawn area: 84%
+[18:11:34] [Server thread/INFO]: Time elapsed: 2562 ms
+[18:11:34] [Server thread/INFO]: Done (2.680s)! For help, type "help"
+[18:13:09] [User Authenticator #1/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[18:13:09] [Server thread/INFO]: kroberts11[/127.0.0.1:36514] logged in with entity id 125 at (3807.713286843022, 85.0, -16261.049013655373)
+[18:13:09] [Server thread/INFO]: kroberts11 joined the game
+[18:13:09] [Server thread/INFO]: kroberts11 has made the advancement [Suit Up]
+[18:13:21] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[18:13:21] [Server thread/INFO]: kroberts11 left the game
+[18:18:09] [User Authenticator #2/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[18:18:09] [Server thread/INFO]: GotchaGR04[/73.118.139.206:63197] logged in with entity id 341 at (3810.5, 85.5625, -16258.5)
+[18:18:09] [Server thread/INFO]: GotchaGR04 joined the game
+[18:30:43] [User Authenticator #3/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[18:30:43] [Server thread/INFO]: kroberts11[/127.0.0.1:46348] logged in with entity id 3294 at (3807.713286843022, 85.0, -16261.049013655373)
+[18:30:43] [Server thread/INFO]: kroberts11 joined the game
+[18:40:04] [User Authenticator #4/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[18:40:05] [Server thread/INFO]: marikaroberts[/73.118.139.206:53460] logged in with entity id 5402 at (3810.1683320598454, 85.0, -16261.470692987932)
+[18:40:05] [Server thread/INFO]: marikaroberts joined the game
+[18:54:33] [User Authenticator #5/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[18:54:33] [Server thread/INFO]: katjarroberts[/73.118.139.206:60339] logged in with entity id 7796 at (3820.6958485457076, 95.0, -16264.300000011921)
+[18:54:33] [Server thread/INFO]: katjarroberts joined the game
+[18:58:08] [Server thread/INFO]: katjarroberts has made the advancement [Suit Up]
+[19:04:24] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[19:04:24] [Server thread/INFO]: kroberts11 left the game
+[19:05:18] [User Authenticator #6/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[19:05:18] [Server thread/INFO]: kroberts11[/127.0.0.1:44740] logged in with entity id 10425 at (3836.437074173477, 100.0, -16252.29361116257)
+[19:05:18] [Server thread/INFO]: kroberts11 joined the game
+[19:09:36] [Server thread/INFO]: <GotchaGR04> maybe one level higher marika
+[19:12:40] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
+[19:13:11] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
+[19:13:34] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[19:13:34] [Server thread/INFO]: katjarroberts left the game
+[19:13:34] [Server thread/WARN]: handleDisconnection() called twice
+[19:15:57] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
+[19:16:31] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
+[19:19:49] [User Authenticator #7/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[19:19:49] [Server thread/INFO]: katjarroberts[/73.118.139.206:61732] logged in with entity id 13072 at (3811.6370369667525, 85.5625, -16258.5)
+[19:19:49] [Server thread/INFO]: katjarroberts joined the game
+[19:25:08] [Server thread/INFO]: marikaroberts lost connection: Timed out
+[19:25:08] [Server thread/INFO]: marikaroberts left the game
+[19:36:35] [Server thread/INFO]: katjarroberts lost connection: Timed out
+[19:36:35] [Server thread/INFO]: katjarroberts left the game
+[19:43:47] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[19:47:11] [User Authenticator #8/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[19:47:11] [Server thread/INFO]: katjarroberts[/73.118.139.206:62908] logged in with entity id 18370 at (3840.296331577919, 103.0, -16247.94472781151)
+[19:47:11] [Server thread/INFO]: katjarroberts joined the game
+[19:55:49] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[19:55:49] [Server thread/INFO]: kroberts11 left the game
+[19:59:43] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[19:59:43] [Server thread/INFO]: katjarroberts left the game
+[19:59:50] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[19:59:50] [Server thread/INFO]: GotchaGR04 left the game
+[20:02:33] [Server thread/INFO]: Stopping server
+[20:02:33] [Server thread/INFO]: Saving players
+[20:02:33] [Server thread/INFO]: Saving worlds
+[20:02:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:02:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:02:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
