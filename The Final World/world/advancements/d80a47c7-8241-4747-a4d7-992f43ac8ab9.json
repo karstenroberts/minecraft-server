@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-12-30 21:38:17 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2022-07-10 21:04:30 -0700"
@@ -65,9 +71,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2022-12-30 21:38:17 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2022-07-10 21:04:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-12-23 20:49:56 -0800"
     },
     "done": true
   },
@@ -329,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2022-12-23 20:38:58 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper": "2022-07-08 22:50:09 -0700"
@@ -338,6 +362,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-07-29 18:41:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2022-12-31 11:48:47 -0800"
     },
     "done": true
   },
@@ -355,6 +385,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2022-12-30 21:28:34 -0800",
       "cooked_beef": "2022-07-29 18:57:38 -0700",
       "apple": "2022-07-29 18:56:29 -0700",
       "melon_slice": "2022-08-06 22:26:05 -0700",
@@ -476,6 +507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2022-12-23 20:51:47 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2022-07-08 21:48:03 -0700"
@@ -548,6 +585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2022-12-23 22:54:42 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-08 22:11:15 -0700"
@@ -572,6 +615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-12-23 20:49:56 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2022-07-08 21:11:20 -0700"
@@ -581,6 +630,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-06 22:01:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2022-12-30 21:38:17 -0800"
     },
     "done": true
   },
@@ -650,6 +705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2022-12-30 22:46:24 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2022-07-08 21:06:34 -0700"
@@ -671,6 +732,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-08 22:11:15 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2022-12-23 20:49:56 -0800"
     },
     "done": true
   },
@@ -746,9 +813,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-12-23 20:49:56 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2022-07-08 21:35:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-12-23 20:49:56 -0800"
     },
     "done": true
   },
@@ -862,6 +941,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2022-12-23 20:48:39 -0800",
       "minecraft:zombie": "2022-07-08 21:12:59 -0700",
       "minecraft:drowned": "2022-08-06 23:08:40 -0700"
     },
@@ -930,6 +1010,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2022-08-06 22:01:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2022-12-23 22:54:42 -0800"
     },
     "done": true
   },
@@ -1002,6 +1088,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-07-29 18:41:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-12-30 21:38:17 -0800"
     },
     "done": true
   },
@@ -1167,6 +1259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2022-12-31 11:48:47 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2022-07-10 21:04:30 -0700"
@@ -1176,6 +1274,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2022-07-10 21:35:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2022-12-31 12:04:07 -0800"
     },
     "done": true
   },
@@ -1206,6 +1310,18 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2022-08-06 22:48:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2022-12-30 21:37:48 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2022-12-30 21:31:07 -0800"
     },
     "done": true
   },
@@ -1287,9 +1403,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2022-12-30 21:31:07 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2022-08-06 23:06:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-12-23 20:49:56 -0800"
     },
     "done": true
   },
@@ -1308,6 +1436,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2022-07-10 21:33:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2022-12-23 20:51:47 -0800"
     },
     "done": true
   },
@@ -1449,6 +1583,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2022-12-30 21:31:07 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-12-30 21:38:17 -0800"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2022-07-08 21:41:01 -0700"
@@ -1458,6 +1604,12 @@
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2022-07-08 21:48:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2022-12-31 11:49:37 -0800"
     },
     "done": true
   },
@@ -1611,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2022-12-23 20:49:56 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_carpet": {
     "criteria": {
       "has_green_wool": "2022-07-10 21:23:06 -0700"
@@ -1632,6 +1790,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
       "has_vine": "2022-07-10 21:30:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_the_recipe": "2022-12-23 21:05:44 -0800"
     },
     "done": true
   },
@@ -1680,6 +1844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2022-12-31 11:49:37 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2022-07-08 22:19:39 -0700"
@@ -1719,6 +1889,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2022-07-08 21:40:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2022-12-23 21:08:47 -0800"
     },
     "done": true
   },
@@ -1770,6 +1946,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2022-12-30 22:46:25 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-07-08 21:06:34 -0700"
@@ -1818,6 +2000,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2022-12-23 20:49:56 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2022-12-30 21:37:48 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2022-07-10 21:08:38 -0700"
@@ -1851,6 +2045,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2022-07-29 18:41:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2022-12-30 21:38:17 -0800"
     },
     "done": true
   },
@@ -1908,6 +2108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2022-12-23 20:49:56 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_the_recipe": "2022-08-06 19:53:28 -0700"
@@ -1917,6 +2123,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-06 22:01:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2022-12-23 20:49:56 -0800"
     },
     "done": true
   },

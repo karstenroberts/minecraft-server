@@ -1,11 +1,26 @@
-[06:10:00] [Server thread/INFO]: /163.172.139.143:56122 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(18) + length(1) exceeds writerIndex(18): PooledUnsafeDirectByteBuf(ridx: 18, widx: 18, cap: 18)
-[08:14:54] [Server thread/INFO]: Stopping server
-[08:14:54] [Server thread/INFO]: Saving players
-[08:14:54] [Server thread/INFO]: Saving worlds
-[08:14:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:14:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[08:14:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[08:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:14:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:46:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4889ms or 97 ticks behind
+[10:33:41] [User Authenticator #6/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[10:33:42] [Server thread/INFO]: marikaroberts[/192.168.0.10:55046] logged in with entity id 24337 at (3806.4240840308344, 85.0, -16262.250607679083)
+[10:33:42] [Server thread/INFO]: marikaroberts joined the game
+[11:30:24] [Server thread/INFO]: kroberts11 has made the advancement [The Cutest Predator]
+[11:35:18] [User Authenticator #7/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[11:35:18] [Server thread/INFO]: GotchaGR04[/192.168.0.8:58973] logged in with entity id 31760 at (3810.2799637812445, 85.0, -16262.04961669345)
+[11:35:18] [Server thread/INFO]: GotchaGR04 joined the game
+[11:37:34] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[11:37:34] [Server thread/INFO]: GotchaGR04 left the game
+[12:02:17] [Server thread/INFO]: [kroberts11: Set the time to 9]
+[12:04:07] [Server thread/INFO]: marikaroberts has made the advancement [Tactical Fishing]
+[12:06:06] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[12:06:06] [Server thread/INFO]: kroberts11 left the game
+[12:18:40] [Server thread/INFO]: marikaroberts lost connection: Disconnected
+[12:18:40] [Server thread/INFO]: marikaroberts left the game
+[13:00:05] [Server thread/INFO]: Stopping server
+[13:00:05] [Server thread/INFO]: Saving players
+[13:00:05] [Server thread/INFO]: Saving worlds
+[13:00:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:00:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:00:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:00:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:00:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:00:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:00:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
