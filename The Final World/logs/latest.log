@@ -1,62 +1,80 @@
-[19:45:12] [ServerMain/INFO]: Building unoptimized datafixer
-[19:45:13] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:45:13] [ServerMain/INFO]: Loaded 7 recipes
-[19:45:13] [ServerMain/INFO]: Loaded 1179 advancements
-[19:45:14] [Server thread/INFO]: Starting minecraft server version 1.19
-[19:45:14] [Server thread/INFO]: Loading properties
-[19:45:14] [Server thread/INFO]: Default game type: SURVIVAL
-[19:45:14] [Server thread/INFO]: Generating keypair
-[19:45:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:45:14] [Server thread/INFO]: Using epoll channel type
-[19:45:14] [Server thread/INFO]: Preparing level "world"
-[19:45:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:45:15] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[19:45:15] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[19:45:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:45:15] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[19:45:15] [Server thread/INFO]: Time elapsed: 1536 ms
-[19:45:15] [Server thread/INFO]: Done (1.604s)! For help, type "help"
-[19:45:34] [User Authenticator #1/INFO]: UUID of player marikaroberts is d80a47c7-8241-4747-a4d7-992f43ac8ab9
-[19:45:34] [Server thread/INFO]: marikaroberts[/169.232.238.175:63471] logged in with entity id 125 at (3807.4238001888384, 85.0, -16260.37759615552)
-[19:45:34] [Server thread/INFO]: marikaroberts joined the game
-[19:45:45] [User Authenticator #2/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[19:45:45] [Server thread/INFO]: kroberts11[/127.0.0.1:44048] logged in with entity id 440 at (3831.271003926743, 96.0, -16268.965882749653)
-[19:45:45] [Server thread/INFO]: kroberts11 joined the game
-[19:46:06] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[19:46:06] [Server thread/INFO]: kroberts11 left the game
-[19:51:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@24e304e2[id=<null>,name=katjarroberts,properties={},legacy=false] (/97.113.176.65:65388) lost connection: Disconnected
-[19:52:06] [User Authenticator #3/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[19:52:06] [Server thread/INFO]: kroberts11[/127.0.0.1:52200] logged in with entity id 1157 at (3831.0328912134587, 96.0, -16267.09858140967)
-[19:52:06] [Server thread/INFO]: kroberts11 joined the game
-[20:14:58] [Server thread/INFO]: marikaroberts has made the advancement [Suit Up]
-[20:45:53] [Server thread/INFO]: marikaroberts was shot by Skeleton
-[20:54:24] [Server thread/INFO]: marikaroberts was slain by Zombie
-[21:09:06] [User Authenticator #4/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
-[21:09:06] [Server thread/INFO]: katjarroberts[/97.113.176.65:51850] logged in with entity id 15030 at (3828.6627074081293, 96.0, -16266.71143797747)
-[21:09:06] [Server thread/INFO]: katjarroberts joined the game
-[21:15:18] [User Authenticator #5/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
-[21:15:18] [Server thread/INFO]: GotchaGR04[/134.69.234.73:64440] logged in with entity id 16495 at (3852.300000011921, 96.0, -16275.661646072072)
-[21:15:18] [Server thread/INFO]: GotchaGR04 joined the game
-[21:15:53] [Server thread/INFO]: kroberts11 has made the advancement [Enchanter]
-[21:21:25] [Server thread/INFO]: katjarroberts was slain by Zombie
-[21:51:11] [Server thread/INFO]: kroberts11 has made the advancement [Sneak 100]
-[21:51:30] [Server thread/INFO]: katjarroberts has made the advancement [Sneak 100]
-[22:18:22] [Server thread/INFO]: GotchaGR04 has made the advancement [Fishy Business]
-[22:27:06] [Server thread/INFO]: katjarroberts lost connection: Disconnected
-[22:27:06] [Server thread/INFO]: katjarroberts left the game
-[22:27:09] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
-[22:27:09] [Server thread/INFO]: GotchaGR04 left the game
-[22:27:13] [Server thread/INFO]: marikaroberts lost connection: Disconnected
-[22:27:13] [Server thread/INFO]: marikaroberts left the game
-[22:27:17] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[22:27:17] [Server thread/INFO]: kroberts11 left the game
-[22:27:26] [Server thread/INFO]: Stopping server
-[22:27:26] [Server thread/INFO]: Saving players
-[22:27:26] [Server thread/INFO]: Saving worlds
-[22:27:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:27:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:27:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:27:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:27:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:27:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:27:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:07:53] [ServerMain/INFO]: Building unoptimized datafixer
+[09:07:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:07:55] [ServerMain/INFO]: Loaded 7 recipes
+[09:07:55] [Server thread/INFO]: Starting minecraft server version 1.19
+[09:07:55] [Server thread/INFO]: Loading properties
+[09:07:55] [Server thread/INFO]: This server is running Paper version git-Paper-81 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 86f87ba)
+[09:07:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:07:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:07:56] [Server thread/INFO]: Default game type: SURVIVAL
+[09:07:56] [Server thread/INFO]: Generating keypair
+[09:07:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:07:56] [Server thread/INFO]: Using epoll channel type
+[09:07:56] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[09:07:56] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[09:07:56] [Server thread/INFO]: [dynmap] Loading dynmap v3.6-beta-2-894
+[09:07:56] [Server thread/INFO]: [dynmap] version=git-Paper-81 (MC: 1.19)
+[09:07:56] [Server thread/INFO]: [dynmap] Mod Support API available
+[09:07:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:07:56] [Server thread/INFO]: Preparing level "world"
+[09:07:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:07:56] [Server thread/INFO]: Time elapsed: 96 ms
+[09:07:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[09:07:56] [Server thread/INFO]: Time elapsed: 44 ms
+[09:07:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[09:07:56] [Server thread/INFO]: Time elapsed: 31 ms
+[09:07:56] [Server thread/INFO]: [dynmap] Enabling dynmap v3.6-beta-2-894
+[09:07:57] [Server thread/INFO]: [dynmap] Added 19 custom biome mappings
+[09:07:57] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[09:07:57] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[09:07:57] [Server thread/INFO]: [dynmap] Found cwebp at /usr/bin/cwebp and dwebp at /usr/bin/dwebp: webp format enabled
+[09:07:57] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[09:07:58] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[09:07:58] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[09:07:58] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[09:07:58] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[09:07:58] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[09:07:58] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:7777
+[09:07:58] [Server thread/INFO]: [dynmap] version 3.6-beta-2-894 is enabled - core version 3.6-beta-2-894
+[09:07:58] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[09:07:58] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[09:07:58] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[09:07:58] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[09:07:58] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[09:07:58] [Server thread/INFO]: [dynmap] Loaded 42232 pending tile renders for world 'world'
+[09:07:58] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[09:07:58] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[09:07:58] [Server thread/INFO]: [dynmap] Enabled
+[09:07:58] [Server thread/INFO]: Running delayed init tasks
+[09:07:58] [Server thread/INFO]: Done (2.728s)! For help, type "help"
+[09:07:58] [Server thread/INFO]: Timings Reset
+[09:07:59] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[16:57:54] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[16:57:57] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[16:58:03] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[16:58:05] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[16:58:48] [User Authenticator #1/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[16:58:49] [Server thread/INFO]: kroberts11 joined the game
+[16:58:49] [Server thread/INFO]: kroberts11[/127.0.0.1:42444] logged in with entity id 1694 at ([world]5968.6875, 62.07326432466507, -17815.3125)
+[16:59:04] [Server thread/INFO]: kroberts11 issued server command: /dynmap help
+[16:59:10] [Server thread/INFO]: kroberts11 issued server command: /dynmap fullrender
+[16:59:15] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[16:59:15] [Server thread/INFO]: kroberts11 left the game
+[19:53:21] [Server thread/INFO]: Stopping server
+[19:53:21] [Server thread/INFO]: [dynmap] Disabling dynmap v3.6-beta-2-894
+[19:53:21] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[19:53:21] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[19:53:22] [Server thread/INFO]: [dynmap] Full render job saved for world 'world'
+[19:53:27] [Server thread/INFO]: [dynmap] Disabled
+[19:53:27] [Server thread/INFO]: Saving players
+[19:53:27] [Server thread/INFO]: Saving worlds
+[19:53:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:53:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:53:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:53:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:53:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:53:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:53:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:53:28] [Server thread/INFO]: Flushing Chunk IO
+[19:53:28] [Server thread/INFO]: Closing Thread Pool
+[19:53:28] [Server thread/INFO]: Closing Server

@@ -1,0 +1,92 @@
+%YAML 1.1
+---
+isSafe: true
+icons: {
+    }
+sets:
+    markers:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Markers
+        markers:
+            sunken-boat:
+                world: world
+                markup: false
+                x: 5457.0
+                icon: anchor
+                y: 63.0
+                z: -17163.0
+                label: sunken boat
+            large-village:
+                world: world
+                markup: false
+                x: 4671.0
+                icon: bighouse
+                y: 64.0
+                z: -17190.0
+                label: large village
+            pillager-tower:
+                world: world
+                markup: false
+                x: 6473.0
+                icon: tower
+                y: 63.0
+                z: -18266.0
+                label: pillager tower
+            coral:
+                world: world
+                markup: false
+                x: 3963.0
+                icon: anchor
+                y: 63.0
+                z: -17780.0
+                label: coral
+            sunflowers:
+                world: world
+                markup: false
+                x: 6025.0
+                icon: flower
+                y: 66.0
+                z: -18610.0
+                label: sunflowers
+            the-two-towers:
+                world: world
+                markup: false
+                x: 5726.0
+                icon: tower
+                y: 64.0
+                z: -16964.0
+                label: the two towers
+            cool-water-cave:
+                world: world
+                markup: false
+                x: 5552.0
+                icon: door
+                y: 63.0
+                z: -18571.0
+                label: cool water cave
+            home:
+                world: world
+                markup: false
+                x: 3827.0
+                icon: bed
+                y: 97.0
+                z: -16268.0
+                label: home
+            underwater-temple:
+                world: world
+                markup: false
+                x: 5470.0
+                icon: skull
+                y: 63.0
+                z: -18332.0
+                label: underwater-temple
+        lines: {
+            }
+        layerprio: 0
+playersets: {
+    }

@@ -1,0 +1,97 @@
+[14:00:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:00:10] [ServerMain/INFO]: Loaded 7 recipes
+[14:00:10] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[14:00:10] [Server thread/INFO]: Loading properties
+[14:00:10] [Server thread/INFO]: This server is running Paper version git-Paper-550 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT) (Git: 483368e on ver/1.19.4)
+[14:00:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:00:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:00:11] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[14:00:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 4 worker threads, and gen parallelism of 4 threads
+[14:00:11] [Server thread/INFO]: Default game type: SURVIVAL
+[14:00:11] [Server thread/INFO]: Generating keypair
+[14:00:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:00:11] [Server thread/INFO]: Using epoll channel type
+[14:00:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:00:11] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[14:00:11] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.6-beta-2-894
+[14:00:11] [Server thread/INFO]: [dynmap] version=git-Paper-550 (MC: 1.19.4)
+[14:00:11] [Server thread/INFO]: [dynmap] Mod Support API available
+[14:00:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:00:11] [Server thread/INFO]: Preparing level "world"
+[14:00:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:00:11] [Server thread/INFO]: Time elapsed: 54 ms
+[14:00:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:00:11] [Server thread/INFO]: Time elapsed: 18 ms
+[14:00:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:00:11] [Server thread/INFO]: Time elapsed: 8 ms
+[14:00:11] [Server thread/INFO]: [dynmap] Enabling dynmap v3.6-beta-2-894
+[14:00:11] [Server thread/INFO]: [dynmap] Added 19 custom biome mappings
+[14:00:11] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[14:00:11] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[14:00:11] [Server thread/INFO]: [dynmap] Found cwebp at /usr/bin/cwebp and dwebp at /usr/bin/dwebp: webp format enabled
+[14:00:11] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[14:00:13] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[14:00:13] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[14:00:13] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[14:00:13] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[14:00:13] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[14:00:13] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[14:00:13] [Server thread/INFO]: [dynmap] version 3.6-beta-2-894 is enabled - core version 3.6-beta-2-894
+[14:00:13] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[14:00:13] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[14:00:13] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[14:00:13] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[14:00:13] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[14:00:13] [Server thread/INFO]: [dynmap] Loaded 3857 pending tile renders for world 'world'
+[14:00:13] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[14:00:13] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[14:00:13] [Server thread/INFO]: [dynmap] Enabled
+[14:00:13] [Server thread/INFO]: Running delayed init tasks
+[14:00:13] [Server thread/INFO]: Done (2.491s)! For help, type "help"
+[14:00:13] [Server thread/INFO]: Timings Reset
+[14:00:13] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[14:00:19] [Server thread/INFO]: Made kroberts11 a server operator
+[14:01:22] [User Authenticator #0/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[14:01:22] [Server thread/INFO]: kroberts11 joined the game
+[14:01:22] [Server thread/INFO]: kroberts11[/127.0.0.1:54378] logged in with entity id 264 at ([world]12.5, 63.0, -11.5)
+[14:01:40] [Server thread/INFO]: kroberts11 issued server command: /dynmap fullrender
+[14:02:51] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[14:02:51] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[14:09:18] [Server thread/INFO]: kroberts11 issued server command: /gamemode creative
+[14:09:18] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
+[14:32:59] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[14:32:59] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[14:38:14] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[14:38:14] [Server thread/INFO]: kroberts11 left the game
+[14:38:27] [Server thread/INFO]: Stopping server
+[14:38:27] [Server thread/INFO]: [dynmap] Disabling dynmap v3.6-beta-2-894
+[14:38:27] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[14:38:27] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[14:38:27] [Server thread/INFO]: [dynmap] Saved 25555 pending tile renders in world 'world'
+[14:38:27] [Server thread/INFO]: [dynmap] Disabled
+[14:38:27] [Server thread/INFO]: Saving players
+[14:38:27] [Server thread/INFO]: Saving worlds
+[14:38:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:38:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[14:38:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[14:38:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[14:38:27] [Server thread/INFO]: [ChunkHolderManager] Saved 911 block chunks, 100 entity chunks, 0 poi chunks in world 'world' in 0.21s
+[14:38:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:38:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:38:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[14:38:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[14:38:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[14:38:27] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 35 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[14:38:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:38:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:38:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[14:38:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[14:38:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[14:38:27] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[14:38:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:38:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:38:27] [Server thread/INFO]: Flushing Chunk IO
+[14:38:27] [Server thread/INFO]: Closing Thread Pool
+[14:38:27] [Server thread/INFO]: Closing Server
