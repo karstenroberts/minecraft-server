@@ -5,6 +5,7 @@
       "minecraft:forest": "2022-06-11 18:59:52 -0700",
       "minecraft:taiga": "2022-06-11 19:03:33 -0700",
       "minecraft:lush_caves": "2022-07-08 22:06:09 -0700",
+      "minecraft:eroded_badlands": "2024-06-27 19:33:36 -0700",
       "minecraft:desert": "2022-07-08 20:55:33 -0700",
       "minecraft:jungle": "2022-06-11 19:20:38 -0700",
       "minecraft:ocean": "2023-11-08 21:34:57 -0800",
@@ -18,6 +19,7 @@
       "minecraft:deep_lukewarm_ocean": "2023-11-08 21:36:13 -0800",
       "minecraft:badlands": "2022-08-06 20:16:41 -0700",
       "minecraft:flower_forest": "2022-07-08 21:11:23 -0700",
+      "minecraft:savanna_plateau": "2024-06-27 19:36:04 -0700",
       "minecraft:beach": "2023-11-08 20:46:41 -0800",
       "minecraft:stony_peaks": "2022-06-11 19:25:50 -0700",
       "minecraft:mangrove_swamp": "2022-06-11 19:29:03 -0700",
@@ -141,12 +143,6 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2022-07-08 20:59:44 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_iron_ingot": "2024-05-26 16:43:01 -0700"
     },
     "done": true
   },
@@ -297,9 +293,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-07-10 21:41:06 -0700",
-      "minecraft:cave_spider": "2023-05-19 17:10:27 -0700",
       "minecraft:skeleton": "2022-07-08 22:02:11 -0700",
       "minecraft:phantom": "2023-04-24 22:21:26 -0700",
+      "minecraft:husk": "2024-06-27 21:39:58 -0700",
+      "minecraft:cave_spider": "2023-05-19 17:10:27 -0700",
       "minecraft:enderman": "2022-12-23 23:05:14 -0800",
       "minecraft:silverfish": "2023-06-10 17:23:41 -0700",
       "minecraft:spider": "2022-07-29 18:42:06 -0700",
@@ -548,12 +545,6 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2022-07-08 21:31:50 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2024-05-26 16:43:01 -0700"
     },
     "done": true
   },
@@ -1018,12 +1009,6 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2022-07-10 21:11:34 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2024-05-26 16:43:01 -0700"
     },
     "done": true
   },
@@ -2395,6 +2380,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2024-05-26 16:43:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-05-26 16:43:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-05-26 16:43:01 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-05-26 16:43:01 -0700"
@@ -2404,6 +2407,90 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-05-26 16:43:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-06-27 22:01:37 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-06-27 22:15:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-06-27 22:15:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2024-06-27 22:15:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-06-27 22:15:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-06-27 22:03:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-06-27 22:03:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-06-27 22:15:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2024-06-27 22:15:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-06-27 22:15:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-06-27 22:15:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-06-27 22:01:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-06-27 22:01:39 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2024-06-27 22:15:17 -0700"
     },
     "done": true
   },
