@@ -937,9 +937,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-07-10 21:40:01 -0700",
+      "minecraft:blaze": "2024-12-05 20:46:15 -0800",
       "minecraft:skeleton": "2022-07-08 22:19:14 -0700",
       "minecraft:phantom": "2023-05-19 17:40:07 -0700",
       "minecraft:spider": "2023-04-24 21:17:58 -0700",
+      "minecraft:wither_skeleton": "2024-12-05 21:09:06 -0800",
       "minecraft:zombie": "2022-07-08 21:56:27 -0700",
       "minecraft:creeper": "2023-06-10 16:42:54 -0700",
       "minecraft:zombie_villager": "2023-04-24 21:18:20 -0700"
@@ -2170,6 +2172,18 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-09-08 15:57:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-09-08 15:57:54 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-09-08 16:34:51 -0700"
@@ -2179,20 +2193,6 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-09-08 16:34:51 -0700"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2024-09-08 16:53:40 -0700",
-      "minecraft:nether_wastes": "2024-09-08 16:37:54 -0700",
-      "minecraft:warped_forest": "2024-09-08 16:55:22 -0700"
-    },
-    "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-09-08 16:37:54 -0700"
     },
     "done": true
   },
@@ -2214,27 +2214,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-09-08 16:37:54 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2024-09-08 16:38:46 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-09-08 16:34:51 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2024-09-08 17:01:45 -0700"
     },
     "done": true
   },
@@ -2244,33 +2226,9 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-09-08 15:57:54 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2024-09-08 17:01:45 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-09-08 16:34:51 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2024-09-08 17:05:54 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-09-08 16:38:46 -0700"
     },
     "done": true
   },
@@ -2286,33 +2244,59 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2024-09-08 16:39:44 -0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2024-09-08 16:59:19 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-09-08 16:34:51 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
-      "has_log": "2024-09-08 16:59:19 -0700"
+      "has_gold_ingot": "2024-09-08 16:34:51 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
-      "has_obsidian": "2024-09-08 15:57:54 -0700"
+      "has_gold_ingot": "2024-09-08 16:34:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-09-08 16:53:40 -0700",
+      "minecraft:nether_wastes": "2024-09-08 16:37:54 -0700",
+      "minecraft:warped_forest": "2024-09-08 16:55:22 -0700"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-09-08 16:37:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-09-08 16:37:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-08 16:38:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-09-08 16:38:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-09-08 16:39:44 -0700"
     },
     "done": true
   },
@@ -2328,21 +2312,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2024-09-08 16:34:51 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2024-09-08 16:58:42 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
-      "has_gold_ingot": "2024-09-08 16:34:51 -0700"
+      "has_logs": "2024-09-08 16:59:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-09-08 16:59:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-09-08 17:01:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-09-08 17:01:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-09-08 17:05:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-05 20:30:31 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-05 20:36:07 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-05 20:36:07 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-05 20:36:07 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-05 20:36:07 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-05 20:36:07 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-05 20:36:07 -0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-05 21:00:17 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-05 20:59:23 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-05 20:56:04 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-05 21:00:17 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-05 20:59:23 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-05 20:56:04 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-05 21:00:17 -0800"
     },
     "done": true
   },
