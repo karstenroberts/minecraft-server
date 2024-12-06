@@ -1,163 +1,381 @@
-[16:42:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:42:53] [ServerMain/INFO]: Loaded 1174 recipes
-[16:42:54] [ServerMain/INFO]: Loaded 1271 advancements
-[16:42:54] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[16:42:54] [Server thread/INFO]: Loading properties
-[16:42:54] [Server thread/INFO]: This server is running Paper version git-Paper-496 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 7ac24a1 on ver/1.20.4)
-[16:42:55] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:42:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:42:55] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[13:10:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:10:39] [ServerMain/INFO]: Loaded 1174 recipes
+[13:10:39] [ServerMain/INFO]: Loaded 1271 advancements
+[13:10:41] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[13:10:41] [Server thread/INFO]: Loading properties
+[13:10:41] [Server thread/INFO]: This server is running Paper version git-Paper-496 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 7ac24a1 on ver/1.20.4)
+[13:10:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:10:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:10:42] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[16:42:55] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
-[16:42:55] [Server thread/INFO]: Default game type: SURVIVAL
-[16:42:55] [Server thread/INFO]: Generating keypair
-[16:42:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:42:55] [Server thread/INFO]: Using default channel type
-[16:42:55] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
-[16:42:55] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
-[16:42:55] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-beta-5-943
-[16:42:55] [Server thread/INFO]: [dynmap] version=git-Paper-496 (MC: 1.20.4)
-[16:42:55] [Server thread/INFO]: [dynmap] Mod Support API available
-[16:42:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:42:55] [Server thread/INFO]: Preparing level "world"
-[16:42:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:42:56] [Server thread/INFO]: Time elapsed: 727 ms
-[16:42:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:42:56] [Server thread/INFO]: Time elapsed: 21 ms
-[16:42:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:42:56] [Server thread/INFO]: Time elapsed: 16 ms
-[16:42:56] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-5-943
-[16:42:56] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
-[16:42:56] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[16:42:56] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[16:42:56] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[16:42:58] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[16:42:58] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[16:42:58] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[16:42:58] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[16:42:58] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[16:42:58] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:7777
-[16:42:58] [Server thread/INFO]: [dynmap] version 3.7-beta-5-943 is enabled - core version 3.7-beta-5-943
-[16:42:58] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[16:42:58] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
-[16:42:58] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[16:42:58] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[16:42:58] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[16:42:58] [Server thread/INFO]: [dynmap] Full render for world 'world' restored
-[16:42:58] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[16:42:58] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[16:42:58] [Server thread/INFO]: [dynmap] Enabled
-[16:42:58] [Server thread/INFO]: Running delayed init tasks
-[16:42:58] [Server thread/INFO]: Done (3.932s)! For help, type "help"
-[16:42:58] [Server thread/INFO]: Timings Reset
-[16:43:01] [User Authenticator #0/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/magenta_wool' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/blue_wool' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/black_wool' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/light_blue_wool' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/yellow_wool' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/light_gray_wool' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/red_wool' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/purple_wool' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/cyan_wool' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/gray_wool' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/orange_wool' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/lime_wool' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/green_wool' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/brown_wool' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/pink_wool' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/magenta_bed_from_white_bed' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/gray_bed_from_white_bed' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/pink_bed_from_white_bed' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/light_blue_bed_from_white_bed' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/purple_bed_from_white_bed' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/red_bed_from_white_bed' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/black_bed_from_white_bed' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/yellow_bed_from_white_bed' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/orange_bed_from_white_bed' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/cyan_bed_from_white_bed' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/lime_bed_from_white_bed' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/green_bed_from_white_bed' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/blue_bed_from_white_bed' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/brown_bed_from_white_bed' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/light_gray_bed_from_white_bed' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/pink_carpet_from_white_carpet' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/green_carpet_from_white_carpet' in progress file ./world/advancements/c844151a-704b-4ffe-8bc6-e194ae2b0fbd.json - it doesn't exist anymore?
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_wool removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_bed_from_white_bed removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_wool removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_bed_from_white_bed removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_wool removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_bed_from_white_bed removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_wool removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_bed_from_white_bed removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_wool removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_wool removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_bed_from_white_bed removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_carpet_from_white_carpet removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_wool removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_wool removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_bed_from_white_bed removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_bed_from_white_bed removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_bed_from_white_bed removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_wool removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_bed_from_white_bed removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_bed_from_white_bed removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_wool removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_wool removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_wool removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_bed_from_white_bed removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_wool removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_bed_from_white_bed removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_wool removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_bed_from_white_bed removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_bed_from_white_bed removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_bed_from_white_bed removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_carpet_from_white_carpet removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_wool removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_carpet_from_white_carpet removed now.
-[16:43:01] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_carpet_from_white_carpet removed now.
-[16:43:01] [Server thread/INFO]: kroberts11 joined the game
-[16:43:01] [Server thread/INFO]: kroberts11[/127.0.0.1:62911] logged in with entity id 138 at ([world]5968.6875, 62.11076428890228, -17815.3125)
-[16:43:04] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[16:43:36] [Server thread/INFO]: kroberts11 issued server command: /gamemode creative
-[16:43:36] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
-[16:45:49] [Server thread/INFO]: kroberts11 issued server command: /locate biome minecraft:cherry_grove
-[16:45:50] [Server thread/INFO]: Locating element minecraft:cherry_grove took 1261 ms
-[16:46:00] [Server thread/INFO]: kroberts11 issued server command: /tp @s 4941 95 -15673
-[16:46:00] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to 4941.500000, 95.000000, -15672.500000]
-[16:46:00] [Server thread/WARN]: kroberts11 moved too quickly! -1024.2216785635537,-0.4874676338088477,2143.6919321153437
-[16:46:42] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[16:46:42] [Server thread/INFO]: kroberts11 left the game
-[16:47:17] [Server thread/INFO]: Stopping server
-[16:47:17] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-beta-5-943
-[16:47:17] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[16:47:17] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[16:47:17] [Server thread/INFO]: [dynmap] Saved 3168 pending tile renders in world 'world'
-[16:47:17] [Server thread/INFO]: [dynmap] Full render job saved for world 'world'
-[16:47:17] [Server thread/INFO]: [dynmap] Disabled
-[16:47:17] [Server thread/INFO]: Saving players
-[16:47:17] [Server thread/INFO]: Saving worlds
-[16:47:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:47:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[16:47:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[16:47:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[16:47:18] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world' in 0.67s
-[16:47:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:47:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[16:47:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[16:47:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[16:47:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[16:47:19] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0.43s
-[16:47:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:47:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[16:47:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[16:47:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[16:47:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[16:47:19] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.06s
-[16:47:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:47:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[16:47:19] [Server thread/INFO]: Flushing Chunk IO
-[16:47:19] [Server thread/INFO]: Closing Thread Pool
-[16:47:19] [Server thread/INFO]: Closing Server
+[13:10:42] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
+[13:10:42] [Server thread/INFO]: Default game type: SURVIVAL
+[13:10:42] [Server thread/INFO]: Generating keypair
+[13:10:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:10:42] [Server thread/INFO]: Using default channel type
+[13:10:42] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
+[13:10:42] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
+[13:10:42] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-beta-5-943
+[13:10:42] [Server thread/INFO]: [dynmap] version=git-Paper-496 (MC: 1.20.4)
+[13:10:42] [Server thread/INFO]: [dynmap] Mod Support API available
+[13:10:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:10:42] [Server thread/INFO]: Preparing level "world"
+[13:10:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:10:43] [Server thread/INFO]: Time elapsed: 125 ms
+[13:10:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:10:43] [Server thread/INFO]: Time elapsed: 749 ms
+[13:10:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:10:43] [Server thread/INFO]: Time elapsed: 33 ms
+[13:10:43] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-5-943
+[13:10:44] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
+[13:10:44] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[13:10:44] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[13:10:44] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[13:10:45] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[13:10:45] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[13:10:45] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[13:10:45] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[13:10:45] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[13:10:45] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:7777
+[13:10:45] [Server thread/INFO]: [dynmap] version 3.7-beta-5-943 is enabled - core version 3.7-beta-5-943
+[13:10:45] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[13:10:45] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[13:10:45] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[13:10:45] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[13:10:45] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[13:10:45] [Server thread/INFO]: [dynmap] Full render for world 'world' restored
+[13:10:45] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[13:10:45] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[13:10:45] [Server thread/INFO]: [dynmap] Enabled
+[13:10:45] [Server thread/INFO]: Running delayed init tasks
+[13:10:45] [Server thread/INFO]: Done (4.629s)! For help, type "help"
+[13:10:45] [Server thread/INFO]: Timings Reset
+[13:10:51] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[13:10:58] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 134400 tiles rendered (794.67 msec/tile, 127.52 msec per render)
+[13:11:12] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 134500 tiles rendered (794.19 msec/tile, 136.76 msec per render)
+[13:11:27] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 134600 tiles rendered (793.70 msec/tile, 138.28 msec per render)
+[13:11:43] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 134700 tiles rendered (793.23 msec/tile, 144.54 msec per render)
+[13:11:55] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 134800 tiles rendered (792.73 msec/tile, 138.94 msec per render)
+[13:12:10] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 134900 tiles rendered (792.26 msec/tile, 140.71 msec per render)
+[13:12:22] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 135000 tiles rendered (791.76 msec/tile, 138.61 msec per render)
+[13:12:37] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 135100 tiles rendered (791.29 msec/tile, 139.30 msec per render)
+[13:12:53] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 135200 tiles rendered (790.82 msec/tile, 141.82 msec per render)
+[13:13:06] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 135300 tiles rendered (790.33 msec/tile, 140.54 msec per render)
+[13:13:21] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 135400 tiles rendered (789.86 msec/tile, 141.59 msec per render)
+[13:13:34] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 135500 tiles rendered (789.37 msec/tile, 139.98 msec per render)
+[13:13:48] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 135600 tiles rendered (788.89 msec/tile, 140.35 msec per render)
+[13:14:05] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 135700 tiles rendered (788.43 msec/tile, 141.95 msec per render)
+[13:14:18] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 135800 tiles rendered (787.95 msec/tile, 141.31 msec per render)
+[13:14:33] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 135900 tiles rendered (787.48 msec/tile, 142.10 msec per render)
+[13:14:46] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 136000 tiles rendered (787.00 msec/tile, 141.21 msec per render)
+[13:15:03] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 136100 tiles rendered (786.55 msec/tile, 142.89 msec per render)
+[13:15:21] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 136200 tiles rendered (786.10 msec/tile, 144.38 msec per render)
+[13:15:34] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 136300 tiles rendered (785.61 msec/tile, 143.56 msec per render)
+[13:15:52] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 136400 tiles rendered (785.17 msec/tile, 145.22 msec per render)
+[13:16:09] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 136500 tiles rendered (784.72 msec/tile, 146.51 msec per render)
+[13:16:28] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 136600 tiles rendered (784.28 msec/tile, 148.17 msec per render)
+[13:16:50] [Dynmap Render Thread/INFO]: [dynmap] Full render of map 'surface' of 'world' in progress - 136700 tiles rendered (783.87 msec/tile, 151.40 msec per render)
+[13:17:06] [User Authenticator #0/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[13:17:06] [Server thread/INFO]: kroberts11 joined the game
+[13:17:06] [Server thread/INFO]: kroberts11[/127.0.0.1:49622] logged in with entity id 152 at ([world]4943.169600974666, 102.11933893993915, -15681.271154339087)
+[13:17:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2532ms or 50 ticks behind
+[13:17:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7423ms or 148 ticks behind
+[13:17:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5199ms or 103 ticks behind
+[13:18:08] [User Authenticator #1/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[13:18:09] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/black_bed_from_white_bed' in progress file ./world/advancements/92f5c58a-526b-4aa2-bcf7-507effa9b87e.json - it doesn't exist anymore?
+[13:18:09] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/yellow_bed_from_white_bed' in progress file ./world/advancements/92f5c58a-526b-4aa2-bcf7-507effa9b87e.json - it doesn't exist anymore?
+[13:18:09] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/magenta_bed_from_white_bed' in progress file ./world/advancements/92f5c58a-526b-4aa2-bcf7-507effa9b87e.json - it doesn't exist anymore?
+[13:18:09] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/orange_bed_from_white_bed' in progress file ./world/advancements/92f5c58a-526b-4aa2-bcf7-507effa9b87e.json - it doesn't exist anymore?
+[13:18:09] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/cyan_bed_from_white_bed' in progress file ./world/advancements/92f5c58a-526b-4aa2-bcf7-507effa9b87e.json - it doesn't exist anymore?
+[13:18:09] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/gray_bed_from_white_bed' in progress file ./world/advancements/92f5c58a-526b-4aa2-bcf7-507effa9b87e.json - it doesn't exist anymore?
+[13:18:09] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/lime_bed_from_white_bed' in progress file ./world/advancements/92f5c58a-526b-4aa2-bcf7-507effa9b87e.json - it doesn't exist anymore?
+[13:18:09] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/green_bed_from_white_bed' in progress file ./world/advancements/92f5c58a-526b-4aa2-bcf7-507effa9b87e.json - it doesn't exist anymore?
+[13:18:09] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/pink_bed_from_white_bed' in progress file ./world/advancements/92f5c58a-526b-4aa2-bcf7-507effa9b87e.json - it doesn't exist anymore?
+[13:18:09] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/blue_bed_from_white_bed' in progress file ./world/advancements/92f5c58a-526b-4aa2-bcf7-507effa9b87e.json - it doesn't exist anymore?
+[13:18:09] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/light_blue_bed_from_white_bed' in progress file ./world/advancements/92f5c58a-526b-4aa2-bcf7-507effa9b87e.json - it doesn't exist anymore?
+[13:18:09] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/purple_bed_from_white_bed' in progress file ./world/advancements/92f5c58a-526b-4aa2-bcf7-507effa9b87e.json - it doesn't exist anymore?
+[13:18:09] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/brown_bed_from_white_bed' in progress file ./world/advancements/92f5c58a-526b-4aa2-bcf7-507effa9b87e.json - it doesn't exist anymore?
+[13:18:09] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/red_bed_from_white_bed' in progress file ./world/advancements/92f5c58a-526b-4aa2-bcf7-507effa9b87e.json - it doesn't exist anymore?
+[13:18:09] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/light_gray_bed_from_white_bed' in progress file ./world/advancements/92f5c58a-526b-4aa2-bcf7-507effa9b87e.json - it doesn't exist anymore?
+[13:18:09] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_bed_from_white_bed removed now.
+[13:18:09] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_bed_from_white_bed removed now.
+[13:18:09] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_bed_from_white_bed removed now.
+[13:18:09] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_bed_from_white_bed removed now.
+[13:18:09] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_bed_from_white_bed removed now.
+[13:18:09] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_bed_from_white_bed removed now.
+[13:18:09] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_bed_from_white_bed removed now.
+[13:18:09] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_bed_from_white_bed removed now.
+[13:18:09] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_bed_from_white_bed removed now.
+[13:18:09] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_bed_from_white_bed removed now.
+[13:18:09] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_bed_from_white_bed removed now.
+[13:18:09] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_bed_from_white_bed removed now.
+[13:18:09] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_bed_from_white_bed removed now.
+[13:18:09] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_bed_from_white_bed removed now.
+[13:18:09] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_bed_from_white_bed removed now.
+[13:18:09] [Server thread/INFO]: katjarroberts joined the game
+[13:18:10] [Server thread/INFO]: katjarroberts[/192.168.4.42:64363] logged in with entity id 663 at ([world]5968.047760962135, 62.0, -17812.230300762127)
+[13:18:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2647ms or 52 ticks behind
+[13:18:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13209ms or 264 ticks behind
+[13:18:55] [Server thread/INFO]: kroberts11 issued server command: /tp kroberts11
+[13:18:55] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to kroberts11]
+[13:18:59] [Server thread/INFO]: kroberts11 issued server command: /tp katjarroberts
+[13:18:59] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to katjarroberts]
+[13:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[13:19:05] [Server thread/INFO]: kroberts11 issued server command: /gamemode survival
+[13:19:05] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
+[13:19:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3945ms or 78 ticks behind
+[13:19:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
+[13:23:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[13:25:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
+[13:25:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
+[13:25:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
+[13:25:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3522ms or 70 ticks behind
+[13:26:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3992ms or 79 ticks behind
+[13:31:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
+[13:32:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2886ms or 57 ticks behind
+[13:42:21] [Server thread/INFO]: kroberts11 was shot by Skeleton
+[13:42:31] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[13:42:31] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[13:42:37] [Server thread/INFO]: kroberts11 issued server command: /tp katjarroberts
+[13:42:37] [Server thread/INFO]: [kroberts11: Teleported kroberts11 to katjarroberts]
+[13:51:07] [User Authenticator #2/INFO]: UUID of player fawzi4anubis is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/blue_carpet_from_white_carpet' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/green_carpet_from_white_carpet' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/magenta_wool' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/blue_wool' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/black_wool' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/light_blue_wool' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/yellow_wool' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/light_gray_wool' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/red_wool' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/purple_wool' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/cyan_wool' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/gray_wool' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/orange_wool' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/lime_wool' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/green_wool' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/brown_wool' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/pink_wool' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/red_carpet_from_white_carpet' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/purple_carpet_from_white_carpet' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/pink_carpet_from_white_carpet' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/light_blue_carpet_from_white_carpet' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/magenta_carpet_from_white_carpet' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/lime_carpet_from_white_carpet' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/cyan_carpet_from_white_carpet' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/magenta_bed_from_white_bed' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/gray_bed_from_white_bed' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/pink_bed_from_white_bed' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/light_blue_bed_from_white_bed' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/purple_bed_from_white_bed' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/red_bed_from_white_bed' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/black_bed_from_white_bed' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/yellow_bed_from_white_bed' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/orange_bed_from_white_bed' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/cyan_bed_from_white_bed' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/lime_bed_from_white_bed' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/green_bed_from_white_bed' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/blue_bed_from_white_bed' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/brown_bed_from_white_bed' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:07] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/light_gray_bed_from_white_bed' in progress file ./world/advancements/d80a47c7-8241-4747-a4d7-992f43ac8ab9.json - it doesn't exist anymore?
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_wool removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_bed_from_white_bed removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_carpet_from_white_carpet removed now.
+[13:51:08] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_wool removed now.
+[13:51:08] [Server thread/INFO]: fawzi4anubis (formerly known as marikaroberts) joined the game
+[13:51:08] [Server thread/INFO]: fawzi4anubis[/192.168.4.96:53739] logged in with entity id 14349 at ([world]5970.603303908789, 63.0, -17821.49277263616)
+[13:52:04] [Server thread/INFO]: fawzi4anubis issued server command: /tp katjarroberts
+[13:52:04] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to katjarroberts]
+[13:54:00] [User Authenticator #3/INFO]: UUID of player anubis4fawzi is df30e9dd-9343-4dee-816b-8aa0ffdb0242
+[13:54:01] [Server thread/INFO]: anubis4fawzi joined the game
+[13:54:01] [Server thread/INFO]: anubis4fawzi[/192.168.6.101:51181] logged in with entity id 15089 at ([world]-24.5, 95.0, -27.5)
+[13:54:39] [Server thread/INFO]: anubis4fawzi issued server command: /help
+[13:55:10] [Server thread/INFO]: anubis4fawzi issued server command: /help 2
+[13:55:21] [Server thread/INFO]: anubis4fawzi issued server command: /help 3
+[13:55:27] [Server thread/INFO]: anubis4fawzi issued server command: /minecraft:help
+[13:55:39] [Async Chat Thread - #5/INFO]: <anubis4fawzi> w
+[13:55:49] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[13:55:49] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[13:56:04] [Server thread/INFO]: kroberts11 issued server command: /tp fawzi4anubis kroberts11
+[13:56:04] [Server thread/INFO]: [kroberts11: Teleported fawzi4anubis to kroberts11]
+[13:56:16] [Server thread/INFO]: kroberts11 issued server command: /tp anubis4fawzi kroberts11
+[13:56:16] [Server thread/INFO]: [kroberts11: Teleported anubis4fawzi to kroberts11]
+[13:58:18] [Server thread/INFO]: fawzi4anubis issued server command: /tp anubis4fawzi
+[13:58:18] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to anubis4fawzi]
+[13:58:18] [Server thread/WARN]: fawzi4anubis moved too quickly! 14.917517520685578,0.0,-0.4484363027604559
+[14:02:50] [Server thread/INFO]: anubis4fawzi issued server command: /tell fawzi4anubis do u have food
+[14:03:16] [Server thread/INFO]: anubis4fawzi issued server command: /tell fawzi4anubis MAWEEEEKKAAAAAAA
+[14:07:15] [Server thread/INFO]: anubis4fawzi has made the advancement [Sweet Dreams]
+[14:08:26] [Server thread/INFO]: anubis4fawzi has made the advancement [Monster Hunter]
+[14:10:50] [Server thread/INFO]: fawzi4anubis lost connection: Disconnected
+[14:10:50] [Server thread/INFO]: fawzi4anubis left the game
+[14:14:20] [Server thread/INFO]: anubis4fawzi has made the advancement [Stone Age]
+[14:17:00] [Server thread/INFO]: anubis4fawzi has made the advancement [Getting an Upgrade]
+[14:18:17] [Server thread/INFO]: katjarroberts lost connection: Timed out
+[14:18:17] [Server thread/INFO]: katjarroberts left the game
+[14:36:43] [Server thread/INFO]: anubis4fawzi lost connection: Timed out
+[14:36:43] [Server thread/INFO]: anubis4fawzi left the game
+[15:46:37] [User Authenticator #4/INFO]: UUID of player anubis4fawzi is df30e9dd-9343-4dee-816b-8aa0ffdb0242
+[15:46:37] [Server thread/INFO]: anubis4fawzi joined the game
+[15:46:37] [Server thread/INFO]: anubis4fawzi[/192.168.6.101:52203] logged in with entity id 29778 at ([world]3898.5192196042094, 77.0, -16378.587234514898)
+[15:46:39] [User Authenticator #4/INFO]: UUID of player fawzi4anubis is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[15:46:39] [Server thread/INFO]: fawzi4anubis joined the game
+[15:46:39] [Server thread/INFO]: fawzi4anubis[/192.168.4.96:54123] logged in with entity id 29788 at ([world]3828.8614651178013, 101.0, -16281.108940186341)
+[15:50:34] [User Authenticator #5/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[15:50:34] [Server thread/INFO]: katjarroberts joined the game
+[15:50:34] [Server thread/INFO]: katjarroberts[/192.168.4.42:53290] logged in with entity id 30718 at ([world]3796.6696153298144, 110.0, -16265.629482180506)
+[15:57:54] [Server thread/INFO]: katjarroberts has made the advancement [Ice Bucket Challenge]
+[16:04:32] [Server thread/INFO]: kroberts11 has made the advancement [Bee Our Guest]
+[16:05:50] [Server thread/INFO]: fawzi4anubis was blown up by Creeper
+[16:07:48] [Server thread/INFO]: fawzi4anubis issued server command: /tp anubis
+[16:07:55] [Server thread/INFO]: fawzi4anubis issued server command: /tp anubis4fawzi
+[16:07:55] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to anubis4fawzi]
+[16:19:16] [Server thread/INFO]: fawzi4anubis issued server command: /tp kroberts11
+[16:19:16] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to kroberts11]
+[16:21:13] [Server thread/INFO]: anubis4fawzi issued server command: /tp fawzi4anubis
+[16:21:29] [Server thread/INFO]: fawzi4anubis issued server command: /tp anubis4fawzi
+[16:21:29] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to anubis4fawzi]
+[16:21:41] [Server thread/INFO]: fawzi4anubis issued server command: /tp kroberts11
+[16:21:41] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to kroberts11]
+[16:21:41] [Server thread/WARN]: fawzi4anubis moved too quickly! -28.615167663328975,19.6875,93.71964238863438
+[16:22:01] [Server thread/INFO]: kroberts11 issued server command: /tp anubis4fawzi kroberts11
+[16:22:01] [Server thread/INFO]: [kroberts11: Teleported anubis4fawzi to kroberts11]
+[16:22:01] [Server thread/WARN]: anubis4fawzi moved too quickly! -31.715986906609032,19.0,94.19999998807907
+[16:23:16] [Server thread/INFO]: anubis4fawzi was slain by Enderman
+[16:34:09] [Server thread/INFO]: anubis4fawzi has made the advancement [Acquire Hardware]
+[16:37:20] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[16:37:20] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[16:37:54] [Server thread/INFO]: katjarroberts has made the advancement [We Need to Go Deeper]
+[16:37:58] [Server thread/INFO]: kroberts11 has made the advancement [We Need to Go Deeper]
+[16:40:51] [Server thread/INFO]: kroberts11 issued server command: /gamemode creative
+[16:40:51] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
+[16:41:17] [Server thread/INFO]: kroberts11 issued server command: /gamemode survival
+[16:41:17] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
+[16:42:58] [Server thread/INFO]: fawzi4anubis has made the advancement [We Need to Go Deeper]
+[16:49:04] [Server thread/INFO]: kroberts11 issued server command: /locate structure minecraft:fortress
+[16:49:04] [Server thread/INFO]: Locating element minecraft:fortress took 3 ms
+[16:55:14] [Server thread/INFO]: kroberts11 was slain by Enderman
+[16:59:46] [Server thread/INFO]: fawzi4anubis issued server command: /tp anubis4fawzi
+[16:59:46] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to anubis4fawzi]
+[17:03:03] [Server thread/INFO]: kroberts11 has completed the challenge [Return to Sender]
+[17:09:27] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[17:09:27] [Server thread/INFO]: kroberts11 left the game
+[17:12:11] [User Authenticator #6/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[17:12:11] [Server thread/INFO]: kroberts11 joined the game
+[17:12:11] [Server thread/INFO]: kroberts11[/127.0.0.1:52409] logged in with entity id 48542 at ([world]3825.090981593609, 96.0, -16268.996600744233)
+[17:12:53] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[17:12:53] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[17:12:57] [Server thread/INFO]: fawzi4anubis lost connection: Disconnected
+[17:12:57] [Server thread/INFO]: fawzi4anubis left the game
+[17:24:22] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[17:24:22] [Server thread/INFO]: kroberts11 left the game
+[17:24:36] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[17:24:40] [Server thread/INFO]: Stopping server
+[17:24:40] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-beta-5-943
+[17:24:40] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[17:24:40] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[17:24:40] [Server thread/INFO]: [dynmap] Saved 80 pending tile renders in world 'world'
+[17:24:40] [Server thread/INFO]: [dynmap] Disabled
+[17:24:40] [Server thread/INFO]: Saving players
+[17:24:40] [Server thread/INFO]: katjarroberts lost connection: Server closed
+[17:24:40] [Server thread/INFO]: katjarroberts left the game
+[17:24:40] [Server thread/INFO]: anubis4fawzi lost connection: Server closed
+[17:24:40] [Server thread/INFO]: anubis4fawzi left the game
+[17:24:40] [Server thread/INFO]: Saving worlds
+[17:24:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:24:40] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:24:40] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:24:40] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:24:40] [Server thread/INFO]: [ChunkHolderManager] Saved 756 block chunks, 368 entity chunks, 2 poi chunks in world 'world' in 0.26s
+[17:24:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:24:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:24:40] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:24:40] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:24:40] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:24:40] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[17:24:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:24:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:24:40] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[17:24:40] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[17:24:40] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[17:24:40] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[17:24:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:24:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:24:40] [Server thread/INFO]: Flushing Chunk IO
+[17:24:40] [Server thread/INFO]: Closing Thread Pool
+[17:24:40] [Server thread/INFO]: Closing Server

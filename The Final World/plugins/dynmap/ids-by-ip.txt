@@ -6,5 +6,11 @@
 - katjarroberts
 '134_69_202_124':
 - GotchaGR04
+'192_168_6_101':
+- anubis4fawzi
+'192_168_4_96':
+- fawzi4anubis
+'192_168_4_42':
+- katjarroberts
 '127_0_0_1':
 - kroberts11
