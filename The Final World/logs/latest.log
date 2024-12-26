@@ -1,193 +1,150 @@
-[14:25:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:25:18] [ServerMain/INFO]: Loaded 1174 recipes
-[14:25:19] [ServerMain/INFO]: Loaded 1271 advancements
-[14:25:21] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[14:25:21] [Server thread/INFO]: Loading properties
-[14:25:21] [Server thread/INFO]: This server is running Paper version git-Paper-496 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 7ac24a1 on ver/1.20.4)
-[14:25:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:25:22] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:25:22] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[14:05:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:05:02] [ServerMain/INFO]: Loaded 1174 recipes
+[14:05:02] [ServerMain/INFO]: Loaded 1271 advancements
+[14:05:04] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[14:05:04] [Server thread/INFO]: Loading properties
+[14:05:04] [Server thread/INFO]: This server is running Paper version git-Paper-496 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 7ac24a1 on ver/1.20.4)
+[14:05:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:05:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:05:04] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[14:25:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
-[14:25:22] [Server thread/INFO]: Default game type: SURVIVAL
-[14:25:22] [Server thread/INFO]: Generating keypair
-[14:25:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:25:22] [Server thread/INFO]: Using default channel type
-[14:25:23] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
-[14:25:23] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
-[14:25:23] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-beta-5-943
-[14:25:23] [Server thread/INFO]: [dynmap] version=git-Paper-496 (MC: 1.20.4)
-[14:25:23] [Server thread/INFO]: [dynmap] Mod Support API available
-[14:25:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:25:23] [Server thread/INFO]: Preparing level "world"
-[14:25:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:25:25] [Server thread/INFO]: Time elapsed: 1828 ms
-[14:25:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:25:25] [Server thread/INFO]: Time elapsed: 115 ms
-[14:25:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:25:25] [Server thread/INFO]: Time elapsed: 34 ms
-[14:25:25] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-5-943
-[14:25:26] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
-[14:25:26] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[14:25:26] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[14:25:27] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[14:25:31] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[14:25:31] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[14:25:31] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[14:25:31] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[14:25:31] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[14:25:31] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:7777
-[14:25:31] [Server thread/INFO]: [dynmap] version 3.7-beta-5-943 is enabled - core version 3.7-beta-5-943
-[14:25:31] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[14:25:31] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
-[14:25:31] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[14:25:31] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[14:25:31] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[14:25:31] [Server thread/INFO]: [dynmap] Loaded 16752 pending tile renders for world 'world'
-[14:25:31] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[14:25:31] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[14:25:31] [Server thread/INFO]: [dynmap] Enabled
-[14:25:31] [Server thread/INFO]: Running delayed init tasks
-[14:25:31] [Server thread/INFO]: Done (10.863s)! For help, type "help"
-[14:25:31] [Server thread/INFO]: Timings Reset
-[14:25:33] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[14:29:11] [User Authenticator #0/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
-[14:29:11] [Server thread/INFO]: katjarroberts joined the game
-[14:29:11] [Server thread/INFO]: katjarroberts[/192.168.0.117:55060] logged in with entity id 148 at ([world]3805.4953992898995, 85.0625, -16261.78586579962)
-[14:34:56] [User Authenticator #1/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[14:34:56] [Server thread/INFO]: kroberts11 joined the game
-[14:34:56] [Server thread/INFO]: kroberts11[/127.0.0.1:60167] logged in with entity id 1120 at ([world]3832.7763596034174, 96.0, -16267.822553447915)
-[14:35:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
-[14:38:44] [Server thread/INFO]: GotchaGR04 (/192.168.0.20:52160) lost connection: Disconnected
-[14:39:01] [Server thread/INFO]: GotchaGR04 (/192.168.0.20:52166) lost connection: Disconnected
-[14:39:09] [Server thread/INFO]: GotchaGR04 (/192.168.0.20:52170) lost connection: Disconnected
-[14:43:13] [User Authenticator #2/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
-[14:43:13] [Server thread/INFO]: GotchaGR04 joined the game
-[14:43:13] [Server thread/INFO]: GotchaGR04[/192.168.0.20:52285] logged in with entity id 2248 at ([world]3820.618987099128, 96.0, -16261.902064348526)
-[14:47:17] [Server thread/INFO]: kroberts11 issued server command: /time set 0
-[14:47:17] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[14:51:44] [Server thread/WARN]: Horse (vehicle of GotchaGR04) moved wrongly! 0.2996364312289188
-[14:52:39] [Server thread/WARN]: Oak Boat (vehicle of katjarroberts) moved wrongly! 0.3608128250380105
-[14:52:39] [Server thread/WARN]: Oak Boat (vehicle of katjarroberts) moved wrongly! 0.3792246467273799
-[14:53:06] [Server thread/WARN]: Horse (vehicle of GotchaGR04) moved wrongly! 0.2715023818782356
-[14:53:47] [Server thread/WARN]: Oak Boat (vehicle of katjarroberts) moved wrongly! 0.3173630904748279
-[14:53:48] [Server thread/WARN]: Oak Boat (vehicle of katjarroberts) moved wrongly! 0.323382497563216
-[14:54:03] [Server thread/WARN]: Oak Boat (vehicle of kroberts11) moved wrongly! 0.2769399707312914
-[14:55:06] [Server thread/WARN]: Horse (vehicle of GotchaGR04) moved wrongly! 0.3626783010986401
-[14:57:52] [Server thread/INFO]: kroberts11 issued server command: /time set 0
-[14:57:52] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[15:00:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
-[15:00:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
-[15:00:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[15:02:42] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.2503530075891831
-[15:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2518ms or 50 ticks behind
-[15:08:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
-[15:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7975ms or 159 ticks behind
-[15:08:29] [Server thread/INFO]: kroberts11 issued server command: /time set 0
-[15:08:29] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[15:08:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
-[15:09:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
-[15:10:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2576ms or 51 ticks behind
-[15:19:10] [Server thread/INFO]: kroberts11 issued server command: /time set 0
-[15:19:10] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[15:20:32] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.2783340600308293
-[15:28:19] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.43940309241588693
-[15:28:26] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.25453262120936415
-[15:28:27] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.4744721408906116
-[15:28:29] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.28220772071108513
-[15:29:23] [Server thread/INFO]: kroberts11 issued server command: /time set 0
-[15:29:23] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[15:30:59] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.2628475408982922
-[15:30:59] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.49970688120993145
-[15:30:59] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 1.057511177044944
-[15:30:59] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5289424079819582
-[15:30:59] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.534395181130094
-[15:30:59] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5373128513256233
-[15:30:59] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5388740384751145
-[15:30:59] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 1.11763589925431
-[15:30:59] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5401563831346721
-[15:30:59] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5403955556521396
-[15:30:59] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5424388472438295
-[15:30:59] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5460246360853489
-[15:30:59] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5486490724506439
-[15:31:00] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5505595899685432
-[15:31:00] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5519118760403217
-[15:31:00] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.552635457355791
-[15:31:00] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 1.1447105508323148
-[15:31:00] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5532298003436154
-[15:31:00] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.27786596765872673
-[15:31:00] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.4474427007971826
-[15:39:28] [Server thread/INFO]: kroberts11 issued server command: /time set 9
-[15:39:28] [Server thread/INFO]: [kroberts11: Set the time to 9]
-[15:46:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[15:47:04] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.3607933372059051
-[15:47:06] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.25637024967727484
-[15:47:06] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.3434895718100961
-[15:47:08] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.4890727948913991
-[15:48:03] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.28784730099232547
-[15:48:03] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.5315940931441219
-[15:48:03] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.7328303318254257
-[15:48:03] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.3974052489102178
-[15:48:03] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 1.0
-[15:49:29] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.41051716126276006
-[15:49:30] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.2823090280830911
-[15:49:40] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.28152539368784346
-[15:49:43] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.2609424320889957
-[15:49:43] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.4441801059037971
-[15:49:56] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.29622215634344684
-[15:49:56] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.7509468825137446
-[15:49:58] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.29622215634344684
-[15:49:58] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.7509468825137446
-[15:49:58] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.2904831735982043
-[15:49:58] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.8754004421075479
-[15:49:58] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.4846001668383906
-[15:49:58] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.26201026982244
-[15:49:58] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.8968659555939666
-[15:50:12] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.4250238665990764
-[15:50:14] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.2784534293023171
-[15:50:26] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.26627992830981384
-[15:50:27] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.379554162576369
-[15:50:27] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.8389520163511504
-[15:50:27] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 1.3239525271791162
-[15:50:27] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 1.8441686757786373
-[15:52:53] [Server thread/WARN]: Horse (vehicle of kroberts11) moved wrongly! 0.4089042487375991
-[15:55:21] [Server thread/INFO]: GotchaGR04 was slain by Zombie
-[15:55:25] [Server thread/INFO]: kroberts11 issued server command: /time set 0
-[15:55:25] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[15:56:24] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
-[15:56:24] [Server thread/INFO]: GotchaGR04 left the game
-[16:01:27] [Server thread/INFO]: katjarroberts lost connection: Disconnected
-[16:01:27] [Server thread/INFO]: katjarroberts left the game
-[16:01:41] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[16:01:42] [Server thread/INFO]: kroberts11 left the game
-[16:01:49] [Server thread/INFO]: Stopping server
-[16:01:49] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-beta-5-943
-[16:01:49] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[16:01:49] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[16:01:49] [Server thread/INFO]: [dynmap] Saved 9326 pending tile renders in world 'world'
-[16:01:49] [Server thread/INFO]: [dynmap] Disabled
-[16:01:49] [Server thread/INFO]: Saving players
-[16:01:49] [Server thread/INFO]: Saving worlds
-[16:01:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:01:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[16:01:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[16:01:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[16:01:49] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 62 entity chunks, 0 poi chunks in world 'world' in 0.01s
-[16:01:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:01:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[16:01:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[16:01:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[16:01:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[16:01:49] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[16:01:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:01:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[16:01:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[16:01:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[16:01:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[16:01:49] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[16:01:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:01:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[16:01:49] [Server thread/INFO]: Flushing Chunk IO
-[16:01:49] [Server thread/INFO]: Closing Thread Pool
-[16:01:49] [Server thread/INFO]: Closing Server
+[14:05:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 2 worker threads, and gen parallelism of 2 threads
+[14:05:05] [Server thread/INFO]: Default game type: SURVIVAL
+[14:05:05] [Server thread/INFO]: Generating keypair
+[14:05:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:05:05] [Server thread/INFO]: Using default channel type
+[14:05:05] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
+[14:05:05] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
+[14:05:05] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-beta-5-943
+[14:05:05] [Server thread/INFO]: [dynmap] version=git-Paper-496 (MC: 1.20.4)
+[14:05:05] [Server thread/INFO]: [dynmap] Mod Support API available
+[14:05:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:05:05] [Server thread/INFO]: Preparing level "world"
+[14:05:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:05:06] [Server thread/INFO]: Time elapsed: 640 ms
+[14:05:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:05:06] [Server thread/INFO]: Time elapsed: 119 ms
+[14:05:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:05:06] [Server thread/INFO]: Time elapsed: 23 ms
+[14:05:06] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-5-943
+[14:05:07] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
+[14:05:07] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[14:05:07] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[14:05:07] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[14:05:08] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[14:05:08] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[14:05:08] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[14:05:08] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[14:05:08] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[14:05:08] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:7777
+[14:05:08] [Server thread/INFO]: [dynmap] version 3.7-beta-5-943 is enabled - core version 3.7-beta-5-943
+[14:05:08] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[14:05:08] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[14:05:08] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[14:05:08] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[14:05:08] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[14:05:08] [Server thread/INFO]: [dynmap] Loaded 9326 pending tile renders for world 'world'
+[14:05:08] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[14:05:08] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[14:05:08] [Server thread/INFO]: [dynmap] Enabled
+[14:05:08] [Server thread/INFO]: Running delayed init tasks
+[14:05:08] [Server thread/INFO]: Done (4.924s)! For help, type "help"
+[14:05:08] [Server thread/INFO]: Timings Reset
+[14:05:09] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[14:07:39] [User Authenticator #0/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
+[14:07:41] [Server thread/INFO]: katjarroberts joined the game
+[14:07:41] [Server thread/INFO]: katjarroberts[/192.168.6.214:59428] logged in with entity id 129 at ([world]3804.9427550412365, 85.0625, -16260.968236841836)
+[14:07:43] [User Authenticator #0/INFO]: UUID of player fawzi4anubis is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[14:07:43] [Server thread/INFO]: fawzi4anubis joined the game
+[14:07:43] [Server thread/INFO]: fawzi4anubis[/192.168.6.108:58386] logged in with entity id 436 at ([world]3833.308572581358, 96.0, -16265.898722974067)
+[14:08:28] [User Authenticator #0/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[14:08:28] [Server thread/INFO]: kroberts11 joined the game
+[14:08:28] [Server thread/INFO]: kroberts11[/127.0.0.1:59480] logged in with entity id 593 at ([world]3844.1201500674742, 96.0, -16272.113674030283)
+[14:12:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
+[14:15:54] [User Authenticator #1/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[14:15:55] [Server thread/INFO]: GotchaGR04 joined the game
+[14:15:55] [Server thread/INFO]: GotchaGR04[/192.168.6.226:49365] logged in with entity id 1531 at ([world]3837.764728740653, 100.0, -16280.690973452938)
+[14:49:30] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[14:49:30] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[14:50:24] [Server thread/INFO]: kroberts11 issued server command: /xp add kroberts11 20 levels
+[14:50:24] [Server thread/INFO]: [kroberts11: Gave 20 experience levels to kroberts11]
+[14:50:55] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.37198713011093787
+[14:52:09] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.27921261424489785
+[14:52:12] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.2729665337328697
+[14:52:12] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5127533595186833
+[14:52:12] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5295092228452631
+[14:52:12] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5384749512354574
+[14:52:12] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5432723337394236
+[14:52:12] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5458393174681078
+[14:52:12] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5472128592809895
+[14:52:12] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5479478141196523
+[14:52:12] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5483410738006569
+[14:52:12] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5485514992151366
+[14:52:12] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5486640936587719
+[14:52:12] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.5148284760884962
+[14:52:12] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.3782983647315632
+[14:52:12] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.2882257929759362
+[14:52:17] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.2671342297344381
+[15:04:47] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[15:04:47] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[15:15:42] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[15:15:42] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[15:33:03] [Server thread/INFO]: kroberts11 issued server command: /seed
+[15:35:47] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.3583076979921316
+[15:42:32] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.449007852572322
+[15:43:01] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.4947977244546564
+[15:46:21] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[15:46:21] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[15:47:19] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.28120846316960524
+[15:47:26] [Server thread/INFO]: kroberts11 issued server command: /gamemode creative
+[15:47:26] [Server thread/INFO]: [kroberts11: Set own game mode to Creative Mode]
+[15:47:26] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.26591344595726696
+[15:47:51] [Server thread/INFO]: kroberts11 issued server command: /gamemode survival
+[15:47:51] [Server thread/INFO]: [kroberts11: Set own game mode to Survival Mode]
+[15:57:10] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[15:57:10] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[15:58:26] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[15:58:26] [Server thread/INFO]: GotchaGR04 left the game
+[15:58:52] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[15:58:52] [Server thread/INFO]: kroberts11 left the game
+[15:59:06] [Server thread/WARN]: Horse (vehicle of katjarroberts) moved wrongly! 0.26003252669397625
+[15:59:35] [Server thread/INFO]: fawzi4anubis lost connection: Disconnected
+[15:59:35] [Server thread/INFO]: fawzi4anubis left the game
+[15:59:57] [User Authenticator #2/INFO]: UUID of player fawzi4anubis is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[15:59:58] [Server thread/INFO]: fawzi4anubis joined the game
+[15:59:58] [Server thread/INFO]: fawzi4anubis[/192.168.6.108:58596] logged in with entity id 24043 at ([world]3835.3232421875, 97.84375, -16290.001912749554)
+[16:02:31] [Server thread/INFO]: fawzi4anubis lost connection: Disconnected
+[16:02:31] [Server thread/INFO]: fawzi4anubis left the game
+[16:02:38] [Server thread/INFO]: katjarroberts lost connection: Disconnected
+[16:02:38] [Server thread/INFO]: katjarroberts left the game
+[16:02:41] [Server thread/INFO]: Stopping server
+[16:02:41] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-beta-5-943
+[16:02:41] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[16:02:41] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[16:02:41] [Server thread/INFO]: [dynmap] Saved 1005 pending tile renders in world 'world'
+[16:02:41] [Server thread/INFO]: [dynmap] Disabled
+[16:02:41] [Server thread/INFO]: Saving players
+[16:02:42] [Server thread/INFO]: Saving worlds
+[16:02:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:02:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[16:02:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[16:02:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[16:02:42] [Server thread/INFO]: [ChunkHolderManager] Saved 6 block chunks, 64 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[16:02:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:02:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:02:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[16:02:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[16:02:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[16:02:42] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[16:02:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:02:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:02:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[16:02:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[16:02:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[16:02:42] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[16:02:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:02:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:02:42] [Server thread/INFO]: Flushing Chunk IO
+[16:02:42] [Server thread/INFO]: Closing Thread Pool
+[16:02:42] [Server thread/INFO]: Closing Server
