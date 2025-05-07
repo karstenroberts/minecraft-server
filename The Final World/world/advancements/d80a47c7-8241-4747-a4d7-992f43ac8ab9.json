@@ -2914,5 +2914,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-29 16:04:32 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-29 17:23:37 -0800"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
