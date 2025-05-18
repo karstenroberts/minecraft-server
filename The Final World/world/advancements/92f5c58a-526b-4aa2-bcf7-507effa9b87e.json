@@ -1007,7 +1007,8 @@
       "cooked_chicken": "2022-07-10 21:02:06 -0700",
       "cooked_mutton": "2022-07-08 22:06:20 -0700",
       "cooked_beef": "2022-07-08 22:43:23 -0700",
-      "melon_slice": "2022-07-10 21:25:45 -0700"
+      "melon_slice": "2022-07-10 21:25:45 -0700",
+      "carrot": "2025-05-17 20:48:26 -0700"
     },
     "done": false
   },
@@ -2785,12 +2786,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-05-06 19:13:12 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_pink_dye": "2025-05-06 19:13:08 -0700"
@@ -2830,6 +2825,180 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_pink_dye": "2025-05-06 19:13:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-06 19:13:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-05-17 20:17:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-05-17 20:17:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-17 21:00:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-17 20:10:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-17 21:00:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-17 20:17:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-17 20:10:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-17 21:00:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-17 20:10:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-17 20:10:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-17 20:17:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-17 20:17:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-17 20:10:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-17 20:17:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-17 20:10:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-17 20:10:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-17 20:17:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-17 20:17:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-17 20:17:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-17 20:10:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-17 19:04:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-17 20:10:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-17 20:17:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-17 21:00:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-05-17 20:17:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-17 19:04:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-17 20:10:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-05-17 21:00:34 -0700"
     },
     "done": true
   },
