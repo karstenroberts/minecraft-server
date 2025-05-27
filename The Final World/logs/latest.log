@@ -1,192 +1,142 @@
-[18:27:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:27:28] [ServerMain/INFO]: Loaded 1174 recipes
-[18:27:28] [ServerMain/INFO]: Loaded 1271 advancements
-[18:27:29] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[18:27:29] [Server thread/INFO]: Loading properties
-[18:27:29] [Server thread/INFO]: This server is running Paper version git-Paper-496 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 7ac24a1 on ver/1.20.4)
-[18:27:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:27:29] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:27:29] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[14:22:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:22:51] [ServerMain/INFO]: Loaded 1174 recipes
+[14:22:51] [ServerMain/INFO]: Loaded 1271 advancements
+[14:22:51] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[14:22:51] [Server thread/INFO]: Loading properties
+[14:22:52] [Server thread/INFO]: This server is running Paper version git-Paper-496 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 7ac24a1 on ver/1.20.4)
+[14:22:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:22:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:22:52] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[18:27:29] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 4 worker threads, and gen parallelism of 4 threads
-[18:27:29] [Server thread/INFO]: Default game type: SURVIVAL
-[18:27:29] [Server thread/INFO]: Generating keypair
-[18:27:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:27:29] [Server thread/INFO]: Using epoll channel type
-[18:27:29] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:27:29] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[18:27:29] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-beta-5-943
-[18:27:29] [Server thread/INFO]: [dynmap] version=git-Paper-496 (MC: 1.20.4)
-[18:27:29] [Server thread/INFO]: [dynmap] Mod Support API available
-[18:27:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:27:29] [Server thread/INFO]: Preparing level "world"
-[18:27:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:27:30] [Server thread/INFO]: Time elapsed: 87 ms
-[18:27:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:27:30] [Server thread/INFO]: Time elapsed: 486 ms
-[18:27:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:27:30] [Server thread/INFO]: Time elapsed: 17 ms
-[18:27:30] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-5-943
-[18:27:30] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
-[18:27:30] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[18:27:30] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[18:27:30] [Server thread/INFO]: [dynmap] Found cwebp at /usr/bin/cwebp and dwebp at /usr/bin/dwebp: webp format enabled
-[18:27:30] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[18:27:31] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[18:27:31] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[18:27:31] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[18:27:31] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[18:27:31] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[18:27:31] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:7777
-[18:27:31] [Server thread/INFO]: [dynmap] version 3.7-beta-5-943 is enabled - core version 3.7-beta-5-943
-[18:27:31] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[18:27:31] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
-[18:27:31] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[18:27:31] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[18:27:31] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[18:27:31] [Server thread/INFO]: [dynmap] Loaded 77 pending tile renders for world 'world'
-[18:27:31] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[18:27:31] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[18:27:31] [Server thread/INFO]: [dynmap] Enabled
-[18:27:31] [Server thread/INFO]: Running delayed init tasks
-[18:27:31] [Server thread/INFO]: Done (2.686s)! For help, type "help"
-[18:27:31] [Server thread/INFO]: Timings Reset
-[18:27:32] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[18:43:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7747ms or 154 ticks behind
-[18:43:25] [User Authenticator #1/INFO]: UUID of player katjarroberts is 92f5c58a-526b-4aa2-bcf7-507effa9b87e
-[18:43:25] [User Authenticator #0/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
-[18:43:25] [Server thread/INFO]: GotchaGR04 joined the game
-[18:43:25] [Server thread/INFO]: GotchaGR04[/192.168.4.54:59522] logged in with entity id 189 at ([world]3820.454705778282, 96.0, -16261.438422243815)
-[18:43:25] [Server thread/INFO]: katjarroberts joined the game
-[18:43:25] [Server thread/INFO]: katjarroberts[/32.219.209.122:53235] logged in with entity id 188 at ([world]3826.644724562566, 96.0, -16268.420543866881)
-[18:43:42] [User Authenticator #0/INFO]: UUID of player fawzi4anubis is d80a47c7-8241-4747-a4d7-992f43ac8ab9
-[18:43:42] [Server thread/INFO]: fawzi4anubis joined the game
-[18:43:42] [Server thread/INFO]: fawzi4anubis[/172.91.65.102:63649] logged in with entity id 606 at ([world]3836.5, 96.375, -16266.5)
-[18:44:30] [Server thread/INFO]: fawzi4anubis lost connection: Disconnected
-[18:44:30] [Server thread/INFO]: fawzi4anubis left the game
-[18:44:44] [User Authenticator #2/INFO]: UUID of player fawzi4anubis is d80a47c7-8241-4747-a4d7-992f43ac8ab9
-[18:44:44] [Server thread/INFO]: fawzi4anubis joined the game
-[18:44:44] [Server thread/INFO]: fawzi4anubis[/172.91.65.102:63659] logged in with entity id 738 at ([world]3807.095697456735, 85.0625, -16261.757308990118)
-[18:54:52] [User Authenticator #3/INFO]: UUID of player anubis4fawzi is df30e9dd-9343-4dee-816b-8aa0ffdb0242
-[18:54:52] [Server thread/INFO]: anubis4fawzi joined the game
-[18:54:52] [Server thread/INFO]: anubis4fawzi[/172.91.65.102:49461] logged in with entity id 2316 at ([world]3899.699999988079, 77.0, -16371.655065998706)
-[18:54:55] [Async Chat Thread - #3/INFO]: <anubis4fawzi> LALA
-[18:56:09] [Async Chat Thread - #4/INFO]: <anubis4fawzi> yes
-[18:56:16] [Async Chat Thread - #4/INFO]: <anubis4fawzi> i gave u sand
-[18:59:06] [Server thread/INFO]: fawzi4anubis issued server command: /tp anubis4fawzi
-[18:59:06] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to anubis4fawzi]
-[19:00:24] [User Authenticator #4/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
-[19:00:24] [Server thread/INFO]: kroberts11 joined the game
-[19:00:24] [Server thread/INFO]: kroberts11[/192.168.4.108:38212] logged in with entity id 3559 at ([world]3832.30567763058, 103.0, -16263.494962309593)
-[19:00:46] [Async Chat Thread - #6/INFO]: <fawzi4anubis> lets have a team meeting
-[19:00:47] [Async Chat Thread - #6/INFO]: <fawzi4anubis> rn
-[19:00:55] [Async Chat Thread - #6/INFO]: <fawzi4anubis> figure out priorities
-[19:01:34] [Async Chat Thread - #6/INFO]: <fawzi4anubis> 1. all get iron and stuff to build rails
-[19:01:41] [Async Chat Thread - #6/INFO]: <fawzi4anubis> 2. some on rails some on house
-[19:01:47] [Async Chat Thread - #6/INFO]: <fawzi4anubis> 3. free for all
-[19:02:27] [Async Chat Thread - #6/INFO]: <fawzi4anubis> should we scout a location? Does kman know the location already?
-[19:12:54] [Async Chat Thread - #8/INFO]: <fawzi4anubis> how do i check how deep i am
-[19:32:37] [Server thread/INFO]: fawzi4anubis issued server command: /tp kroberts11
-[19:32:37] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to kroberts11]
-[19:33:41] [Server thread/INFO]: fawzi4anubis issued server command: /tp anubis4fawzi
-[19:33:41] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to anubis4fawzi]
-[19:34:20] [Server thread/INFO]: GotchaGR04 issued server command: /tp fawzi4anubis
-[19:34:20] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to fawzi4anubis]
-[19:34:36] [Server thread/INFO]: GotchaGR04 issued server command: /tp kroberts11
-[19:34:36] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to kroberts11]
-[19:35:13] [Server thread/INFO]: GotchaGR04 issued server command: /tp fawzi4anubis
-[19:35:13] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to fawzi4anubis]
-[19:35:13] [Server thread/WARN]: GotchaGR04 moved too quickly! 294.35134254453305,88.0,41.47843421403377
-[19:35:13] [Server thread/WARN]: GotchaGR04 moved too quickly! 294.35134254453305,88.0,41.47843421403377
-[19:53:05] [Server thread/INFO]: GotchaGR04 issued server command: /tp kroberts11
-[19:53:05] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to kroberts11]
-[19:53:05] [Server thread/WARN]: GotchaGR04 moved too quickly! 33.79816213836693,-26.3125,83.1931230122118
-[19:53:05] [Server thread/WARN]: GotchaGR04 moved too quickly! 33.79816213836693,-26.3125,83.1931230122118
-[19:53:39] [Async Chat Thread - #10/INFO]: <fawzi4anubis> helloooo
-[19:56:52] [Server thread/INFO]: GotchaGR04 issued server command: /tp kroberts11
-[19:56:52] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to kroberts11]
-[19:56:52] [Server thread/WARN]: GotchaGR04 moved too quickly! -25.85563625393752,-20.9375,77.9375
-[19:56:52] [Server thread/WARN]: GotchaGR04 moved too quickly! -25.85563625393752,-20.9375,77.9375
-[19:56:52] [Server thread/WARN]: GotchaGR04 moved too quickly! -25.85563625393752,-20.9375,77.9375
-[19:56:52] [Server thread/WARN]: GotchaGR04 moved too quickly! -25.85563625393752,-20.9375,77.9375
-[19:57:50] [Server thread/INFO]: GotchaGR04 issued server command: /tp fawzi4anubis
-[19:57:50] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to fawzi4anubis]
-[19:57:50] [Server thread/WARN]: GotchaGR04 moved too quickly! 103.25899346471579,-22.0625,-100.98201796170542
-[20:01:46] [Server thread/INFO]: fawzi4anubis drowned
-[20:09:15] [Server thread/INFO]: GotchaGR04 issued server command: /tp fawzi4anubis
-[20:09:15] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to fawzi4anubis]
-[20:11:54] [Server thread/INFO]: kroberts11 issued server command: /time set 0
-[20:11:54] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[20:23:18] [Server thread/INFO]: kroberts11 issued server command: /time set 0
-[20:23:18] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[20:23:25] [Server thread/INFO]: GotchaGR04 has made the advancement [Diamonds!]
-[20:26:58] [Server thread/INFO]: GotchaGR04 issued server command: /tp fawzi4anubis
-[20:26:58] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to fawzi4anubis]
-[20:26:58] [Server thread/WARN]: GotchaGR04 moved too quickly! 240.79693084928385,104.0,286.17685909434294
-[20:26:58] [Server thread/WARN]: GotchaGR04 moved too quickly! 240.79693084928385,104.0,286.17685909434294
-[20:26:58] [Server thread/WARN]: GotchaGR04 moved too quickly! 240.79693084928385,104.0,286.17685909434294
-[20:27:05] [Server thread/INFO]: GotchaGR04 has made the advancement [Hot Stuff]
-[20:27:48] [Server thread/INFO]: GotchaGR04 issued server command: /tp katjarroberts
-[20:27:48] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to katjarroberts]
-[20:31:07] [Server thread/INFO]: GotchaGR04 issued server command: /tp fawzi4anubis
-[20:31:07] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to fawzi4anubis]
-[20:31:07] [Server thread/WARN]: GotchaGR04 moved too quickly! 73.93747992305089,-23.5,-91.31386210813616
-[20:31:07] [Server thread/WARN]: GotchaGR04 moved too quickly! 73.93747992305089,-23.5,-91.31386210813616
-[20:31:07] [Server thread/WARN]: GotchaGR04 moved too quickly! 73.93747992305089,-23.5,-91.31386210813616
-[20:31:38] [Server thread/INFO]: GotchaGR04 issued server command: /tp katjarroberts
-[20:31:38] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to katjarroberts]
-[20:31:38] [Server thread/WARN]: GotchaGR04 moved too quickly! -34.05284762474139,18.0,65.58997725659356
-[20:33:48] [Server thread/INFO]: GotchaGR04 has made the advancement [We Need to Go Deeper]
-[20:45:17] [Server thread/INFO]: fawzi4anubis issued server command: /tp anubis4fawzi
-[20:45:17] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to anubis4fawzi]
-[21:05:12] [Server thread/INFO]: katjarroberts lost connection: Disconnected
-[21:05:12] [Server thread/INFO]: katjarroberts left the game
-[21:18:13] [Server thread/INFO]: kroberts11 issued server command: /time set 0
-[21:18:13] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[21:53:11] [Server thread/INFO]: kroberts11 issued server command: /time set 0
-[21:53:11] [Server thread/INFO]: [kroberts11: Set the time to 0]
-[21:53:11] [Async Chat Thread - #12/INFO]: <anubis4fawzi> 164 Copper
-[21:56:36] [Server thread/INFO]: fawzi4anubis drowned
-[21:58:16] [Async Chat Thread - #14/INFO]: <anubis4fawzi> only 82 copper needed now
-[22:07:12] [Server thread/INFO]: anubis4fawzi was shot by Skeleton
-[22:11:18] [Server thread/INFO]: GotchaGR04 was shot by Skeleton
-[22:12:34] [Server thread/INFO]: fawzi4anubis issued server command: /tp anubis4fawzi fawzi4anubis
-[22:12:34] [Server thread/INFO]: [fawzi4anubis: Teleported anubis4fawzi to fawzi4anubis]
-[22:12:55] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
-[22:12:55] [Server thread/INFO]: GotchaGR04 left the game
-[22:13:05] [Server thread/INFO]: kroberts11 lost connection: Disconnected
-[22:13:05] [Server thread/INFO]: kroberts11 left the game
-[22:13:12] [Server thread/INFO]: anubis4fawzi lost connection: Disconnected
-[22:13:12] [Server thread/INFO]: anubis4fawzi left the game
-[22:15:32] [Server thread/INFO]: fawzi4anubis lost connection: Disconnected
-[22:15:32] [Server thread/INFO]: fawzi4anubis left the game
-[22:17:12] [Server thread/INFO]: Stopping server
-[22:17:12] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-beta-5-943
-[22:17:12] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[22:17:12] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[22:17:13] [Server thread/INFO]: [dynmap] Disabled
-[22:17:13] [Server thread/INFO]: Saving players
-[22:17:13] [Server thread/INFO]: Saving worlds
-[22:17:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:17:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[22:17:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[22:17:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[22:17:13] [Server thread/INFO]: [ChunkHolderManager] Saved 6 block chunks, 67 entity chunks, 0 poi chunks in world 'world' in 0.01s
-[22:17:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:17:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[22:17:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[22:17:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[22:17:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[22:17:13] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[22:17:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:17:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[22:17:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[22:17:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[22:17:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[22:17:13] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[22:17:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:17:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[22:17:13] [Server thread/INFO]: Flushing Chunk IO
-[22:17:13] [Server thread/INFO]: Closing Thread Pool
-[22:17:13] [Server thread/INFO]: Closing Server
+[14:22:52] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 4 worker threads, and gen parallelism of 4 threads
+[14:22:52] [Server thread/INFO]: Default game type: SURVIVAL
+[14:22:52] [Server thread/INFO]: Generating keypair
+[14:22:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:22:52] [Server thread/INFO]: Using epoll channel type
+[14:22:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:22:52] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[14:22:52] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-beta-5-943
+[14:22:52] [Server thread/INFO]: [dynmap] version=git-Paper-496 (MC: 1.20.4)
+[14:22:52] [Server thread/INFO]: [dynmap] Mod Support API available
+[14:22:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:22:52] [Server thread/INFO]: Preparing level "world"
+[14:22:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:22:53] [Server thread/INFO]: Time elapsed: 113 ms
+[14:22:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:22:53] [Server thread/INFO]: Time elapsed: 29 ms
+[14:22:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:22:53] [Server thread/INFO]: Time elapsed: 509 ms
+[14:22:53] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-beta-5-943
+[14:22:53] [Server thread/INFO]: [dynmap] Added 20 custom biome mappings
+[14:22:53] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[14:22:53] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[14:22:53] [Server thread/INFO]: [dynmap] Found cwebp at /usr/bin/cwebp and dwebp at /usr/bin/dwebp: webp format enabled
+[14:22:53] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[14:22:54] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[14:22:54] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[14:22:54] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[14:22:54] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[14:22:54] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[14:22:54] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:7777
+[14:22:54] [Server thread/INFO]: [dynmap] version 3.7-beta-5-943 is enabled - core version 3.7-beta-5-943
+[14:22:54] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[14:22:54] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[14:22:54] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[14:22:54] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[14:22:54] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[14:22:54] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[14:22:54] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[14:22:55] [Server thread/INFO]: [dynmap] Enabled
+[14:22:55] [Server thread/INFO]: Running delayed init tasks
+[14:22:55] [Server thread/INFO]: Done (3.053s)! For help, type "help"
+[14:22:55] [Server thread/INFO]: Timings Reset
+[14:35:36] [User Authenticator #0/INFO]: UUID of player anubis4fawzi is df30e9dd-9343-4dee-816b-8aa0ffdb0242
+[14:35:37] [Server thread/INFO]: anubis4fawzi joined the game
+[14:35:37] [Server thread/INFO]: anubis4fawzi[/76.32.208.131:1604] logged in with entity id 164 at ([world]3834.8628665600672, 96.0, -16266.474308313896)
+[14:36:33] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[14:42:29] [User Authenticator #1/INFO]: UUID of player fawzi4anubis is d80a47c7-8241-4747-a4d7-992f43ac8ab9
+[14:42:29] [Server thread/INFO]: fawzi4anubis joined the game
+[14:42:29] [Server thread/INFO]: fawzi4anubis[/76.32.208.131:1586] logged in with entity id 1538 at ([world]3835.915985096518, 96.0, -16268.81393296697)
+[14:51:29] [User Authenticator #2/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[14:51:29] [Server thread/INFO]: kroberts11 joined the game
+[14:51:29] [Server thread/INFO]: kroberts11[/127.0.0.1:39340] logged in with entity id 2887 at ([world]3832.5, 96.0, -16261.5)
+[14:55:59] [User Authenticator #3/INFO]: UUID of player GotchaGR04 is 6f9e79cf-8752-4f2e-b838-ec0d8265f53f
+[14:55:59] [Server thread/INFO]: GotchaGR04 joined the game
+[14:55:59] [Server thread/INFO]: GotchaGR04[/97.113.180.20:54514] logged in with entity id 3437 at ([world]3820.5, 96.0, -16261.5)
+[14:56:03] [Server thread/INFO]: anubis4fawzi has made the advancement [Suit Up]
+[15:19:21] [Server thread/INFO]: fawzi4anubis issued server command: /tp kroberts11
+[15:19:21] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to kroberts11]
+[15:24:02] [Server thread/INFO]: fawzi4anubis was shot by Skeleton
+[15:24:21] [Server thread/INFO]: fawzi4anubis issued server command: /tp kroberts11
+[15:24:21] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to kroberts11]
+[15:25:18] [Server thread/INFO]: fawzi4anubis issued server command: /tp GotchaGR04
+[15:25:18] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to GotchaGR04]
+[15:28:34] [Server thread/INFO]: fawzi4anubis issued server command: /tp k
+[15:28:45] [Server thread/INFO]: fawzi4anubis issued server command: /tp kroberts11
+[15:28:45] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to kroberts11]
+[15:56:36] [Server thread/INFO]: GotchaGR04 was slain by Phantom
+[15:58:01] [Server thread/INFO]: GotchaGR04 was blown up by Creeper
+[16:11:13] [Server thread/INFO]: kroberts11 issued server command: /time set 0
+[16:11:13] [Server thread/INFO]: [kroberts11: Set the time to 0]
+[16:18:19] [Server thread/INFO]: fawzi4anubis has made the advancement [Diamonds!]
+[16:19:51] [Server thread/INFO]: GotchaGR04 issued server command: /tp anubis4fawzi
+[16:19:51] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to anubis4fawzi]
+[16:19:52] [Server thread/WARN]: GotchaGR04 moved too quickly! -5.657409675947292,63.0,902.6294693714208
+[16:26:07] [Server thread/INFO]: anubis4fawzi has made the advancement [Isn't It Iron Pick]
+[16:27:56] [Server thread/INFO]: fawzi4anubis issued server command: /time set 0
+[16:27:56] [Server thread/INFO]: [fawzi4anubis: Set the time to 0]
+[16:35:40] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[16:35:40] [Server thread/INFO]: kroberts11 left the game
+[16:35:44] [User Authenticator #4/INFO]: UUID of player kroberts11 is c844151a-704b-4ffe-8bc6-e194ae2b0fbd
+[16:35:44] [Server thread/INFO]: kroberts11 joined the game
+[16:35:44] [Server thread/INFO]: kroberts11[/127.0.0.1:41800] logged in with entity id 33705 at ([world]3891.764127309844, 78.0, -16360.50777042535)
+[16:35:45] [Server thread/INFO]: fawzi4anubis was blown up by Creeper
+[16:37:39] [Server thread/INFO]: kroberts11 lost connection: Disconnected
+[16:37:39] [Server thread/INFO]: kroberts11 left the game
+[16:38:46] [Server thread/INFO]: fawzi4anubis issued server command: /time set 0
+[16:38:46] [Server thread/INFO]: [fawzi4anubis: Set the time to 0]
+[16:42:02] [Server thread/INFO]: fawzi4anubis issued server command: /tp anubis4fawzi
+[16:42:02] [Server thread/INFO]: [fawzi4anubis: Teleported fawzi4anubis to anubis4fawzi]
+[16:45:41] [Server thread/INFO]: GotchaGR04 has made the advancement [Local Brewery]
+[16:46:01] [Server thread/INFO]: anubis4fawzi has made the advancement [Diamonds!]
+[16:46:23] [Server thread/INFO]: GotchaGR04 issued server command: /tp anubis4fawzi
+[16:46:23] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to anubis4fawzi]
+[16:46:41] [Server thread/INFO]: GotchaGR04 issued server command: /tp fawzi4anubis
+[16:46:41] [Server thread/INFO]: [GotchaGR04: Teleported GotchaGR04 to fawzi4anubis]
+[16:46:41] [Server thread/WARN]: GotchaGR04 moved too quickly! 9.837082462204762,-4.0,10.276362757991592
+[16:51:36] [Server thread/INFO]: fawzi4anubis lost connection: Disconnected
+[16:51:36] [Server thread/INFO]: fawzi4anubis left the game
+[16:51:40] [Server thread/INFO]: anubis4fawzi lost connection: Disconnected
+[16:51:40] [Server thread/INFO]: anubis4fawzi left the game
+[16:52:52] [Server thread/INFO]: GotchaGR04 lost connection: Disconnected
+[16:52:52] [Server thread/INFO]: GotchaGR04 left the game
+[18:54:08] [Server thread/INFO]: Stopping server
+[18:54:08] [Server thread/INFO]: [dynmap] Disabling dynmap v3.7-beta-5-943
+[18:54:08] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[18:54:08] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[18:54:09] [Server thread/INFO]: [dynmap] Disabled
+[18:54:09] [Server thread/INFO]: Saving players
+[18:54:09] [Server thread/INFO]: Saving worlds
+[18:54:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Saved 6 block chunks, 63 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[18:54:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:54:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[18:54:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:54:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[18:54:09] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[18:54:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:54:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:54:09] [Server thread/INFO]: Flushing Chunk IO
+[18:54:09] [Server thread/INFO]: Closing Thread Pool
+[18:54:09] [Server thread/INFO]: Closing Server

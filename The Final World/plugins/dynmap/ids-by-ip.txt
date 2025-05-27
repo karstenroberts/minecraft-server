@@ -14,6 +14,9 @@
 - fawzi4anubis
 '32_219_209_122':
 - katjarroberts
+'76_32_208_131':
+- fawzi4anubis
+- anubis4fawzi
 '172_91_65_102':
 - anubis4fawzi
 - fawzi4anubis
@@ -25,6 +28,8 @@
 - marikaroberts
 '97_113_162_98':
 - katjarroberts
+'97_113_180_20':
+- GotchaGR04
 '98_97_36_108':
 - katjarroberts
 '192_168_0_23':
